@@ -22,7 +22,7 @@
 | [ABIA-RubiksCube](https://github.com/SantiagoRR2004/ABIA-RubiksCube) | 88 |
 | [RAIN-StringTuner](https://github.com/SantiagoRR2004/RAIN-StringTuner) | 65 |
 | [TestCreator](https://github.com/SantiagoRR2004/TestCreator) | 56 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 51 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 52 |
 | [ALF-Chusco](https://github.com/SantiagoRR2004/ALF-Chusco) | 46 |
 | [ABIA-Connect4](https://github.com/SantiagoRR2004/ABIA-Connect4) | 37 |
 | [MD-Combinations](https://github.com/SantiagoRR2004/MD-Combinations) | 23 |
@@ -31,6 +31,4 @@
 | [skills-introduction-to-github](https://github.com/SantiagoRR2004/skills-introduction-to-github) | 3 |
 | [tasador-24](https://github.com/SantiagoRR2004/tasador-24) | 2 |
 | [LucachuTW/CARDS-PokemonPocket-scrapper](https://github.com/LucachuTW/CARDS-PokemonPocket-scrapper) | 1 |
-| [esei-si-dagss/tasador-24](https://github.com/esei-si-dagss/tasador-24) | 0 |
-| [hsahovic/poke-env](https://github.com/hsahovic/poke-env) | 0 |
-| Total | 761 |
+| Total | 762 |
