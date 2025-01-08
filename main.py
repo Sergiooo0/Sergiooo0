@@ -1,7 +1,7 @@
 import requests
 
 AUTHOR = "SantiagoRR2004"
-
+NUMBERCALLSAPI = 0
 
 
 def getCommitCount(repository: str) -> int:
@@ -16,6 +16,7 @@ def getCommitCount(repository: str) -> int:
         - int: The number of commits by the author.
     """
     commitCount = 0
+    global NUMBERCALLSAPI
 
     # GitHub API URL for commits
     url = f"https://api.github.com/repos/{repository}/commits"
@@ -33,6 +34,7 @@ def getCommitCount(repository: str) -> int:
     while continueFetching:
         params["page"] = page
         response = requests.get(url, params=params)
+        NUMBERCALLSAPI += 1
 
         if response.status_code == 200:
             commits = response.json()
@@ -111,6 +113,8 @@ def getRepositoryFromID(id: int) -> str:
     url = f"https://api.github.com/repositories/{id}"
 
     response = requests.get(url)
+    global NUMBERCALLSAPI
+    NUMBERCALLSAPI += 1
 
     if response.status_code == 200:
         repository = response.json()
