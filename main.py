@@ -3,6 +3,7 @@ import requests
 AUTHOR = "SantiagoRR2004"
 
 
+
 def getCommitCount(repository: str) -> int:
     """
     Get the commit count for the specified author in the repository.
@@ -48,3 +49,71 @@ def getCommitCount(repository: str) -> int:
             continueFetching = False
 
     return commitCount
+
+
+def getListOfRepositories() -> list:
+    """
+    Get the list of repositories from the user.
+
+    It will return the in the format "owner/repo".
+
+    Args:
+        - None
+
+    Returns:
+        - list: The list of repositories.
+    """
+    repositories = set()
+
+    repositories.update(set(getStoredRepositories()))
+
+    return list(repositories)
+
+
+def getStoredRepositories() -> list:
+    """
+    Get the list of stored repositories.
+
+    The stored repositories are stored as their ids
+    so they are converted to the "owner/repo" format.
+
+    Args:
+        - None
+
+    Returns:
+        - list: The list of stored repositories.
+    """
+    ids = [
+        707606529,  # https://github.com/LucachuTW/IS-Grupo301
+        886898130,  # https://github.com/LucachuTW/CARDS-PokemonPocket-scrapper
+        543282129,  # https://github.com/santipvz/PRO_I-Chatbot
+    ]
+
+    repositories = []
+
+    for id in ids:
+        repository = getRepositoryFromID(id)
+        repositories.append(repository)
+
+    return repositories
+
+
+def getRepositoryFromID(id: int) -> str:
+    """
+    Get the repository name from the ID.
+
+    Args:
+        - id (int): The repository ID.
+
+    Returns:
+        - str: The repository name.
+    """
+    url = f"https://api.github.com/repositories/{id}"
+
+    response = requests.get(url)
+
+    if response.status_code == 200:
+        repository = response.json()
+        return repository["full_name"]
+
+
