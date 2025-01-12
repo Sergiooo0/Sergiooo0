@@ -1,7 +1,12 @@
 import requests
+from bs4 import BeautifulSoup
+from urllib.parse import urljoin
+
 
 AUTHOR = "SantiagoRR2004"
 NUMBERCALLSAPI = 0
+BASE = "https://github.com"
+
 
 
 def getCommitCount(repository: str) -> int:
@@ -69,6 +74,8 @@ def getListOfRepositories() -> list:
 
     repositories.update(set(getStoredRepositories()))
 
+    repositories.update(set(getOwnedRepositories()))
+
     return list(repositories)
 
 
@@ -119,5 +126,48 @@ def getRepositoryFromID(id: int) -> str:
     if response.status_code == 200:
         repository = response.json()
         return repository["full_name"]
+
+
+def getOwnedRepositories() -> list:
+    """
+    Get my repositories
+
+    It will return them in the format:
+        - "owner/repo"
+
+    Args:
+        - None
+
+    Returns:
+        - list: The list of URLs for the repositories.
+    """
+    url = f"{urljoin(BASE,AUTHOR)}?tab=repositories"
+
+    repositories = []
+
+    while url:
+        response = requests.get(url)
+
+        soup = BeautifulSoup(response.text, "html.parser")
+
+        # Get the repositories
+        repoBlocks = soup.find_all("h3", class_="wb-break-all")
+
+        # Extract the url of the repositories
+        for repo in repoBlocks:
+            if repo.find("a"):
+                repositories.append(urljoin(f"{AUTHOR}/", repo.find("a").text))
+
+        # Find the 'Next' button link to go to the next page of repositories
+        next_page = soup.find("a", string="Next")
+
+        if next_page:
+            # If there is a 'Next' link, update the URL to the next page
+            url = urljoin(BASE, next_page["href"])
+        else:
+            # No more pages, break the loop
+            url = None
+
+    return repositories
 
 
