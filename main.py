@@ -9,7 +9,6 @@ NUMBERCALLSNORMAL = 0
 BASE = "https://github.com"
 
 
-
 def getCommitCount(repository: str) -> int:
     """
     Get the commit count for the specified author in the repository.
@@ -174,3 +173,22 @@ def getOwnedRepositories() -> list:
     return repositories
 
 
+def getRepositoriesWithCommits() -> dict:
+    """
+    Get the repositories with the number of commits by the author.
+
+    Args:
+        - None
+
+    Returns:
+        - dict: The repositories with the number of commits.
+    """
+    repositories = getListOfRepositories()
+
+    repositoriesWithCommits = {}
+
+    for repository in repositories:
+        commitCount = getCommitCount(repository)
+        repositoriesWithCommits[urljoin(BASE, repository)] = commitCount
+
+    return repositoriesWithCommits
