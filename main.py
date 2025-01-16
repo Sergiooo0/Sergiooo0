@@ -5,6 +5,7 @@ from urllib.parse import urljoin
 
 AUTHOR = "SantiagoRR2004"
 NUMBERCALLSAPI = 0
+NUMBERCALLSNORMAL = 0
 BASE = "https://github.com"
 
 
@@ -141,12 +142,14 @@ def getOwnedRepositories() -> list:
     Returns:
         - list: The list of URLs for the repositories.
     """
+    global NUMBERCALLSNORMAL
     url = f"{urljoin(BASE,AUTHOR)}?tab=repositories"
 
     repositories = []
 
     while url:
         response = requests.get(url)
+        NUMBERCALLSNORMAL += 1
 
         soup = BeautifulSoup(response.text, "html.parser")
 
