@@ -5,6 +5,9 @@ on:
   schedule:
     - cron: "0 0 * * *" # Runs at midnight (12:00 AM) every day
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -23,3 +26,17 @@ jobs:
 
       - name: Run main.py
         run: python main.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          if ! git diff --quiet; then
+            git add .
+            git commit -m "chore: Update README.md [GitHub Action]"
+            git push
+          else
+            echo "No changes to push."
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
