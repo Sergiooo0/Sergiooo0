@@ -1,9 +1,9 @@
 name: Run main.py
 
 on:
-  push:
-  pull_request:
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *" # Runs at midnight (12:00 AM) every day
 
 jobs:
   build:
