@@ -6,7 +6,7 @@ from urllib.parse import urljoin
 AUTHOR = "SantiagoRR2004"
 NUMBERCALLSAPI = 0
 NUMBERCALLSNORMAL = 0
-BASE = "https://github.com"
+BASE = "https://github.com/"
 
 
 def getCommitCount(repository: str) -> int:
@@ -75,6 +75,9 @@ def getListOfRepositories() -> list:
     repositories.update(set(getStoredRepositories()))
 
     repositories.update(set(getOwnedRepositories()))
+
+    # We eliminate the None if it exists
+    repositories.discard(None)
 
     return list(repositories)
 
