@@ -32,7 +32,7 @@ if __name__ == "__main__":
     print(f"Number of API calls: {githubInfo.NUMBERCALLSAPI}")
     print(f"Number of normal calls: {githubInfo.NUMBERCALLSNORMAL}")
 
-    """
+    r"""
     I wanted to put the repository and the commits in the same line.
     I was only able to do this by using a markdown table.
     
@@ -55,6 +55,10 @@ if __name__ == "__main__":
 
     for repository, commitCount in repositories.items():
         repoName = repository[len(githubInfo.BASE) :]
+
+        if repoName.startswith(githubInfo.AUTHOR):
+            repoName = repoName[len(githubInfo.AUTHOR) + 1 :]
+
         markDownTable += f"| [{repoName}]({repository}) | {commitCount} |\n"
 
     # Now we add the total number of commits
