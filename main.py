@@ -42,6 +42,9 @@ if __name__ == "__main__":
         repoName = repository[len(githubInfo.BASE) :]
         markDownTable += f"| [{repoName}]({repository}) | {commitCount} |\n"
 
+    # Now we add the total number of commits
+    markDownTable += f"| Total | {sum(repositories.values())} |\n"
+
     # We add the table
     markDown += markDownTable
 
