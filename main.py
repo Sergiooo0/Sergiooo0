@@ -34,7 +34,7 @@ if __name__ == "__main__":
 
     # Now we make a markdown table with the repositories and the commit count
     markDownTable = """
-| <img width="1000"><br>Repository<br><img width="1000" height="1"> | <img width="1000" height="1"><br>Commits<br><img width="1000" height="1">  |
+| <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
 |:----------|----------:|
 """
 
