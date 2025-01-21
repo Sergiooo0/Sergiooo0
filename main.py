@@ -32,6 +32,21 @@ if __name__ == "__main__":
     print(f"Number of API calls: {githubInfo.NUMBERCALLSAPI}")
     print(f"Number of normal calls: {githubInfo.NUMBERCALLSNORMAL}")
 
+    """
+    I wanted to put the repository and the commits in the same line.
+    I was only able to do this by using a markdown table.
+    
+    This are other ways I tried to do it:
+    
+    <p align="left">L</p> <p align="right">R</p>
+
+    $$
+    \begin{array}{l r}
+    \text{L} \hspace{3cm} \text{R}
+    \end{array}
+    $$
+    """
+
     # Now we make a markdown table with the repositories and the commit count
     markDownTable = """
 | <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
