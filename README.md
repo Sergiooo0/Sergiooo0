@@ -14,13 +14,14 @@
   </a>
 </p>
 
-| <img width="1000"><br>Repository<br><img width="1000" height="1"> | <img width="1000" height="1"><br>Commits<br><img width="1000" height="1">  |
+| <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
 |:----------|----------:|
 | [LucachuTW/IS-Grupo301](https://github.com/LucachuTW/IS-Grupo301) | 181 |
 | [santipvz/PRO_I-Chatbot](https://github.com/santipvz/PRO_I-Chatbot) | 91 |
-| [SantiagoRR2004/AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 66 |
-| [SantiagoRR2004/SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 22 |
-| [SantiagoRR2004/skills-introduction-to-github](https://github.com/SantiagoRR2004/skills-introduction-to-github) | 3 |
-| [SantiagoRR2004/PythonTemplate](https://github.com/SantiagoRR2004/PythonTemplate) | 2 |
-| [SantiagoRR2004/tasador-24](https://github.com/SantiagoRR2004/tasador-24) | 2 |
+| [AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 88 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 27 |
+| [PythonTemplate](https://github.com/SantiagoRR2004/PythonTemplate) | 3 |
+| [skills-introduction-to-github](https://github.com/SantiagoRR2004/skills-introduction-to-github) | 3 |
+| [tasador-24](https://github.com/SantiagoRR2004/tasador-24) | 2 |
 | [LucachuTW/CARDS-PokemonPocket-scrapper](https://github.com/LucachuTW/CARDS-PokemonPocket-scrapper) | 1 |
+| Total | 396 |
