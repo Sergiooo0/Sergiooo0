@@ -12,7 +12,7 @@ query = """
 {
   user(login: "SantiagoRR2004") {
     login
-    repositoriesContributedTo(first: 100, contributionTypes: [COMMIT, ISSUE, PULL_REQUEST, REPOSITORY]) {
+    repositoriesContributedTo(first: 100, after: {cursor}, contributionTypes: [COMMIT, ISSUE, PULL_REQUEST, REPOSITORY]) {
       totalCount
       nodes {
         nameWithOwner
@@ -25,14 +25,6 @@ query = """
   }
 }
 """
-
-# query = """
-# {
-#   viewer {
-#     login
-#   }
-# }
-# """
 
 
 def run_query(query, token):
@@ -47,13 +39,33 @@ def run_query(query, token):
         )
 
 
-try:
+cursor = "null"
+all_repos = []
+
+while True:
+
+
+    query = query.replace("{cursor}", f'"{cursor}"' if cursor != "null" else "null")
     result = run_query(query, TOKEN)
-    print(result)
-    # Pretty-print the result
-    print("Repositories Contributed To:")
-    for repo in result["data"]["viewer"]["repositoriesContributedTo"]["nodes"]:
-        print(repo["nameWithOwner"])
-    # print("Authenticated as:", result["data"]["viewer"]["login"])
-except Exception as e:
-    print(e)
+    data = result['data']['user']['repositoriesContributedTo']
+    all_repos.extend(data['nodes'])
+    
+    if not data['pageInfo']['hasNextPage']:
+        break
+    
+    cursor = data['pageInfo']['endCursor']
+
+
+    # try:
+    #     result = run_query(query, TOKEN)
+    #     print(result)
+    #     # Pretty-print the result
+    #     print("Repositories Contributed To:")
+    #     for repo in result["data"]["user"]["repositoriesContributedTo"]["nodes"]:
+    #         print(repo["nameWithOwner"])
+    #     # print("Authenticated as:", result["data"]["viewer"]["login"])
+    # except Exception as e:
+    #     print(e)
+
+
+print(all_repos)
