@@ -40,6 +40,7 @@ def run_query(query, token):
 
 try:
     result = run_query(query, TOKEN)
+    print(result)
     # Pretty-print the result
     print("Repositories Contributed To:")
     for repo in result["data"]["viewer"]["repositoriesContributedTo"]["nodes"]:
