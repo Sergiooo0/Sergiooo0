@@ -26,6 +26,8 @@ jobs:
 
       - name: Run main.py
         run: python main.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push changes
         run: |
