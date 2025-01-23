@@ -31,6 +31,7 @@ if __name__ == "__main__":
 
     print(f"Number of API calls: {githubInfo.NUMBERCALLSAPI}")
     print(f"Number of normal calls: {githubInfo.NUMBERCALLSNORMAL}")
+    print(f"Number of GraphQL calls: {githubInfo.NUMBERCALLSGRAPHQL}")
 
     r"""
     I wanted to put the repository and the commits in the same line.
