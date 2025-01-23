@@ -10,7 +10,7 @@ TOKEN = os.getenv("GITHUB_TOKEN")
 # GraphQL query
 query = """
 {
-  user(login: "target-username") {
+  user(login: "SantiagoRR2004") {
     login
     repositoriesContributedTo(first: 100, contributionTypes: [COMMIT, ISSUE, PULL_REQUEST, REPOSITORY]) {
       totalCount
