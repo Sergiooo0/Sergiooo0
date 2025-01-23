@@ -25,6 +25,14 @@ query = """
 }
 """
 
+query = """
+{
+  viewer {
+    login
+  }
+}
+"""
+
 
 def run_query(query, token):
     headers = {"Authorization": f"Bearer {token}"}
@@ -42,8 +50,9 @@ try:
     result = run_query(query, TOKEN)
     print(result)
     # Pretty-print the result
-    print("Repositories Contributed To:")
-    for repo in result["data"]["viewer"]["repositoriesContributedTo"]["nodes"]:
-        print(repo["nameWithOwner"])
+    # print("Repositories Contributed To:")
+    # for repo in result["data"]["viewer"]["repositoriesContributedTo"]["nodes"]:
+    #     print(repo["nameWithOwner"])
+    print("Authenticated as:", result["data"]["viewer"]["login"])
 except Exception as e:
     print(e)
