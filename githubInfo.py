@@ -264,7 +264,7 @@ def getRepositoriesWithGraphQL() -> list:
     # GraphQL query
     queryTemplate = """
     {
-    user(login: {AUTHOR}) {
+    user(login: "{login}") {
         login
         repositoriesContributedTo(first: 100, after: {cursor}, contributionTypes: [COMMIT, ISSUE, PULL_REQUEST, REPOSITORY]) {
         totalCount
@@ -279,6 +279,8 @@ def getRepositoriesWithGraphQL() -> list:
     }
     }
     """
+
+    queryTemplate = queryTemplate.replace("{login}", AUTHOR)
 
     cursor = "null"
     repositories = []
