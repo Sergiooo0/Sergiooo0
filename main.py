@@ -10,7 +10,8 @@ TOKEN = os.getenv("GITHUB_TOKEN")
 # GraphQL query
 query = """
 {
-  viewer {
+  user(login: "target-username") {
+    login
     repositoriesContributedTo(first: 100, contributionTypes: [COMMIT, ISSUE, PULL_REQUEST, REPOSITORY]) {
       totalCount
       nodes {
@@ -25,13 +26,13 @@ query = """
 }
 """
 
-query = """
-{
-  viewer {
-    login
-  }
-}
-"""
+# query = """
+# {
+#   viewer {
+#     login
+#   }
+# }
+# """
 
 
 def run_query(query, token):
@@ -50,9 +51,9 @@ try:
     result = run_query(query, TOKEN)
     print(result)
     # Pretty-print the result
-    # print("Repositories Contributed To:")
-    # for repo in result["data"]["viewer"]["repositoriesContributedTo"]["nodes"]:
-    #     print(repo["nameWithOwner"])
-    print("Authenticated as:", result["data"]["viewer"]["login"])
+    print("Repositories Contributed To:")
+    for repo in result["data"]["viewer"]["repositoriesContributedTo"]["nodes"]:
+        print(repo["nameWithOwner"])
+    # print("Authenticated as:", result["data"]["viewer"]["login"])
 except Exception as e:
     print(e)
