@@ -1,12 +1,16 @@
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
+import os
 
 
 AUTHOR = "SantiagoRR2004"
 NUMBERCALLSAPI = 0
 NUMBERCALLSNORMAL = 0
+NUMBERCALLSGRAPHQL = 0
 BASE = "https://github.com/"
+GITHUBGRAPHQLURL = "https://api.github.com/graphql"
+TOKEN = os.getenv("GITHUB_TOKEN")
 
 
 def getCommitCount(repository: str) -> int:
@@ -75,6 +79,8 @@ def getListOfRepositories() -> list:
     repositories.update(set(getStoredRepositories()))
 
     repositories.update(set(getOwnedRepositories()))
+
+    repositories.update(set(getRepositoriesWithGraphQL()))
 
     # We eliminate the None if it exists
     repositories.discard(None)
@@ -195,3 +201,101 @@ def getRepositoriesWithCommits() -> dict:
         repositoriesWithCommits[urljoin(BASE, repository)] = commitCount
 
     return repositoriesWithCommits
+
+
+def runQuery(query: str, token: str) -> dict:
+    """
+    Run a query using the GitHub GraphQL API.
+
+    Args:
+        - query (str): The query to run.
+        - token (str): The GitHub token.
+
+    Returns:
+        - dict: The response from the API.
+    """
+    global NUMBERCALLSGRAPHQL
+    headers = {"Authorization": f"Bearer {token}"}
+    response = requests.post(GITHUBGRAPHQLURL, json={"query": query}, headers=headers)
+    NUMBERCALLSGRAPHQL += 1
+
+    if response.status_code == 200:
+        return response.json()
+    else:
+        raise Exception(
+            f"Query failed with status code {response.status_code}: {response.text}"
+        )
+
+
+def getRepositoriesWithGraphQL() -> list:
+    """
+    Get the repositories by the author using GraphQL.
+    It doesn't return the repositories that he owns.
+
+    Example:
+        {
+            "data": {
+                "user": {
+                    "login": "SantiagoRR2004",
+                    "repositoriesContributedTo": {
+                        "totalCount": 5,
+                        "nodes": [
+                            {"nameWithOwner": "hsahovic/poke-env"},
+                            {"nameWithOwner": "santipvz/PRO_I-Chatbot"},
+                            {"nameWithOwner": "LucachuTW/IS-Grupo301"},
+                            {"nameWithOwner": "esei-si-dagss/tasador-24"},
+                            {"nameWithOwner": "LucachuTW/CARDS-PokemonPocket-scrapper"},
+                        ],
+                        "pageInfo": {
+                            "endCursor": "Y3Vyc29yOnYyOpHONNz90g==",
+                            "hasNextPage": False,
+                        },
+                    },
+                }
+            }
+        }
+
+    Args:
+        - None
+
+    Returns:
+        - list: The list of repositories.
+    """
+    # GraphQL query
+    queryTemplate = """
+    {
+    user(login: {AUTHOR}) {
+        login
+        repositoriesContributedTo(first: 100, after: {cursor}, contributionTypes: [COMMIT, ISSUE, PULL_REQUEST, REPOSITORY]) {
+        totalCount
+        nodes {
+            nameWithOwner
+        }
+        pageInfo {
+            endCursor
+            hasNextPage
+        }
+        }
+    }
+    }
+    """
+
+    cursor = "null"
+    repositories = []
+
+    while True:
+        query = queryTemplate.replace(
+            "{cursor}", f'"{cursor}"' if cursor != "null" else "null"
+        )
+        result = runQuery(query, TOKEN)
+        data = result["data"]["user"]["repositoriesContributedTo"]
+
+        for repo in data["nodes"]:
+            repositories.append(repo["nameWithOwner"])
+
+        if not data["pageInfo"]["hasNextPage"]:
+            break
+
+        cursor = data["pageInfo"]["endCursor"]
+
+    return repositories
