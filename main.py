@@ -1,71 +1,72 @@
-import os
-import requests
+import githubInfo
 
-# GitHub API endpoint for GraphQL
-GITHUB_GRAPHQL_URL = "https://api.github.com/graphql"
+markDown = f"""## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"><b> Github Stats </b>
 
-# Your GitHub token
-TOKEN = os.getenv("GITHUB_TOKEN")
-
-# GraphQL query
-query = """
-{
-  user(login: "SantiagoRR2004") {
-    login
-    repositoriesContributedTo(first: 100, after: {cursor}, contributionTypes: [COMMIT, ISSUE, PULL_REQUEST, REPOSITORY]) {
-      totalCount
-      nodes {
-        nameWithOwner
-      }
-      pageInfo {
-        endCursor
-        hasNextPage
-      }
-    }
-  }
-}
+<p align="center">
+  <a href="https://github.com/{githubInfo.AUTHOR}">
+    <img
+      width="600px"
+      src="https://github-readme-stats-liard-nu-21.vercel.app/api?username={githubInfo.AUTHOR}&show_icons=true&hide_title=true&show=reviews,prs_merged&include_all_commits=true"
+      alt="GitHub Stats"
+      />
+    <img
+      width="600px"
+      src="https://github-readme-stats-liard-nu-21.vercel.app/api/top-langs/?username={githubInfo.AUTHOR}&show_icons=true"
+      />
+  </a>
+</p>
 """
 
 
-def run_query(query, token):
-    headers = {"Authorization": f"Bearer {token}"}
-    response = requests.post(GITHUB_GRAPHQL_URL, json={"query": query}, headers=headers)
+if __name__ == "__main__":
+    repositories = githubInfo.getRepositoriesWithCommits()
 
-    if response.status_code == 200:
-        return response.json()
-    else:
-        raise Exception(
-            f"Query failed with status code {response.status_code}: {response.text}"
+    # We order the repositories by the number of commits in descending order
+    # And in case of a tie, we order them alphabetically
+    repositories = dict(
+        sorted(
+            repositories.items(), key=lambda item: (-item[1], item[0]), reverse=False
         )
+    )
 
+    print(f"Number of API calls: {githubInfo.NUMBERCALLSAPI}")
+    print(f"Number of normal calls: {githubInfo.NUMBERCALLSNORMAL}")
 
-cursor = "null"
-all_repos = []
-
-while True:
-
-
-    query = query.replace("{cursor}", f'"{cursor}"' if cursor != "null" else "null")
-    result = run_query(query, TOKEN)
-    data = result['data']['user']['repositoriesContributedTo']
-    all_repos.extend(data['nodes'])
+    r"""
+    I wanted to put the repository and the commits in the same line.
+    I was only able to do this by using a markdown table.
     
-    if not data['pageInfo']['hasNextPage']:
-        break
+    This are other ways I tried to do it:
     
-    cursor = data['pageInfo']['endCursor']
+    <p align="left">L</p> <p align="right">R</p>
 
+    $$
+    \begin{array}{l r}
+    \text{L} \hspace{3cm} \text{R}
+    \end{array}
+    $$
+    """
 
-    # try:
-    #     result = run_query(query, TOKEN)
-    #     print(result)
-    #     # Pretty-print the result
-    #     print("Repositories Contributed To:")
-    #     for repo in result["data"]["user"]["repositoriesContributedTo"]["nodes"]:
-    #         print(repo["nameWithOwner"])
-    #     # print("Authenticated as:", result["data"]["viewer"]["login"])
-    # except Exception as e:
-    #     print(e)
+    # Now we make a markdown table with the repositories and the commit count
+    markDownTable = """
+| <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
+|:----------|----------:|
+"""
 
+    for repository, commitCount in repositories.items():
+        repoName = repository[len(githubInfo.BASE) :]
 
-print(all_repos)
+        if repoName.startswith(githubInfo.AUTHOR):
+            repoName = repoName[len(githubInfo.AUTHOR) + 1 :]
+
+        markDownTable += f"| [{repoName}]({repository}) | {commitCount} |\n"
+
+    # Now we add the total number of commits
+    markDownTable += f"| Total | {sum(repositories.values())} |\n"
+
+    # We add the table
+    markDown += markDownTable
+
+    # Now we will write the markdown to README.md
+    with open("README.md", "w") as file:
+        file.write(markDown)
