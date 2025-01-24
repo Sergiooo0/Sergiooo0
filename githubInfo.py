@@ -222,10 +222,9 @@ def runQuery(query: str, token: str) -> dict:
     if response.status_code == 200:
         return response.json()
     else:
-        raise Exception(
-            f"Query failed with status code {response.status_code}: {response.text}"
-        )
-
+        print(f"Query failed with status code {response.status_code}: {response.text}")
+        
+    return None
 
 def getRepositoriesWithGraphQL() -> list:
     """
@@ -290,14 +289,17 @@ def getRepositoriesWithGraphQL() -> list:
             "{cursor}", f'"{cursor}"' if cursor != "null" else "null"
         )
         result = runQuery(query, TOKEN)
-        data = result["data"]["user"]["repositoriesContributedTo"]
+        if result:
+            data = result["data"]["user"]["repositoriesContributedTo"]
 
-        for repo in data["nodes"]:
-            repositories.append(repo["nameWithOwner"])
+            for repo in data["nodes"]:
+                repositories.append(repo["nameWithOwner"])
 
-        if not data["pageInfo"]["hasNextPage"]:
+            if not data["pageInfo"]["hasNextPage"]:
+                break
+
+            cursor = data["pageInfo"]["endCursor"]
+        else:
             break
-
-        cursor = data["pageInfo"]["endCursor"]
 
     return repositories
