@@ -20,7 +20,8 @@
 | [santipvz/PRO_I-Chatbot](https://github.com/santipvz/PRO_I-Chatbot) | 91 |
 | [AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 88 |
 | [ABIA-RubiksCube](https://github.com/SantiagoRR2004/ABIA-RubiksCube) | 87 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 46 |
+| [RAIN-StringTuner](https://github.com/SantiagoRR2004/RAIN-StringTuner) | 65 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 47 |
 | [ABIA-Connect4](https://github.com/SantiagoRR2004/ABIA-Connect4) | 36 |
 | [PythonTemplate](https://github.com/SantiagoRR2004/PythonTemplate) | 3 |
 | [skills-introduction-to-github](https://github.com/SantiagoRR2004/skills-introduction-to-github) | 3 |
@@ -28,4 +29,4 @@
 | [LucachuTW/CARDS-PokemonPocket-scrapper](https://github.com/LucachuTW/CARDS-PokemonPocket-scrapper) | 1 |
 | [esei-si-dagss/tasador-24](https://github.com/esei-si-dagss/tasador-24) | 0 |
 | [hsahovic/poke-env](https://github.com/hsahovic/poke-env) | 0 |
-| Total | 538 |
+| Total | 604 |
