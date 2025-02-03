@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 import os
+import tqdm
 
 
 AUTHOR = "SantiagoRR2004"
@@ -196,7 +197,7 @@ def getRepositoriesWithCommits() -> dict:
 
     repositoriesWithCommits = {}
 
-    for repository in repositories:
+    for repository in tqdm.tqdm(repositories, total=len(repositories), desc="Commit count"):
         commitCount = getCommitCount(repository)
         repositoriesWithCommits[urljoin(BASE, repository)] = commitCount
 
@@ -223,7 +224,7 @@ def runQuery(query: str, token: str) -> dict:
         return response.json()
     else:
         print(f"Query failed with status code {response.status_code}: {response.text}")
-        
+
     return None
 
 def getRepositoriesWithGraphQL() -> list:
