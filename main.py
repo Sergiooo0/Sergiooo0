@@ -11,7 +11,7 @@ markDown = f"""## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/gip
       />
     <img
       width="600px"
-      src="https://github-readme-stats-liard-nu-21.vercel.app/api/top-langs/?username={githubInfo.AUTHOR}&show_icons=true"
+      src="https://github-readme-stats-liard-nu-21.vercel.app/api/top-langs/?username={githubInfo.AUTHOR}&langs_count=20"
       />
   </a>
 </p>
