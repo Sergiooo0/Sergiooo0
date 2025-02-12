@@ -20,7 +20,7 @@
 | [AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 94 |
 | [santipvz/PRO_I-Chatbot](https://github.com/santipvz/PRO_I-Chatbot) | 91 |
 | [ABIA-RubiksCube](https://github.com/SantiagoRR2004/ABIA-RubiksCube) | 88 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 80 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 81 |
 | [RAIN-StringTuner](https://github.com/SantiagoRR2004/RAIN-StringTuner) | 65 |
 | [GRIA-TestCreator](https://github.com/SantiagoRR2004/GRIA-TestCreator) | 56 |
 | [ALF-Chusco](https://github.com/SantiagoRR2004/ALF-Chusco) | 46 |
@@ -37,4 +37,4 @@
 | [LucachuTW/CARDS-PokemonPocket-scrapper](https://github.com/LucachuTW/CARDS-PokemonPocket-scrapper) | 1 |
 | [esei-si-dagss/tasador-24](https://github.com/esei-si-dagss/tasador-24) | 0 |
 | [hsahovic/poke-env](https://github.com/hsahovic/poke-env) | 0 |
-| Total | 844 |
+| Total | 845 |
