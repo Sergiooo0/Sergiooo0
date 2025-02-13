@@ -232,6 +232,9 @@ def getRepositoriesWithGraphQL() -> list:
     Get the repositories by the author using GraphQL.
     It doesn't return the repositories that he owns.
 
+    The query is based on the following StackOverflow answer:
+    https://stackoverflow.com/questions/20714593/github-api-repositories-contributed-to
+
     Example:
         {
             "data": {
