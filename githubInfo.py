@@ -4,14 +4,18 @@ from urllib.parse import urljoin
 import os
 import tqdm
 
+TOKEN = os.getenv("GITHUB_TOKEN")
 
-AUTHOR = "SantiagoRR2004"
 NUMBERCALLSAPI = 0
 NUMBERCALLSNORMAL = 0
 NUMBERCALLSGRAPHQL = 0
 BASE = "https://github.com/"
 GITHUBGRAPHQLURL = "https://api.github.com/graphql"
-TOKEN = os.getenv("GITHUB_TOKEN")
+
+if os.getenv("REPO_OWNER"):
+    AUTHOR = os.getenv("REPO_OWNER")
+else:
+    AUTHOR = "SantiagoRR2004"
 
 
 def getCommitCount(repository: str) -> int:

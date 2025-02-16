@@ -28,6 +28,7 @@ jobs:
         run: python main.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO_OWNER: ${{ github.repository_owner }}
 
       - name: Commit and push changes
         run: |
