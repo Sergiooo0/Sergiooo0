@@ -20,7 +20,7 @@
 | [AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 94 |
 | [santipvz/PRO_I-Chatbot](https://github.com/santipvz/PRO_I-Chatbot) | 91 |
 | [ABIA-RubiksCube](https://github.com/SantiagoRR2004/ABIA-RubiksCube) | 88 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 86 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 88 |
 | [RAIN-StringTuner](https://github.com/SantiagoRR2004/RAIN-StringTuner) | 65 |
 | [GRIA-TestCreator](https://github.com/SantiagoRR2004/GRIA-TestCreator) | 58 |
 | [ALF-Chusco](https://github.com/SantiagoRR2004/ALF-Chusco) | 46 |
@@ -28,10 +28,10 @@
 | [ABIA-Connect4](https://github.com/SantiagoRR2004/ABIA-Connect4) | 37 |
 | [MD-Combinations](https://github.com/SantiagoRR2004/MD-Combinations) | 23 |
 | [RCR-RBS](https://github.com/SantiagoRR2004/RCR-RBS) | 20 |
+| [PIC-java-components](https://github.com/SantiagoRR2004/PIC-java-components) | 18 |
+| [PIC-book-exercise-docs](https://github.com/SantiagoRR2004/PIC-book-exercise-docs) | 17 |
 | [PIC-python-components](https://github.com/SantiagoRR2004/PIC-python-components) | 13 |
 | [TIC_II-GameAndWatch](https://github.com/SantiagoRR2004/TIC_II-GameAndWatch) | 5 |
-| [PIC-book-exercise-docs](https://github.com/SantiagoRR2004/PIC-book-exercise-docs) | 4 |
-| [PIC-java-components](https://github.com/SantiagoRR2004/PIC-java-components) | 4 |
 | [CARDS-PokemonPocket-scrapper](https://github.com/SantiagoRR2004/CARDS-PokemonPocket-scrapper) | 3 |
 | [PythonTemplate](https://github.com/SantiagoRR2004/PythonTemplate) | 3 |
 | [skills-introduction-to-github](https://github.com/SantiagoRR2004/skills-introduction-to-github) | 3 |
@@ -39,4 +39,4 @@
 | [LucachuTW/CARDS-PokemonPocket-scrapper](https://github.com/LucachuTW/CARDS-PokemonPocket-scrapper) | 1 |
 | [esei-si-dagss/tasador-24](https://github.com/esei-si-dagss/tasador-24) | 0 |
 | [hsahovic/poke-env](https://github.com/hsahovic/poke-env) | 0 |
-| Total | 868 |
+| Total | 897 |
