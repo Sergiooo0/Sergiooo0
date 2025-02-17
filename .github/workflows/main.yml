@@ -32,8 +32,8 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --local user.email "114857078+SantiagoRR2004@users.noreply.github.com"
-          git config --local user.name "SantiagoRR2004"
+          git config --local user.email "${{ github.repository_owner_id }}+${{ github.repository_owner }}@users.noreply.github.com"
+          git config --local user.name "${{ github.repository_owner }}"
           if ! git diff --quiet; then
             git add .
             git commit -m "chore: Update README.md [GitHub Action]"
