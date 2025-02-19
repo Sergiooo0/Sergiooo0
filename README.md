@@ -18,14 +18,15 @@
 |:----------|----------:|
 | [LucachuTW/IS-Grupo301](https://github.com/LucachuTW/IS-Grupo301) | 181 |
 | [AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 94 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 91 |
 | [santipvz/PRO_I-Chatbot](https://github.com/santipvz/PRO_I-Chatbot) | 91 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 90 |
 | [ABIA-RubiksCube](https://github.com/SantiagoRR2004/ABIA-RubiksCube) | 88 |
 | [RAIN-StringTuner](https://github.com/SantiagoRR2004/RAIN-StringTuner) | 65 |
 | [GRIA-TestCreator](https://github.com/SantiagoRR2004/GRIA-TestCreator) | 58 |
 | [SIEX-CBR](https://github.com/SantiagoRR2004/SIEX-CBR) | 47 |
 | [ALF-Chusco](https://github.com/SantiagoRR2004/ALF-Chusco) | 46 |
 | [APS-WiFiSniffer](https://github.com/SantiagoRR2004/APS-WiFiSniffer) | 41 |
+| [SIEX-RAG](https://github.com/SantiagoRR2004/SIEX-RAG) | 41 |
 | [ABIA-Connect4](https://github.com/SantiagoRR2004/ABIA-Connect4) | 37 |
 | [Sergiooo0/SIEX-CLIPS](https://github.com/Sergiooo0/SIEX-CLIPS) | 28 |
 | [MD-Combinations](https://github.com/SantiagoRR2004/MD-Combinations) | 23 |
@@ -41,4 +42,4 @@
 | [LucachuTW/CARDS-PokemonPocket-scrapper](https://github.com/LucachuTW/CARDS-PokemonPocket-scrapper) | 1 |
 | [esei-si-dagss/tasador-24](https://github.com/esei-si-dagss/tasador-24) | 0 |
 | [hsahovic/poke-env](https://github.com/hsahovic/poke-env) | 0 |
-| Total | 974 |
+| Total | 1016 |
