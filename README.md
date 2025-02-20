@@ -18,11 +18,12 @@
 |:----------|----------:|
 | [LucachuTW/IS-Grupo301](https://github.com/LucachuTW/IS-Grupo301) | 181 |
 | [AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 94 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 91 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 92 |
 | [santipvz/PRO_I-Chatbot](https://github.com/santipvz/PRO_I-Chatbot) | 91 |
 | [ABIA-RubiksCube](https://github.com/SantiagoRR2004/ABIA-RubiksCube) | 88 |
+| [santipvz/IC-Threads](https://github.com/santipvz/IC-Threads) | 69 |
 | [RAIN-StringTuner](https://github.com/SantiagoRR2004/RAIN-StringTuner) | 65 |
-| [GRIA-TestCreator](https://github.com/SantiagoRR2004/GRIA-TestCreator) | 58 |
+| [GRIA-TestCreator](https://github.com/SantiagoRR2004/GRIA-TestCreator) | 62 |
 | [SIEX-CBR](https://github.com/SantiagoRR2004/SIEX-CBR) | 47 |
 | [ALF-Chusco](https://github.com/SantiagoRR2004/ALF-Chusco) | 46 |
 | [APS-WiFiSniffer](https://github.com/SantiagoRR2004/APS-WiFiSniffer) | 41 |
@@ -42,4 +43,4 @@
 | [LucachuTW/CARDS-PokemonPocket-scrapper](https://github.com/LucachuTW/CARDS-PokemonPocket-scrapper) | 1 |
 | [esei-si-dagss/tasador-24](https://github.com/esei-si-dagss/tasador-24) | 0 |
 | [hsahovic/poke-env](https://github.com/hsahovic/poke-env) | 0 |
-| Total | 1016 |
+| Total | 1090 |
