@@ -18,19 +18,19 @@
 |:----------|----------:|
 | [LucachuTW/IS-Grupo301](https://github.com/LucachuTW/IS-Grupo301) | 181 |
 | [AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 112 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 106 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 107 |
 | [santipvz/PRO_I-Chatbot](https://github.com/santipvz/PRO_I-Chatbot) | 91 |
 | [ABIA-RubiksCube](https://github.com/SantiagoRR2004/ABIA-RubiksCube) | 88 |
-| [GRIA-TestCreator](https://github.com/SantiagoRR2004/GRIA-TestCreator) | 76 |
+| [GRIA-TestCreator](https://github.com/SantiagoRR2004/GRIA-TestCreator) | 77 |
 | [santipvz/IC-Threads](https://github.com/santipvz/IC-Threads) | 71 |
 | [RAIN-StringTuner](https://github.com/SantiagoRR2004/RAIN-StringTuner) | 65 |
+| [PIC-book-exercise-docs](https://github.com/SantiagoRR2004/PIC-book-exercise-docs) | 58 |
 | [SIEX-CBR](https://github.com/SantiagoRR2004/SIEX-CBR) | 47 |
 | [ALF-Chusco](https://github.com/SantiagoRR2004/ALF-Chusco) | 46 |
 | [APS-WiFiSniffer](https://github.com/SantiagoRR2004/APS-WiFiSniffer) | 41 |
 | [SIEX-RAG](https://github.com/SantiagoRR2004/SIEX-RAG) | 41 |
-| [PIC-book-exercise-docs](https://github.com/SantiagoRR2004/PIC-book-exercise-docs) | 39 |
 | [ABIA-Connect4](https://github.com/SantiagoRR2004/ABIA-Connect4) | 37 |
-| [PIC-python-components](https://github.com/SantiagoRR2004/PIC-python-components) | 34 |
+| [PIC-python-components](https://github.com/SantiagoRR2004/PIC-python-components) | 37 |
 | [Sergiooo0/SIEX-CLIPS](https://github.com/Sergiooo0/SIEX-CLIPS) | 28 |
 | [PIC-java-components](https://github.com/SantiagoRR2004/PIC-java-components) | 24 |
 | [MD-Combinations](https://github.com/SantiagoRR2004/MD-Combinations) | 23 |
@@ -44,4 +44,4 @@
 | [esei-si-dagss/tasador-24](https://github.com/esei-si-dagss/tasador-24) | 0 |
 | [hsahovic/poke-env](https://github.com/hsahovic/poke-env) | 0 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 1193 |
+| Total | 1217 |
