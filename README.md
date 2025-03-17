@@ -17,9 +17,9 @@
 | <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
 |:----------|----------:|
 | [LucachuTW/IS-Grupo301](https://github.com/LucachuTW/IS-Grupo301) | 181 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 116 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 117 |
 | [AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 112 |
-| [GRIA-TestCreator](https://github.com/SantiagoRR2004/GRIA-TestCreator) | 102 |
+| [GRIA-TestCreator](https://github.com/SantiagoRR2004/GRIA-TestCreator) | 110 |
 | [santipvz/PRO_I-Chatbot](https://github.com/santipvz/PRO_I-Chatbot) | 91 |
 | [ABIA-RubiksCube](https://github.com/SantiagoRR2004/ABIA-RubiksCube) | 88 |
 | [PIC-book-exercise-docs](https://github.com/SantiagoRR2004/PIC-book-exercise-docs) | 81 |
@@ -28,7 +28,7 @@
 | [PIC-python-components](https://github.com/SantiagoRR2004/PIC-python-components) | 48 |
 | [SIEX-CBR](https://github.com/SantiagoRR2004/SIEX-CBR) | 47 |
 | [ALF-Chusco](https://github.com/SantiagoRR2004/ALF-Chusco) | 46 |
-| [PIC-java-components](https://github.com/SantiagoRR2004/PIC-java-components) | 42 |
+| [PIC-java-components](https://github.com/SantiagoRR2004/PIC-java-components) | 43 |
 | [APS-WiFiSniffer](https://github.com/SantiagoRR2004/APS-WiFiSniffer) | 41 |
 | [SIEX-RAG](https://github.com/SantiagoRR2004/SIEX-RAG) | 41 |
 | [ABIA-Connect4](https://github.com/SantiagoRR2004/ABIA-Connect4) | 37 |
@@ -44,4 +44,4 @@
 | [esei-si-dagss/tasador-24](https://github.com/esei-si-dagss/tasador-24) | 0 |
 | [hsahovic/poke-env](https://github.com/hsahovic/poke-env) | 0 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 1303 |
+| Total | 1313 |
