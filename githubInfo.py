@@ -15,7 +15,7 @@ GITHUBGRAPHQLURL = "https://api.github.com/graphql"
 if os.getenv("REPO_OWNER"):
     AUTHOR = os.getenv("REPO_OWNER")
 else:
-    AUTHOR = "SantiagoRR2004"
+    AUTHOR = "Sergiooo0"
 
 
 def getCommitCount(repository: str) -> int:
@@ -109,9 +109,7 @@ def getStoredRepositories() -> list:
         - list: The list of stored repositories.
     """
     ids = [
-        # 707606529,  # https://github.com/LucachuTW/IS-Grupo301
-        # 886898130,  # https://github.com/LucachuTW/CARDS-PokemonPocket-scrapper
-        # 543282129,  # https://github.com/santipvz/PRO_I-Chatbot
+        # 707606529
     ]
 
     repositories = []
