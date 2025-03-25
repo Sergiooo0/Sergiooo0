@@ -100,6 +100,8 @@ def getStoredRepositories() -> list:
     The stored repositories are stored as their ids
     so they are converted to the "owner/repo" format.
 
+    The list is empty so forks don't add my repositories.
+
     Args:
         - None
 
@@ -107,9 +109,9 @@ def getStoredRepositories() -> list:
         - list: The list of stored repositories.
     """
     ids = [
-        707606529,  # https://github.com/LucachuTW/IS-Grupo301
-        886898130,  # https://github.com/LucachuTW/CARDS-PokemonPocket-scrapper
-        543282129,  # https://github.com/santipvz/PRO_I-Chatbot
+        # 707606529,  # https://github.com/LucachuTW/IS-Grupo301
+        # 886898130,  # https://github.com/LucachuTW/CARDS-PokemonPocket-scrapper
+        # 543282129,  # https://github.com/santipvz/PRO_I-Chatbot
     ]
 
     repositories = []
