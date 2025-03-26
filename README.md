@@ -29,7 +29,7 @@
 | [SantiagoRR2004/SIEX-RAG](https://github.com/SantiagoRR2004/SIEX-RAG) | 7 |
 | [PIC-book-exercises](https://github.com/Sergiooo0/PIC-book-exercises) | 7 |
 | [SantiagoRR2004/ABIA-Connect4](https://github.com/SantiagoRR2004/ABIA-Connect4) | 4 |
-| [SantiagoRR2004/GRIA-TestCreator](https://github.com/SantiagoRR2004/GRIA-TestCreator) | 2 |
-| [GRIA-TestCreator](https://github.com/Sergiooo0/GRIA-TestCreator) | 2 |
-| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 1 |
-| Total | 194 |
+| [SantiagoRR2004/GRIA-TestCreator](https://github.com/SantiagoRR2004/GRIA-TestCreator) | 3 |
+| [GRIA-TestCreator](https://github.com/Sergiooo0/GRIA-TestCreator) | 3 |
+| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 2 |
+| Total | 197 |
