@@ -31,5 +31,5 @@
 | [SantiagoRR2004/ABIA-Connect4](https://github.com/SantiagoRR2004/ABIA-Connect4) | 4 |
 | [SantiagoRR2004/GRIA-TestCreator](https://github.com/SantiagoRR2004/GRIA-TestCreator) | 3 |
 | [GRIA-TestCreator](https://github.com/Sergiooo0/GRIA-TestCreator) | 3 |
-| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 2 |
-| Total | 197 |
+| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 3 |
+| Total | 198 |
