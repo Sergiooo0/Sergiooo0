@@ -16,19 +16,20 @@
 
 | <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
 |:----------|----------:|
-| [SantiagoRR2004/ABIA-Connect4](https://github.com/SantiagoRR2004/ABIA-Connect4) | 0 |
-| [SantiagoRR2004/ALF-Chusco](https://github.com/SantiagoRR2004/ALF-Chusco) | 0 |
-| [SantiagoRR2004/GRIA-TestCreator](https://github.com/SantiagoRR2004/GRIA-TestCreator) | 0 |
-| [SantiagoRR2004/RAIN-StringTuner](https://github.com/SantiagoRR2004/RAIN-StringTuner) | 0 |
-| [SantiagoRR2004/RCR-RBS](https://github.com/SantiagoRR2004/RCR-RBS) | 0 |
-| [SantiagoRR2004/SIEX-CBR](https://github.com/SantiagoRR2004/SIEX-CBR) | 0 |
-| [SantiagoRR2004/SIEX-RAG](https://github.com/SantiagoRR2004/SIEX-RAG) | 0 |
-| [GRIA-TestCreator](https://github.com/Sergiooo0/GRIA-TestCreator) | 0 |
-| [PIC-book-exercises](https://github.com/Sergiooo0/PIC-book-exercises) | 0 |
-| [PIC-java-components](https://github.com/Sergiooo0/PIC-java-components) | 0 |
-| [PIC-python-components](https://github.com/Sergiooo0/PIC-python-components) | 0 |
-| [RedesWeb](https://github.com/Sergiooo0/RedesWeb) | 0 |
-| [SIEX-CLIPS](https://github.com/Sergiooo0/SIEX-CLIPS) | 0 |
-| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 0 |
-| [santipvz/hackudc](https://github.com/santipvz/hackudc) | 0 |
-| Total | 0 |
+| [PIC-python-components](https://github.com/Sergiooo0/PIC-python-components) | 31 |
+| [santipvz/hackudc](https://github.com/santipvz/hackudc) | 23 |
+| [PIC-java-components](https://github.com/Sergiooo0/PIC-java-components) | 21 |
+| [SantiagoRR2004/RAIN-StringTuner](https://github.com/SantiagoRR2004/RAIN-StringTuner) | 20 |
+| [SIEX-CLIPS](https://github.com/Sergiooo0/SIEX-CLIPS) | 18 |
+| [RedesWeb](https://github.com/Sergiooo0/RedesWeb) | 16 |
+| [SantiagoRR2004/ALF-Chusco](https://github.com/SantiagoRR2004/ALF-Chusco) | 14 |
+| [SantiagoRR2004/SIEX-CBR](https://github.com/SantiagoRR2004/SIEX-CBR) | 13 |
+| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 11 |
+| [SantiagoRR2004/RCR-RBS](https://github.com/SantiagoRR2004/RCR-RBS) | 8 |
+| [PIC-book-exercises](https://github.com/Sergiooo0/PIC-book-exercises) | 8 |
+| [SantiagoRR2004/SIEX-RAG](https://github.com/SantiagoRR2004/SIEX-RAG) | 7 |
+| [SantiagoRR2004/ABIA-Connect4](https://github.com/SantiagoRR2004/ABIA-Connect4) | 4 |
+| [SantiagoRR2004/GRIA-TestCreator](https://github.com/SantiagoRR2004/GRIA-TestCreator) | 3 |
+| [GRIA-TestCreator](https://github.com/Sergiooo0/GRIA-TestCreator) | 3 |
+| [Ejercicio-ROS2](https://github.com/Sergiooo0/Ejercicio-ROS2) | 2 |
+| Total | 202 |
