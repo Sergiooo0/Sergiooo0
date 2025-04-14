@@ -18,10 +18,8 @@
 |:----------|----------:|
 | [PIC-python-components](https://github.com/Sergiooo0/PIC-python-components) | 31 |
 | [santipvz/hackudc](https://github.com/santipvz/hackudc) | 23 |
-| [PIC-java-components](https://github.com/Sergiooo0/PIC-java-components) | 21 |
+| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 21 |
 | [SantiagoRR2004/RAIN-StringTuner](https://github.com/SantiagoRR2004/RAIN-StringTuner) | 20 |
-| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 20 |
-| [SIEX-CLIPS](https://github.com/Sergiooo0/SIEX-CLIPS) | 18 |
 | [RedesWeb](https://github.com/Sergiooo0/RedesWeb) | 16 |
 | [SantiagoRR2004/ALF-Chusco](https://github.com/SantiagoRR2004/ALF-Chusco) | 14 |
 | [LucachuTW/TikTok-maker](https://github.com/LucachuTW/TikTok-maker) | 13 |
@@ -33,4 +31,6 @@
 | [Ejercicio-ROS2](https://github.com/Sergiooo0/Ejercicio-ROS2) | 4 |
 | [SantiagoRR2004/GRIA-TestCreator](https://github.com/SantiagoRR2004/GRIA-TestCreator) | 3 |
 | [GRIA-TestCreator](https://github.com/Sergiooo0/GRIA-TestCreator) | 3 |
-| Total | 226 |
+| [PIC-java-components](https://github.com/Sergiooo0/PIC-java-components) | 0 |
+| [SIEX-CLIPS](https://github.com/Sergiooo0/SIEX-CLIPS) | 0 |
+| Total | 188 |
