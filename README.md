@@ -16,15 +16,15 @@
 
 | <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
 |:----------|----------:|
-| [PIC-python-components](https://github.com/Sergiooo0/PIC-python-components) | 33 |
-| [PIC-java-components](https://github.com/Sergiooo0/PIC-java-components) | 27 |
-| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 23 |
+| [PIC-python-components](https://github.com/Sergiooo0/PIC-python-components) | 37 |
+| [PIC-java-components](https://github.com/Sergiooo0/PIC-java-components) | 31 |
+| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 24 |
 | [santipvz/hackudc](https://github.com/santipvz/hackudc) | 23 |
 | [SantiagoRR2004/RAIN-StringTuner](https://github.com/SantiagoRR2004/RAIN-StringTuner) | 20 |
 | [SIEX-CLIPS](https://github.com/Sergiooo0/SIEX-CLIPS) | 18 |
+| [PIC-book-exercises](https://github.com/Sergiooo0/PIC-book-exercises) | 17 |
 | [RedesWeb](https://github.com/Sergiooo0/RedesWeb) | 16 |
 | [SantiagoRR2004/ALF-Chusco](https://github.com/SantiagoRR2004/ALF-Chusco) | 14 |
-| [PIC-book-exercises](https://github.com/Sergiooo0/PIC-book-exercises) | 14 |
 | [LucachuTW/TikTok-maker](https://github.com/LucachuTW/TikTok-maker) | 13 |
 | [SantiagoRR2004/SIEX-CBR](https://github.com/SantiagoRR2004/SIEX-CBR) | 13 |
 | [SantiagoRR2004/RCR-RBS](https://github.com/SantiagoRR2004/RCR-RBS) | 8 |
@@ -33,4 +33,4 @@
 | [Ejercicio-ROS2](https://github.com/Sergiooo0/Ejercicio-ROS2) | 4 |
 | [SantiagoRR2004/GRIA-TestCreator](https://github.com/SantiagoRR2004/GRIA-TestCreator) | 3 |
 | [GRIA-TestCreator](https://github.com/Sergiooo0/GRIA-TestCreator) | 3 |
-| Total | 243 |
+| Total | 255 |
