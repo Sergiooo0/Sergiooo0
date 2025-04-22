@@ -16,12 +16,12 @@
 
 | <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
 |:----------|----------:|
-| [PIC-python-components](https://github.com/Sergiooo0/PIC-python-components) | 42 |
+| [PIC-python-components](https://github.com/Sergiooo0/PIC-python-components) | 44 |
 | [PIC-java-components](https://github.com/Sergiooo0/PIC-java-components) | 41 |
-| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 28 |
+| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 29 |
+| [PIC-book-exercises](https://github.com/Sergiooo0/PIC-book-exercises) | 23 |
 | [santipvz/hackudc](https://github.com/santipvz/hackudc) | 23 |
 | [SantiagoRR2004/RAIN-StringTuner](https://github.com/SantiagoRR2004/RAIN-StringTuner) | 20 |
-| [PIC-book-exercises](https://github.com/Sergiooo0/PIC-book-exercises) | 18 |
 | [SIEX-CLIPS](https://github.com/Sergiooo0/SIEX-CLIPS) | 18 |
 | [RedesWeb](https://github.com/Sergiooo0/RedesWeb) | 16 |
 | [SantiagoRR2004/ALF-Chusco](https://github.com/SantiagoRR2004/ALF-Chusco) | 14 |
@@ -33,4 +33,4 @@
 | [Ejercicio-ROS2](https://github.com/Sergiooo0/Ejercicio-ROS2) | 4 |
 | [SantiagoRR2004/GRIA-TestCreator](https://github.com/SantiagoRR2004/GRIA-TestCreator) | 3 |
 | [GRIA-TestCreator](https://github.com/Sergiooo0/GRIA-TestCreator) | 3 |
-| Total | 275 |
+| Total | 283 |
