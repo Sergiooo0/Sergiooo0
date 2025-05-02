@@ -18,7 +18,7 @@
 |:----------|----------:|
 | [PIC-python-components](https://github.com/Sergiooo0/PIC-python-components) | 44 |
 | [PIC-java-components](https://github.com/Sergiooo0/PIC-java-components) | 41 |
-| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 38 |
+| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 39 |
 | [PIC-book-exercises](https://github.com/Sergiooo0/PIC-book-exercises) | 25 |
 | [santipvz/hackudc](https://github.com/santipvz/hackudc) | 23 |
 | [SantiagoRR2004/RAIN-StringTuner](https://github.com/SantiagoRR2004/RAIN-StringTuner) | 20 |
@@ -31,5 +31,5 @@
 | [Ejercicio-ROS2](https://github.com/Sergiooo0/Ejercicio-ROS2) | 4 |
 | [SantiagoRR2004/GRIA-TestCreator](https://github.com/SantiagoRR2004/GRIA-TestCreator) | 3 |
 | [GRIA-TestCreator](https://github.com/Sergiooo0/GRIA-TestCreator) | 3 |
-| [SantiagoRR2004/AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 0 |
-| Total | 282 |
+| [SantiagoRR2004/AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 2 |
+| Total | 285 |
