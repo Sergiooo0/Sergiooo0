@@ -68,7 +68,6 @@ if __name__ == "__main__":
     # We add the table
     markDown += markDownTable
 
-    # # Now we will write the markdown to README.md
-    # with open("README.md", "w") as file:
-    #     file.write(markDown)
-
+    # Now we will write the markdown to README.md
+    with open("README.md", "w") as file:
+        file.write(markDown)
