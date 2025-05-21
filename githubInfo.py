@@ -29,42 +29,36 @@ def getCommitCount(repository: str) -> int:
     Returns:
         - int: The number of commits by the author.
     """
-    commitCount = 0
     global NUMBERCALLSAPI
 
     # GitHub API URL for commits
     url = f"https://api.github.com/repos/{repository}/commits"
 
     # Set the parameters for the API request
-    params = {
-        "author": AUTHOR,
-        "per_page": 100,  # Adjust this to get more commits per request (max 100)
-    }
+    params = {"author": AUTHOR, "per_page": 1, "page": 1}
 
-    page = 1
+    if TOKEN:
+        headers = {"Authorization": f"Bearer {TOKEN}"}
+    else:
+        headers = {}
 
-    continueFetching = True
+    response = requests.get(url, params=params, headers=headers)
+    NUMBERCALLSAPI += 1
 
-    while continueFetching:
-        params["page"] = page
-        response = requests.get(url, params=params)
-        NUMBERCALLSAPI += 1
+    if response.status_code != 200:
+        print(f"Error: {response.status_code} - {response.text}")
+        return 0
 
-        if response.status_code == 200:
-            commits = response.json()
-
-            if not commits:  # No more commits
-                continueFetching = False
-
-            else:
-                commitCount += len(commits)
-                page += 1
-
-        else:
-            print("Error fetching commits:", response.status_code)
-            continueFetching = False
-
-    return commitCount
+    # Check for the 'Link' header to find last page
+    link = response.headers.get("Link")
+    if link and 'rel="last"' in link:
+        # Extract the last page number
+        last_url = [l for l in link.split(",") if 'rel="last"' in l][0]
+        last_page = int(last_url.split("page=")[-1].split(">")[0])
+        return last_page
+    else:
+        # Only one page, so return 0 or 1 depending on response content
+        return len(response.json())
 
 
 def getListOfRepositories() -> list:
@@ -203,7 +197,9 @@ def getRepositoriesWithCommits() -> dict:
 
     repositoriesWithCommits = {}
 
-    for repository in tqdm.tqdm(repositories, total=len(repositories), desc="Commit count"):
+    for repository in tqdm.tqdm(
+        repositories, total=len(repositories), desc="Commit count"
+    ):
         commitCount = getCommitCount(repository)
         repositoriesWithCommits[urljoin(BASE, repository)] = commitCount
 
@@ -232,6 +228,7 @@ def runQuery(query: str, token: str) -> dict:
         print(f"Query failed with status code {response.status_code}: {response.text}")
 
     return None
+
 
 def getRepositoriesWithGraphQL() -> list:
     """

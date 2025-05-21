@@ -72,25 +72,3 @@ if __name__ == "__main__":
     # with open("README.md", "w") as file:
     #     file.write(markDown)
 
-    # Test to see other way to get commits
-    request = """{
-  user(login: "SantiagoRR2004") {
-    login
-    contributionsCollection {
-      contributionCalendar {
-        totalContributions
-      }
-      commitContributionsByRepository(maxRepositories: 100) {
-        repository {
-          nameWithOwner
-        }
-        contributions {
-          totalCount
-        }
-      }
-    }
-  }
-}
-"""
-    response = githubInfo.runQuery(request, githubInfo.TOKEN)
-    print(response)
