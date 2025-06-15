@@ -16,7 +16,7 @@
 
 | <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
 |:----------|----------:|
-| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 82 |
+| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 83 |
 | [PIC-java-components](https://github.com/Sergiooo0/PIC-java-components) | 56 |
 | [PIC-python-components](https://github.com/Sergiooo0/PIC-python-components) | 44 |
 | [PIC-book-exercises](https://github.com/Sergiooo0/PIC-book-exercises) | 33 |
@@ -36,4 +36,4 @@
 | [GRIA-TestCreator](https://github.com/Sergiooo0/GRIA-TestCreator) | 3 |
 | [ORB_SLAM3](https://github.com/Sergiooo0/ORB_SLAM3) | 1 |
 | [pyslam](https://github.com/Sergiooo0/pyslam) | 1 |
-| Total | 385 |
+| Total | 386 |
