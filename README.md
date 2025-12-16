@@ -16,14 +16,14 @@
 
 | <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
 |:----------|----------:|
-| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 266 |
+| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 267 |
 | [PIC-java-components](https://github.com/Sergiooo0/PIC-java-components) | 56 |
 | [PIC-python-components](https://github.com/Sergiooo0/PIC-python-components) | 44 |
+| [SantiagoRR2004/ComputerVision](https://github.com/SantiagoRR2004/ComputerVision) | 34 |
 | [PIC-book-exercises](https://github.com/Sergiooo0/PIC-book-exercises) | 33 |
-| [SantiagoRR2004/ComputerVision](https://github.com/SantiagoRR2004/ComputerVision) | 31 |
 | [SantiagoRR2004/APAU_BIO](https://github.com/SantiagoRR2004/APAU_BIO) | 30 |
+| [SantiagoRR2004/WebSemantica](https://github.com/SantiagoRR2004/WebSemantica) | 29 |
 | [santipvz/hackudc](https://github.com/santipvz/hackudc) | 23 |
-| [SantiagoRR2004/RAIN-StringTuner](https://github.com/SantiagoRR2004/RAIN-StringTuner) | 20 |
 | [NER_fine_tuning](https://github.com/Sergiooo0/NER_fine_tuning) | 20 |
 | [SIEX-CLIPS](https://github.com/Sergiooo0/SIEX-CLIPS) | 18 |
 | [RedesWeb](https://github.com/Sergiooo0/RedesWeb) | 16 |
@@ -37,4 +37,4 @@
 | [GRIA-TestCreator](https://github.com/Sergiooo0/GRIA-TestCreator) | 3 |
 | [ORB_SLAM3](https://github.com/Sergiooo0/ORB_SLAM3) | 1 |
 | [pyslam](https://github.com/Sergiooo0/pyslam) | 1 |
-| Total | 614 |
+| Total | 627 |
