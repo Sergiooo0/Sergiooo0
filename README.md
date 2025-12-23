@@ -16,25 +16,25 @@
 
 | <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
 |:----------|----------:|
-| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 273 |
-| [SantiagoRR2004/ComputerVision](https://github.com/SantiagoRR2004/ComputerVision) | 34 |
-| [PIC-book-exercises](https://github.com/Sergiooo0/PIC-book-exercises) | 33 |
-| [NER_fine_tuning](https://github.com/Sergiooo0/NER_fine_tuning) | 20 |
-| [SIEX-CLIPS](https://github.com/Sergiooo0/SIEX-CLIPS) | 18 |
-| [RedesWeb](https://github.com/Sergiooo0/RedesWeb) | 16 |
-| [SantiagoRR2004/APAU_II-Clustering](https://github.com/SantiagoRR2004/APAU_II-Clustering) | 10 |
-| [SantiagoRR2004/AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 10 |
-| [SantiagoRR2004/SIEX-RAG](https://github.com/SantiagoRR2004/SIEX-RAG) | 7 |
-| [FoafPerfil](https://github.com/Sergiooo0/FoafPerfil) | 5 |
-| [Ejercicio-ROS2](https://github.com/Sergiooo0/Ejercicio-ROS2) | 4 |
-| [SantiagoRR2004/APAU_II-KMeans](https://github.com/SantiagoRR2004/APAU_II-KMeans) | 3 |
-| [GRIA-TestCreator](https://github.com/Sergiooo0/GRIA-TestCreator) | 3 |
 | [LucachuTW/TikTok-maker](https://github.com/LucachuTW/TikTok-maker) | 0 |
 | [SantiagoRR2004/APAU_BIO](https://github.com/SantiagoRR2004/APAU_BIO) | 0 |
+| [SantiagoRR2004/APAU_II-Clustering](https://github.com/SantiagoRR2004/APAU_II-Clustering) | 0 |
+| [SantiagoRR2004/APAU_II-KMeans](https://github.com/SantiagoRR2004/APAU_II-KMeans) | 0 |
+| [SantiagoRR2004/AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 0 |
+| [SantiagoRR2004/ComputerVision](https://github.com/SantiagoRR2004/ComputerVision) | 0 |
+| [SantiagoRR2004/SIEX-RAG](https://github.com/SantiagoRR2004/SIEX-RAG) | 0 |
 | [SantiagoRR2004/WebSemantica](https://github.com/SantiagoRR2004/WebSemantica) | 0 |
+| [Ejercicio-ROS2](https://github.com/Sergiooo0/Ejercicio-ROS2) | 0 |
+| [FoafPerfil](https://github.com/Sergiooo0/FoafPerfil) | 0 |
+| [GRIA-TestCreator](https://github.com/Sergiooo0/GRIA-TestCreator) | 0 |
+| [NER_fine_tuning](https://github.com/Sergiooo0/NER_fine_tuning) | 0 |
 | [ORB_SLAM3](https://github.com/Sergiooo0/ORB_SLAM3) | 0 |
+| [PIC-book-exercises](https://github.com/Sergiooo0/PIC-book-exercises) | 0 |
 | [PIC-java-components](https://github.com/Sergiooo0/PIC-java-components) | 0 |
 | [PIC-python-components](https://github.com/Sergiooo0/PIC-python-components) | 0 |
+| [RedesWeb](https://github.com/Sergiooo0/RedesWeb) | 0 |
+| [SIEX-CLIPS](https://github.com/Sergiooo0/SIEX-CLIPS) | 0 |
+| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 0 |
 | [pyslam](https://github.com/Sergiooo0/pyslam) | 0 |
 | [santipvz/hackudc](https://github.com/santipvz/hackudc) | 0 |
-| Total | 436 |
+| Total | 0 |
