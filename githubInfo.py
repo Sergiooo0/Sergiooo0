@@ -47,6 +47,120 @@ def getAuthorID() -> str:
         return NODEID
 
 
+def getRepoData(repository: str) -> dict:
+    """
+    Get the most amount of data for the specified author in the repository.
+
+    Args:
+        - repository (str): The repository name.
+            It needs to be in the format "owner/repo".
+
+    Returns:
+        - dict: The data for the author.
+    """
+    global TOKEN
+
+    owner, repo = repository.split("/")
+    nodeID = getAuthorID()
+
+    queryTemplate = """{
+
+    repository(owner: "{owner}", name: "{repository}") {
+        stargazerCount
+        forkCount
+
+        issues {
+            totalCount
+        }
+
+        pullRequests {
+            totalCount
+        }
+
+        languages(first: 100, orderBy: {field: SIZE, direction: DESC}) {
+            totalSize
+            edges {
+                size
+                node {
+                    name
+                }
+            }
+        }
+
+        defaultBranchRef {
+            target {
+                ... on Commit {
+                    allCommits: history {
+                        totalCount
+                    }
+                    userCommits: history(author: { id: "{nodeID}" }) {
+                        totalCount
+                    }
+                }
+            }
+        }
+    }
+
+    issuesByUser: search(
+        query: "repo:{owner}/{repository} involves:{AUTHOR} is:issue",
+        type: ISSUE,
+        first: 1
+    ) {
+        issueCount
+    }
+
+    pullRequestsByUser: search(
+        query: "repo:{owner}/{repository} involves:{AUTHOR} is:pr",
+        type: ISSUE,
+        first: 1
+    ) {
+        issueCount
+    }
+
+}
+"""
+
+    queryTemplate = queryTemplate.replace("{owner}", f"{owner}")
+    queryTemplate = queryTemplate.replace("{repository}", f"{repo}")
+    queryTemplate = queryTemplate.replace("{nodeID}", f"{nodeID}")
+    queryTemplate = queryTemplate.replace("{AUTHOR}", AUTHOR)
+
+    result = runQuery(queryTemplate, TOKEN)
+
+    if result:
+        result = result["data"]
+
+        # Basic data
+        toret = {
+            "stars": result["repository"]["stargazerCount"],
+            "forks": result["repository"]["forkCount"],
+            "issues": result["repository"]["issues"]["totalCount"],
+            "userIssues": result["issuesByUser"]["issueCount"],
+            "pullRequests": result["repository"]["pullRequests"]["totalCount"],
+            "userPullRequests": result["pullRequestsByUser"]["issueCount"],
+            "commits": result["repository"]["defaultBranchRef"]["target"]["allCommits"][
+                "totalCount"
+            ],
+            "userCommits": result["repository"]["defaultBranchRef"]["target"][
+                "userCommits"
+            ]["totalCount"],
+            "languages": {},
+        }
+
+        # The languages
+        for language in result["repository"]["languages"]["edges"]:
+            toret["languages"][language["node"]["name"]] = language["size"]
+
+    else:
+        # Default to basic API if GraphQL fails
+        toret = {"userCommits": getCommitCount(repository)}
+
+    # Total number of contributors
+    toret["contributors"] = getContributorCount(repository)
+
+    return toret
+
+
 def getCommitCount(repository: str) -> int:
     """
     Get the commit count for the specified author in the repository.
