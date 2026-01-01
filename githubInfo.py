@@ -151,12 +151,13 @@ def getRepoData(repository: str) -> dict:
         for language in result["repository"]["languages"]["edges"]:
             toret["languages"][language["node"]["name"]] = language["size"]
 
+        # Total number of contributors
+        # Do it here to keep the calls count low if GraphQL is not available
+        toret["contributors"] = getContributorCount(repository)
+
     else:
         # Default to basic API if GraphQL fails
         toret = {"userCommits": getCommitCount(repository)}
-
-    # Total number of contributors
-    toret["contributors"] = getContributorCount(repository)
 
     return toret
 
@@ -368,27 +369,26 @@ def getOwnedRepositories() -> list:
     return repositories
 
 
-def getRepositoriesWithCommits() -> dict:
+def getRepositoriesInformation() -> dict:
     """
-    Get the repositories with the number of commits by the author.
+    Get the repositories with all the information.
 
     Args:
         - None
 
     Returns:
-        - dict: The repositories with the number of commits.
+        - dict: The repositories' stats.
     """
     repositories = getListOfRepositories()
 
-    repositoriesWithCommits = {}
+    repositoryData = {}
 
     for repository in tqdm.tqdm(
-        repositories, total=len(repositories), desc="Commit count"
+        repositories, total=len(repositories), desc="Repositories"
     ):
-        commitCount = getCommitCount(repository)
-        repositoriesWithCommits[urljoin(BASE, repository)] = commitCount
+        repositoryData[urljoin(BASE, repository)] = getRepoData(repository)
 
-    return repositoriesWithCommits
+    return repositoryData
 
 
 def runQuery(query: str, token: str) -> dict:

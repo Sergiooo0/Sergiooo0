@@ -1,4 +1,6 @@
 import githubInfo
+import json
+import os
 
 markDown = f"""## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"><b> Github Stats </b>
 
@@ -19,15 +21,25 @@ markDown = f"""## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/gip
 
 
 if __name__ == "__main__":
-    repositories = githubInfo.getRepositoriesWithCommits()
+    repositories = githubInfo.getRepositoriesInformation()
 
     # We order the repositories by the number of commits in descending order
     # And in case of a tie, we order them alphabetically
     repositories = dict(
         sorted(
-            repositories.items(), key=lambda item: (-item[1], item[0]), reverse=False
+            repositories.items(),
+            key=lambda item: (-item[1]["userCommits"], item[0]),
+            reverse=False,
         )
     )
+
+    # We save the repositories information in a json file
+    with open(
+        os.path.join(os.path.dirname(os.path.abspath(__file__)), "repositories.json"),
+        "w",
+    ) as file:
+        json.dump(repositories, file, indent=2, ensure_ascii=False)
+        file.write("\n")
 
     print(f"Number of API calls: {githubInfo.NUMBERCALLSAPI}")
     print(f"Number of normal calls: {githubInfo.NUMBERCALLSNORMAL}")
@@ -60,10 +72,14 @@ if __name__ == "__main__":
         if repoName.startswith(githubInfo.AUTHOR):
             repoName = repoName[len(githubInfo.AUTHOR) + 1 :]
 
-        markDownTable += f"| [{repoName}]({repository}) | {commitCount} |\n"
+        markDownTable += (
+            f"| [{repoName}]({repository}) | {commitCount["userCommits"]} |\n"
+        )
 
     # Now we add the total number of commits
-    markDownTable += f"| Total | {sum(repositories.values())} |\n"
+    markDownTable += (
+        f"| Total | {sum([data["userCommits"] for data in repositories.values()])} |\n"
+    )
 
     # We add the table
     markDown += markDownTable
