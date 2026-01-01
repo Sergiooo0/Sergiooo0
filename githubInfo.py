@@ -17,6 +17,35 @@ if os.getenv("REPO_OWNER"):
 else:
     AUTHOR = "SantiagoRR2004"
 
+NODEID = None
+
+
+def getAuthorID() -> str:
+    """
+    Get the author node ID from the GitHub username.
+
+    Args:
+        - None
+
+    Returns:
+        - str: The author ID.
+    """
+    global NUMBERCALLSAPI
+    global NODEID
+
+    if NODEID:
+        return NODEID
+
+    url = f"https://api.github.com/users/{AUTHOR}"
+
+    response = requests.get(url)
+    NUMBERCALLSAPI += 1
+
+    if response.status_code == 200:
+        user = response.json()
+        NODEID = user["node_id"]
+        return NODEID
+
 
 def getCommitCount(repository: str) -> int:
     """
@@ -36,6 +65,48 @@ def getCommitCount(repository: str) -> int:
 
     # Set the parameters for the API request
     params = {"author": AUTHOR, "per_page": 1, "page": 1}
+
+    if TOKEN:
+        headers = {"Authorization": f"Bearer {TOKEN}"}
+    else:
+        headers = {}
+
+    response = requests.get(url, params=params, headers=headers)
+    NUMBERCALLSAPI += 1
+
+    if response.status_code != 200:
+        print(f"Error: {response.status_code} - {response.text}")
+        return 0
+
+    # Check for the 'Link' header to find last page
+    link = response.headers.get("Link")
+    if link and 'rel="last"' in link:
+        # Extract the last page number
+        last_url = [l for l in link.split(",") if 'rel="last"' in l][0]
+        last_page = int(last_url.split("page=")[-1].split(">")[0])
+        return last_page
+    else:
+        # Only one page, so return 0 or 1 depending on response content
+        return len(response.json())
+
+
+def getContributorCount(repository: str) -> int:
+    """
+    Get the number of contributors for a repository.
+
+    Args:
+        - repository (str): The repository name in the format "owner/repo".
+
+    Returns:
+        - int: The number of contributors.
+    """
+    global NUMBERCALLSAPI
+
+    # GitHub API URL for contributors
+    url = f"https://api.github.com/repos/{repository}/contributors"
+
+    # Set the parameters for the API request
+    params = {"per_page": 1, "page": 1}
 
     if TOKEN:
         headers = {"Authorization": f"Bearer {TOKEN}"}
