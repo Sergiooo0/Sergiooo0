@@ -28,14 +28,15 @@
 | [santipvz/PRO_I-Chatbot](https://github.com/santipvz/PRO_I-Chatbot) | 91 |
 | [ABIA-RubiksCube](https://github.com/SantiagoRR2004/ABIA-RubiksCube) | 88 |
 | [PIC-Python](https://github.com/SantiagoRR2004/PIC-Python) | 82 |
-| [WebSemantica](https://github.com/SantiagoRR2004/WebSemantica) | 78 |
+| [WebSemantica](https://github.com/SantiagoRR2004/WebSemantica) | 79 |
 | [English-IrregularVerbs](https://github.com/SantiagoRR2004/English-IrregularVerbs) | 71 |
 | [santipvz/IC-Threads](https://github.com/santipvz/IC-Threads) | 71 |
 | [RAIN-StringTuner](https://github.com/SantiagoRR2004/RAIN-StringTuner) | 65 |
 | [ComputerVision](https://github.com/SantiagoRR2004/ComputerVision) | 62 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 50 |
 | [SIEX-CBR](https://github.com/SantiagoRR2004/SIEX-CBR) | 47 |
 | [ALF-Chusco](https://github.com/SantiagoRR2004/ALF-Chusco) | 46 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 46 |
+| [pythocron](https://github.com/SantiagoRR2004/pythocron) | 44 |
 | [APS-WiFiSniffer](https://github.com/SantiagoRR2004/APS-WiFiSniffer) | 41 |
 | [SIEX-RAG](https://github.com/SantiagoRR2004/SIEX-RAG) | 41 |
 | [APAU_II-FineTuning](https://github.com/SantiagoRR2004/APAU_II-FineTuning) | 38 |
@@ -60,4 +61,4 @@
 | [tasador-24](https://github.com/SantiagoRR2004/tasador-24) | 2 |
 | [hsahovic/poke-env](https://github.com/hsahovic/poke-env) | 1 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 2569 |
+| Total | 2618 |
