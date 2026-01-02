@@ -2,7 +2,27 @@ import githubInfo
 import json
 import os
 
-markDown = f"""## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"><b> Github Stats </b>
+
+def formatBytes(num: int) -> str:
+    """
+    Format bytes as human-readable text.
+
+    Args:
+        - num (int): The number of bytes.
+
+    Returns:
+        - str: The formatted string.
+    """
+    for unit in ["B", "kB", "MB", "GB", "TB"]:
+        if num < 1024:
+            return f"{num:.1f} {unit}"
+        num /= 1024
+    return f"{num:.1f} PB"
+
+
+markDown = f"""# {githubInfo.AUTHOR}
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"><b> Github Stats </b>
 
 <p align="center">
   <a href="https://github.com/{githubInfo.AUTHOR}">
@@ -59,6 +79,38 @@ if __name__ == "__main__":
     \end{array}
     $$
     """
+
+    # Markdown table with the languages
+    languages = {}
+
+    for repoData in repositories.values():
+        for lang, bytesCount in repoData["languages"].items():
+            languages[lang] = languages.get(lang, 0) + bytesCount
+
+    # Sort by byte count then by language name
+    languages = dict(
+        sorted(
+            languages.items(),
+            key=lambda item: (-item[1], item[0]),
+            reverse=False,
+        )
+    )
+
+    totalBytes = sum(languages.values())
+
+    markDownTableLang = """
+| <img width="1000"><br><p align="center">Language | <img width="1000" height="1"><br><p align="center">Bytes | <img width="1000" height="1"><br><p align="center">Percentage |
+|:----------|:----------:|----------:|
+    """
+
+    for lang, byteCount in languages.items():
+        markDownTableLang += f"| {lang} | {formatBytes(byteCount)} | {byteCount / totalBytes:.2%} |\n"
+
+    # Add the total bytes
+    markDownTableLang += f"| Total | {formatBytes(totalBytes)} | {totalBytes / totalBytes:.2%} |\n"
+
+    # We add the languages table to the markdown
+    markDown += markDownTableLang
 
     # Now we make a markdown table with the repositories and the commit count
     markDownTable = """
