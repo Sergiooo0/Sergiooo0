@@ -31,10 +31,6 @@ markDown = f"""# {githubInfo.AUTHOR}
       src="https://github-readme-stats-liard-nu-21.vercel.app/api?username={githubInfo.AUTHOR}&show_icons=true&hide_title=true&show=reviews,prs_merged&include_all_commits=true"
       alt="GitHub Stats"
       />
-    <img
-      width="600px"
-      src="https://github-readme-stats-liard-nu-21.vercel.app/api/top-langs/?username={githubInfo.AUTHOR}&langs_count=20"
-      />
   </a>
 </p>
 """
@@ -98,7 +94,8 @@ if __name__ == "__main__":
 
     totalBytes = sum(languages.values())
 
-    markDownTableLang = """
+    markDownTableLang = """## Languages
+
 | <img width="1000"><br><p align="center">Language | <img width="1000" height="1"><br><p align="center">Bytes | <img width="1000" height="1"><br><p align="center">Percentage |
 |:----------|:----------:|----------:|
     """
@@ -113,7 +110,8 @@ if __name__ == "__main__":
     markDown += markDownTableLang
 
     # Now we make a markdown table with the repositories and the commit count
-    markDownTable = """
+    markDownTable = """## Repositories
+
 | <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
 |:----------|----------:|
 """
