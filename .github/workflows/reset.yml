@@ -3,7 +3,7 @@ name: Remove README.md history
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 12 31 12 *'  # 12:00 UTC on December 31
+    - cron: "0 12 31 12 *" # 12:00 UTC on December 31
 
 permissions:
   contents: write
@@ -14,13 +14,22 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          fetch-depth: 0  # Required for BFG to work on full history
+          fetch-depth: 0 # Required for BFG to work on full history
 
-      - name: Remove README.md history
+      - name: Download BFG Repo-Cleaner
         run: |
           LATEST_VERSION=$(curl -s https://repo1.maven.org/maven2/com/madgag/bfg/maven-metadata.xml | grep '<latest>' | sed -E 's/.*<latest>(.*)<\/latest>.*/\1/')
           curl -L "https://repo1.maven.org/maven2/com/madgag/bfg/${LATEST_VERSION}/bfg-${LATEST_VERSION}.jar" -o bfg.jar
+
+      - name: Remove README.md history
+        run: |
           java -jar bfg.jar --delete-files README.md
+          git reflog expire --expire=now --all
+          git gc --prune=now --aggressive
+
+      - name: Remove repositories.json history
+        run: |
+          java -jar bfg.jar --delete-files repositories.json
           git reflog expire --expire=now --all
           git gc --prune=now --aggressive
 
