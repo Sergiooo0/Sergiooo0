@@ -1,4 +1,6 @@
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"><b> Github Stats </b>
+# SantiagoRR2004
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" alt=""><b> Github Stats </b>
 
 <p align="center">
   <a href="https://github.com/SantiagoRR2004">
@@ -7,12 +9,32 @@
       src="https://github-readme-stats-liard-nu-21.vercel.app/api?username=SantiagoRR2004&show_icons=true&hide_title=true&show=reviews,prs_merged&include_all_commits=true"
       alt="GitHub Stats"
       />
-    <img
-      width="600px"
-      src="https://github-readme-stats-liard-nu-21.vercel.app/api/top-langs/?username=SantiagoRR2004&langs_count=20"
-      />
   </a>
 </p>
+
+## Languages
+
+| <img width="1000"><br><p align="center">Language | <img width="1000" height="1"><br><p align="center">Bytes | <img width="1000" height="1"><br><p align="center">Percentage |
+|:----------|:----------:|----------:|
+| [Python](https://github.com/search?q=user:SantiagoRR2004+language:Python) | 4.8 MB | 88.02% |
+| [Java](https://github.com/search?q=user:SantiagoRR2004+language:Java) | 364.2 kB | 6.50% |
+| [JavaScript](https://github.com/search?q=user:SantiagoRR2004+language:JavaScript) | 60.8 kB | 1.08% |
+| [C++](https://github.com/search?q=user:SantiagoRR2004+language:C++) | 48.0 kB | 0.86% |
+| [Yacc](https://github.com/search?q=user:SantiagoRR2004+language:Yacc) | 38.2 kB | 0.68% |
+| [CLIPS](https://github.com/search?q=user:SantiagoRR2004+language:CLIPS) | 37.4 kB | 0.67% |
+| [TeX](https://github.com/search?q=user:SantiagoRR2004+language:TeX) | 23.3 kB | 0.42% |
+| [Prolog](https://github.com/search?q=user:SantiagoRR2004+language:Prolog) | 20.1 kB | 0.36% |
+| [HTML](https://github.com/search?q=user:SantiagoRR2004+language:HTML) | 18.8 kB | 0.34% |
+| [C](https://github.com/search?q=user:SantiagoRR2004+language:C) | 16.6 kB | 0.30% |
+| [Lex](https://github.com/search?q=user:SantiagoRR2004+language:Lex) | 15.6 kB | 0.28% |
+| [Shell](https://github.com/search?q=user:SantiagoRR2004+language:Shell) | 11.9 kB | 0.21% |
+| [CSS](https://github.com/search?q=user:SantiagoRR2004+language:CSS) | 9.5 kB | 0.17% |
+| [Makefile](https://github.com/search?q=user:SantiagoRR2004+language:Makefile) | 6.8 kB | 0.12% |
+| [CMake](https://github.com/search?q=user:SantiagoRR2004+language:CMake) | 369.0 B | 0.01% |
+| [Batchfile](https://github.com/search?q=user:SantiagoRR2004+language:Batchfile) | 233.0 B | 0.00% |
+| Total | 5.5 MB | 100.00% |
+
+## Repositories
 
 | <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
 |:----------|----------:|
@@ -28,12 +50,11 @@
 | [santipvz/PRO_I-Chatbot](https://github.com/santipvz/PRO_I-Chatbot) | 91 |
 | [ABIA-RubiksCube](https://github.com/SantiagoRR2004/ABIA-RubiksCube) | 88 |
 | [PIC-Python](https://github.com/SantiagoRR2004/PIC-Python) | 82 |
-| [WebSemantica](https://github.com/SantiagoRR2004/WebSemantica) | 79 |
 | [English-IrregularVerbs](https://github.com/SantiagoRR2004/English-IrregularVerbs) | 71 |
 | [santipvz/IC-Threads](https://github.com/santipvz/IC-Threads) | 71 |
 | [RAIN-StringTuner](https://github.com/SantiagoRR2004/RAIN-StringTuner) | 65 |
 | [ComputerVision](https://github.com/SantiagoRR2004/ComputerVision) | 62 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 50 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 54 |
 | [SIEX-CBR](https://github.com/SantiagoRR2004/SIEX-CBR) | 47 |
 | [ALF-Chusco](https://github.com/SantiagoRR2004/ALF-Chusco) | 46 |
 | [pythocron](https://github.com/SantiagoRR2004/pythocron) | 44 |
@@ -44,7 +65,6 @@
 | [GRIA-Optativas](https://github.com/SantiagoRR2004/GRIA-Optativas) | 34 |
 | [Hackathon](https://github.com/SantiagoRR2004/Hackathon) | 34 |
 | [Sergiooo0/SIEX-CLIPS](https://github.com/Sergiooo0/SIEX-CLIPS) | 28 |
-| [CIN-Deepfakes](https://github.com/SantiagoRR2004/CIN-Deepfakes) | 25 |
 | [MD-Combinations](https://github.com/SantiagoRR2004/MD-Combinations) | 23 |
 | [LucachuTW/CARDS-PokemonPocket-scrapper](https://github.com/LucachuTW/CARDS-PokemonPocket-scrapper) | 22 |
 | [APAU_II-KMeans](https://github.com/SantiagoRR2004/APAU_II-KMeans) | 21 |
@@ -57,8 +77,7 @@
 | [LustreTemplate](https://github.com/SantiagoRR2004/LustreTemplate) | 5 |
 | [TIC_II-GameAndWatch](https://github.com/SantiagoRR2004/TIC_II-GameAndWatch) | 5 |
 | [skills-introduction-to-github](https://github.com/SantiagoRR2004/skills-introduction-to-github) | 3 |
-| [FixDancer](https://github.com/SantiagoRR2004/FixDancer) | 2 |
 | [tasador-24](https://github.com/SantiagoRR2004/tasador-24) | 2 |
 | [hsahovic/poke-env](https://github.com/hsahovic/poke-env) | 1 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 2618 |
+| Total | 2516 |

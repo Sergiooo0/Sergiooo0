@@ -173,23 +173,6 @@
     },
     "contributors": 3
   },
-  "https://github.com/SantiagoRR2004/WebSemantica": {
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 139,
-    "userCommits": 79,
-    "languages": {
-      "Java": 78468,
-      "Turtle": 18238,
-      "SPARQL": 11649,
-      "Shell": 1267
-    },
-    "contributors": 3
-  },
   "https://github.com/SantiagoRR2004/English-IrregularVerbs": {
     "stars": 0,
     "forks": 0,
@@ -261,10 +244,10 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 50,
-    "userCommits": 50,
+    "commits": 54,
+    "userCommits": 54,
     "languages": {
-      "Python": 15723
+      "Python": 17370
     },
     "contributors": 1
   },
@@ -417,21 +400,6 @@
       "Batchfile": 233
     },
     "contributors": 3
-  },
-  "https://github.com/SantiagoRR2004/CIN-Deepfakes": {
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 25,
-    "userCommits": 25,
-    "languages": {
-      "Shell": 6969,
-      "Python": 2254
-    },
-    "contributors": 1
   },
   "https://github.com/SantiagoRR2004/MD-Combinations": {
     "stars": 0,
@@ -599,22 +567,6 @@
     "languages": {},
     "contributors": 2
   },
-  "https://github.com/SantiagoRR2004/FixDancer": {
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 1226,
-    "userCommits": 2,
-    "languages": {
-      "Python": 649053,
-      "HTML": 5603,
-      "Shell": 98
-    },
-    "contributors": 27
-  },
   "https://github.com/SantiagoRR2004/tasador-24": {
     "stars": 0,
     "forks": 0,
@@ -631,10 +583,10 @@
   },
   "https://github.com/hsahovic/poke-env": {
     "stars": 437,
-    "forks": 135,
+    "forks": 134,
     "issues": 264,
     "userIssues": 4,
-    "pullRequests": 537,
+    "pullRequests": 540,
     "userPullRequests": 2,
     "commits": 1266,
     "userCommits": 1,
