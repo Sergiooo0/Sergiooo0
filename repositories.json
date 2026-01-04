@@ -244,8 +244,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 54,
-    "userCommits": 54,
+    "commits": 56,
+    "userCommits": 56,
     "languages": {
       "Python": 17370
     },
@@ -401,6 +401,20 @@
     },
     "contributors": 3
   },
+  "https://github.com/LucachuTW/CARDS-PokemonPocket-scrapper": {
+    "stars": 45,
+    "forks": 11,
+    "issues": 7,
+    "userIssues": 6,
+    "pullRequests": 7,
+    "userPullRequests": 4,
+    "commits": 54,
+    "userCommits": 25,
+    "languages": {
+      "Python": 30297
+    },
+    "contributors": 4
+  },
   "https://github.com/SantiagoRR2004/MD-Combinations": {
     "stars": 0,
     "forks": 0,
@@ -412,20 +426,6 @@
     "userCommits": 23,
     "languages": {
       "Python": 7406
-    },
-    "contributors": 4
-  },
-  "https://github.com/LucachuTW/CARDS-PokemonPocket-scrapper": {
-    "stars": 45,
-    "forks": 10,
-    "issues": 7,
-    "userIssues": 6,
-    "pullRequests": 7,
-    "userPullRequests": 4,
-    "commits": 51,
-    "userCommits": 22,
-    "languages": {
-      "Python": 27857
     },
     "contributors": 4
   },
@@ -487,6 +487,20 @@
     },
     "contributors": 2
   },
+  "https://github.com/SantiagoRR2004/SantiagoRR2004.github.io": {
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 0,
+    "userPullRequests": 0,
+    "commits": 8,
+    "userCommits": 8,
+    "languages": {
+      "HTML": 4214
+    },
+    "contributors": 1
+  },
   "https://github.com/SantiagoRR2004/APAU_II-AssociationRules": {
     "stars": 0,
     "forks": 0,
@@ -512,20 +526,6 @@
     "userCommits": 7,
     "languages": {},
     "contributors": 2
-  },
-  "https://github.com/SantiagoRR2004/SantiagoRR2004.github.io": {
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 7,
-    "userCommits": 7,
-    "languages": {
-      "HTML": 1834
-    },
-    "contributors": 1
   },
   "https://github.com/SantiagoRR2004/LustreTemplate": {
     "stars": 0,
