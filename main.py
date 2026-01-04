@@ -20,12 +20,12 @@ def formatBytes(num: int) -> str:
     return f"{num:.1f} PB"
 
 
-markDown = f"""# {githubInfo.AUTHOR}
+markDown = f"""# [{githubInfo.AUTHOR}](https://{githubInfo.AUTHOR}.github.io/)
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" alt=""><b> Github Stats </b>
+## <a href="https://{githubInfo.AUTHOR}.github.io/"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" alt=""></a> <b> Github Stats </b>
 
 <p align="center">
-  <a href="https://github.com/{githubInfo.AUTHOR}">
+  <a href="https://{githubInfo.AUTHOR}.github.io/">
     <img
       width="600px"
       src="https://github-readme-stats-liard-nu-21.vercel.app/api?username={githubInfo.AUTHOR}&show_icons=true&hide_title=true&show=reviews,prs_merged&include_all_commits=true"
