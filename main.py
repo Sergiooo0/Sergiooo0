@@ -112,6 +112,43 @@ if __name__ == "__main__":
     # We add the languages table to the markdown
     markDown += markDownTableLang
 
+    # The collaborators table
+    collaborators = {}
+
+    for repoData in repositories.values():
+        for contId, contName in repoData["contributors"].items():
+            if contId not in collaborators:
+                collaborators[contId] = {"username": contName, "count": 0}
+
+            collaborators[contId]["count"] += 1
+
+    # Sort by number of repositories collaborated on, then by username
+    collaborators = dict(
+        sorted(
+            collaborators.items(),
+            key=lambda item: (-item[1]["count"], item[1]["username"]),
+            reverse=False,
+        )
+    )
+
+    markDownTableCollab = """
+## Collaborators
+
+| <img width="1000"><br><p align="center">User | <img width="1000" height="1"><br><p align="center">Collaborations |
+|:----------|----------:|
+"""
+
+    for collabData in collaborators.values():
+        markDownTableCollab += f"| [{collabData['username']}](https://github.com/{collabData['username']}) | {collabData['count']} |\n"
+
+    # Add the total number of collaborations
+    markDownTableCollab += (
+        f"| Total | {sum([data['count'] for data in collaborators.values()])} |\n"
+    )
+
+    # We add the collaborators table to the markdown
+    markDown += markDownTableCollab
+
     # Now we make a markdown table with the repositories and the commit count
     markDownTable = """
 ## Repositories
