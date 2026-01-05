@@ -153,9 +153,9 @@ def getRepoData(repository: str) -> dict:
         for language in result["repository"]["languages"]["edges"]:
             toret["languages"][language["node"]["name"]] = language["size"]
 
-        # Total number of contributors
+        # Contributors
         # Do it here to keep the calls count low if GraphQL is not available
-        toret["contributors"] = getContributorCount(repository)
+        toret["contributors"] = getContributors(repository)
 
     else:
         # Default to basic API if GraphQL fails
@@ -166,6 +166,7 @@ def getRepoData(repository: str) -> dict:
             "languages": {
                 random.choice(list(string.ascii_uppercase)): random.randint(1, 10**6)
             },
+            "contributors": {},
         }
 
     return toret
@@ -214,46 +215,59 @@ def getCommitCount(repository: str) -> int:
         return len(response.json())
 
 
-def getContributorCount(repository: str) -> int:
+def getContributors(repository: str) -> dict:
     """
-    Get the number of contributors for a repository.
+    Get the contributors for a repository.
 
     Args:
         - repository (str): The repository name in the format "owner/repo".
 
     Returns:
-        - int: The number of contributors.
+        - dict: The dictionary of contributors. The keys will be the ids and the values the usernames.
     """
     global NUMBERCALLSAPI
+
+    contributors = {}
+    morePages = True
 
     # GitHub API URL for contributors
     url = f"https://api.github.com/repos/{repository}/contributors"
 
     # Set the parameters for the API request
-    params = {"per_page": 1, "page": 1}
+    params = {"per_page": 100, "page": 1}
 
     if TOKEN:
         headers = {"Authorization": f"Bearer {TOKEN}"}
     else:
         headers = {}
 
-    response = requests.get(url, params=params, headers=headers)
-    NUMBERCALLSAPI += 1
+    while morePages:
 
-    if response.status_code != 200:
-        print(f"Error: {response.status_code} - {response.text}")
-        return 0
+        response = requests.get(url, params=params, headers=headers)
+        NUMBERCALLSAPI += 1
 
-    # Check for the 'Link' header to find last page
-    link = response.headers.get("Link")
-    if link and 'rel="last"' in link:
-        # Extract the last page number
-        last_url = [l for l in link.split(",") if 'rel="last"' in l][0]
-        last_page = int(last_url.split("page=")[-1].split(">")[0])
-        return last_page
-    else:
-        # Only one page, so return 0 or 1 depending on response content
-        return len(response.json())
+        if response.status_code != 200:
+            print(f"Error: {response.status_code} - {response.text}")
+            break
+
+        for contributor in response.json():
+            contributors[contributor["id"]] = contributor["login"]
+
+        # Check for the 'Link' header to find next page
+        link = response.headers.get("Link")
+
+        if not link or 'rel="next"' not in link:
+            morePages = False
+
+        else:
+            params["page"] += 1
+
+    # Remove the author if present
+    for id, username in list(contributors.items()):
+        if username == AUTHOR:
+            del contributors[id]
+
+    return contributors
 
 
 def getListOfRepositories() -> list:
