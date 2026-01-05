@@ -138,8 +138,10 @@ if __name__ == "__main__":
 |:----------|----------:|
 """
 
-    for collabData in collaborators.values():
-        markDownTableCollab += f"| [{collabData['username']}](https://github.com/{collabData['username']}) | {collabData['count']} |\n"
+    for collabId, collabData in collaborators.items():
+        profilePicture = f"<span><a href=\"https://github.com/{collabData['username']}\"><img src=\"https://avatars.githubusercontent.com/u/{collabId}\" style=\"width:1ch;\" alt=\"\"></span>"
+
+        markDownTableCollab += f"| {profilePicture}&ensp;[{collabData['username']}](https://github.com/{collabData['username']})&ensp;{profilePicture} | {collabData['count']} |\n"
 
     # Add the total number of collaborations
     markDownTableCollab += (
