@@ -130,20 +130,6 @@
     },
     "contributors": 3
   },
-  "https://github.com/santipvz/PRO_I-Chatbot": {
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 161,
-    "userCommits": 91,
-    "languages": {
-      "Python": 12869
-    },
-    "contributors": 4
-  },
   "https://github.com/SantiagoRR2004/ABIA-RubiksCube": {
     "stars": 0,
     "forks": 0,
@@ -244,10 +230,10 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 56,
-    "userCommits": 56,
+    "commits": 58,
+    "userCommits": 58,
     "languages": {
-      "Python": 17370
+      "Python": 17466
     },
     "contributors": 1
   },
@@ -289,10 +275,10 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 48,
-    "userCommits": 44,
+    "commits": 50,
+    "userCommits": 46,
     "languages": {
-      "Python": 7930,
+      "Python": 9084,
       "Shell": 625
     },
     "contributors": 2
@@ -408,7 +394,7 @@
     "userIssues": 6,
     "pullRequests": 7,
     "userPullRequests": 4,
-    "commits": 54,
+    "commits": 55,
     "userCommits": 25,
     "languages": {
       "Python": 30297
@@ -494,10 +480,11 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 8,
-    "userCommits": 8,
+    "commits": 11,
+    "userCommits": 11,
     "languages": {
-      "HTML": 4214
+      "JavaScript": 15716,
+      "HTML": 439
     },
     "contributors": 1
   },
@@ -582,7 +569,7 @@
     "contributors": 2
   },
   "https://github.com/hsahovic/poke-env": {
-    "stars": 437,
+    "stars": 438,
     "forks": 134,
     "issues": 264,
     "userIssues": 4,
