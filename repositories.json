@@ -12,7 +12,11 @@
       "Python": 61423,
       "C++": 28587
     },
-    "contributors": 4
+    "contributors": {
+      "76734632": "Sergiooo0",
+      "65916846": "actions-user",
+      "116091929": "usbt0p"
+    }
   },
   "https://github.com/LucachuTW/IS-Grupo301": {
     "stars": 0,
@@ -26,7 +30,17 @@
     "languages": {
       "Python": 246943
     },
-    "contributors": 10
+    "contributors": {
+      "148537889": "Ventupentu",
+      "150857533": "antonoterof",
+      "116091640": "LucachuTW",
+      "118545875": "antonvm2004",
+      "113910598": "rxbxrtx",
+      "148640382": "carmenvt7",
+      "150954220": "luciaavivero",
+      "65916846": "actions-user",
+      "132823629": "evvv0"
+    }
   },
   "https://github.com/SantiagoRR2004/GRIA-Questions": {
     "stars": 0,
@@ -40,7 +54,19 @@
     "languages": {
       "Python": 14701
     },
-    "contributors": 12
+    "contributors": {
+      "65916846": "actions-user",
+      "116091929": "usbt0p",
+      "135325970": "deibis4211",
+      "114695520": "santipvz",
+      "62659701": "MiniX16",
+      "116091640": "LucachuTW",
+      "146563007": "AdanAgr",
+      "76734632": "Sergiooo0",
+      "116092074": "daor95",
+      "148789530": "tomasrial46",
+      "148537889": "Ventupentu"
+    }
   },
   "https://github.com/SantiagoRR2004/PIC-book-exercise-docs": {
     "stars": 0,
@@ -54,7 +80,11 @@
     "languages": {
       "Shell": 2026
     },
-    "contributors": 4
+    "contributors": {
+      "63560596": "labbenchstudios",
+      "1798843": "irconde",
+      "65916846": "actions-user"
+    }
   },
   "https://github.com/SantiagoRR2004/APAU_BIO": {
     "stars": 0,
@@ -68,7 +98,11 @@
     "languages": {
       "Python": 679104
     },
-    "contributors": 4
+    "contributors": {
+      "76734632": "Sergiooo0",
+      "65916846": "actions-user",
+      "5877660": "dnolivieri"
+    }
   },
   "https://github.com/SantiagoRR2004/GRIA-TestCreator": {
     "stars": 0,
@@ -85,7 +119,13 @@
       "HTML": 7469,
       "CSS": 6845
     },
-    "contributors": 6
+    "contributors": {
+      "65916846": "actions-user",
+      "116091929": "usbt0p",
+      "114695520": "santipvz",
+      "135325970": "deibis4211",
+      "148537889": "Ventupentu"
+    }
   },
   "https://github.com/SantiagoRR2004/MiiPlazaDecoder": {
     "stars": 1,
@@ -99,7 +139,9 @@
     "languages": {
       "Python": 60154
     },
-    "contributors": 2
+    "contributors": {
+      "65916846": "actions-user"
+    }
   },
   "https://github.com/SantiagoRR2004/Modules": {
     "stars": 0,
@@ -113,7 +155,9 @@
     "languages": {
       "Python": 102928
     },
-    "contributors": 2
+    "contributors": {
+      "65916846": "actions-user"
+    }
   },
   "https://github.com/SantiagoRR2004/PIC-Java": {
     "stars": 0,
@@ -128,7 +172,10 @@
       "Java": 323528,
       "Shell": 1159
     },
-    "contributors": 3
+    "contributors": {
+      "63560596": "labbenchstudios",
+      "65916846": "actions-user"
+    }
   },
   "https://github.com/SantiagoRR2004/ABIA-RubiksCube": {
     "stars": 0,
@@ -142,7 +189,10 @@
     "languages": {
       "Python": 102098
     },
-    "contributors": 3
+    "contributors": {
+      "76734632": "Sergiooo0",
+      "65916846": "actions-user"
+    }
   },
   "https://github.com/SantiagoRR2004/PIC-Python": {
     "stars": 0,
@@ -157,7 +207,10 @@
       "Python": 324624,
       "Shell": 1015
     },
-    "contributors": 3
+    "contributors": {
+      "63560596": "labbenchstudios",
+      "65916846": "actions-user"
+    }
   },
   "https://github.com/SantiagoRR2004/English-IrregularVerbs": {
     "stars": 0,
@@ -174,7 +227,9 @@
       "CSS": 2896,
       "HTML": 2861
     },
-    "contributors": 2
+    "contributors": {
+      "65916846": "actions-user"
+    }
   },
   "https://github.com/santipvz/IC-Threads": {
     "stars": 0,
@@ -189,7 +244,10 @@
       "Python": 7046,
       "Shell": 538
     },
-    "contributors": 3
+    "contributors": {
+      "114695520": "santipvz",
+      "65916846": "actions-user"
+    }
   },
   "https://github.com/SantiagoRR2004/RAIN-StringTuner": {
     "stars": 0,
@@ -203,7 +261,10 @@
     "languages": {
       "Python": 78649
     },
-    "contributors": 3
+    "contributors": {
+      "76734632": "Sergiooo0",
+      "65916846": "actions-user"
+    }
   },
   "https://github.com/SantiagoRR2004/ComputerVision": {
     "stars": 0,
@@ -221,7 +282,12 @@
       "Shell": 851,
       "CMake": 369
     },
-    "contributors": 5
+    "contributors": {
+      "76734632": "Sergiooo0",
+      "65916846": "actions-user",
+      "5877660": "dnolivieri",
+      "116091929": "usbt0p"
+    }
   },
   "https://github.com/SantiagoRR2004/SantiagoRR2004": {
     "stars": 0,
@@ -230,12 +296,12 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 58,
-    "userCommits": 58,
+    "commits": 62,
+    "userCommits": 62,
     "languages": {
-      "Python": 17466
+      "Python": 19149
     },
-    "contributors": 1
+    "contributors": {}
   },
   "https://github.com/SantiagoRR2004/SIEX-CBR": {
     "stars": 0,
@@ -249,7 +315,27 @@
     "languages": {
       "Python": 56738
     },
-    "contributors": 3
+    "contributors": {
+      "76734632": "Sergiooo0",
+      "65916846": "actions-user"
+    }
+  },
+  "https://github.com/SantiagoRR2004/pythocron": {
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 0,
+    "userPullRequests": 0,
+    "commits": 51,
+    "userCommits": 47,
+    "languages": {
+      "Python": 9219,
+      "Shell": 625
+    },
+    "contributors": {
+      "65916846": "actions-user"
+    }
   },
   "https://github.com/SantiagoRR2004/ALF-Chusco": {
     "stars": 0,
@@ -266,22 +352,9 @@
       "C": 1716,
       "Makefile": 374
     },
-    "contributors": 2
-  },
-  "https://github.com/SantiagoRR2004/pythocron": {
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 50,
-    "userCommits": 46,
-    "languages": {
-      "Python": 9084,
-      "Shell": 625
-    },
-    "contributors": 2
+    "contributors": {
+      "76734632": "Sergiooo0"
+    }
   },
   "https://github.com/SantiagoRR2004/APS-WiFiSniffer": {
     "stars": 2,
@@ -296,7 +369,11 @@
       "C": 15303,
       "C++": 13289
     },
-    "contributors": 4
+    "contributors": {
+      "116092074": "daor95",
+      "114695520": "santipvz",
+      "116091929": "usbt0p"
+    }
   },
   "https://github.com/SantiagoRR2004/SIEX-RAG": {
     "stars": 0,
@@ -310,7 +387,10 @@
     "languages": {
       "Python": 19921
     },
-    "contributors": 3
+    "contributors": {
+      "76734632": "Sergiooo0",
+      "65916846": "actions-user"
+    }
   },
   "https://github.com/SantiagoRR2004/APAU_II-FineTuning": {
     "stars": 0,
@@ -325,7 +405,12 @@
       "Python": 61064,
       "Shell": 1380
     },
-    "contributors": 5
+    "contributors": {
+      "116092074": "daor95",
+      "65916846": "actions-user",
+      "116967182": "NicolGallo",
+      "116091929": "usbt0p"
+    }
   },
   "https://github.com/SantiagoRR2004/ABIA-Connect4": {
     "stars": 0,
@@ -339,7 +424,9 @@
     "languages": {
       "Java": 49445
     },
-    "contributors": 2
+    "contributors": {
+      "76734632": "Sergiooo0"
+    }
   },
   "https://github.com/SantiagoRR2004/GRIA-Optativas": {
     "stars": 0,
@@ -354,7 +441,9 @@
       "Python": 13636,
       "HTML": 761
     },
-    "contributors": 2
+    "contributors": {
+      "65916846": "actions-user"
+    }
   },
   "https://github.com/SantiagoRR2004/Hackathon": {
     "stars": 0,
@@ -369,7 +458,11 @@
       "Python": 33216,
       "Shell": 2985
     },
-    "contributors": 4
+    "contributors": {
+      "116091929": "usbt0p",
+      "116092074": "daor95",
+      "65916846": "actions-user"
+    }
   },
   "https://github.com/Sergiooo0/SIEX-CLIPS": {
     "stars": 0,
@@ -385,11 +478,14 @@
       "Python": 6828,
       "Batchfile": 233
     },
-    "contributors": 3
+    "contributors": {
+      "76734632": "Sergiooo0",
+      "65916846": "actions-user"
+    }
   },
   "https://github.com/LucachuTW/CARDS-PokemonPocket-scrapper": {
     "stars": 45,
-    "forks": 11,
+    "forks": 12,
     "issues": 7,
     "userIssues": 6,
     "pullRequests": 7,
@@ -399,7 +495,11 @@
     "languages": {
       "Python": 30297
     },
-    "contributors": 4
+    "contributors": {
+      "116091640": "LucachuTW",
+      "40212940": "da1pi2",
+      "53957795": "chase-manning"
+    }
   },
   "https://github.com/SantiagoRR2004/MD-Combinations": {
     "stars": 0,
@@ -413,7 +513,11 @@
     "languages": {
       "Python": 7406
     },
-    "contributors": 4
+    "contributors": {
+      "116092027": "fedellor",
+      "65916846": "actions-user",
+      "76734632": "Sergiooo0"
+    }
   },
   "https://github.com/SantiagoRR2004/APAU_II-KMeans": {
     "stars": 0,
@@ -427,7 +531,10 @@
     "languages": {
       "Python": 11765
     },
-    "contributors": 3
+    "contributors": {
+      "76734632": "Sergiooo0",
+      "65916846": "actions-user"
+    }
   },
   "https://github.com/SantiagoRR2004/RCR-RBS": {
     "stars": 0,
@@ -442,7 +549,9 @@
       "Prolog": 20564,
       "Makefile": 24
     },
-    "contributors": 2
+    "contributors": {
+      "76734632": "Sergiooo0"
+    }
   },
   "https://github.com/SantiagoRR2004/APAU_II-Clustering": {
     "stars": 0,
@@ -456,7 +565,10 @@
     "languages": {
       "Python": 12676
     },
-    "contributors": 3
+    "contributors": {
+      "76734632": "Sergiooo0",
+      "65916846": "actions-user"
+    }
   },
   "https://github.com/SantiagoRR2004/GOTY": {
     "stars": 0,
@@ -471,7 +583,9 @@
       "Python": 5834,
       "HTML": 712
     },
-    "contributors": 2
+    "contributors": {
+      "65916846": "actions-user"
+    }
   },
   "https://github.com/SantiagoRR2004/SantiagoRR2004.github.io": {
     "stars": 0,
@@ -486,7 +600,7 @@
       "JavaScript": 15716,
       "HTML": 439
     },
-    "contributors": 1
+    "contributors": {}
   },
   "https://github.com/SantiagoRR2004/APAU_II-AssociationRules": {
     "stars": 0,
@@ -500,7 +614,10 @@
     "languages": {
       "Python": 9730
     },
-    "contributors": 3
+    "contributors": {
+      "76734632": "Sergiooo0",
+      "65916846": "actions-user"
+    }
   },
   "https://github.com/SantiagoRR2004/PythonTemplate": {
     "stars": 0,
@@ -512,7 +629,9 @@
     "commits": 8,
     "userCommits": 7,
     "languages": {},
-    "contributors": 2
+    "contributors": {
+      "65916846": "actions-user"
+    }
   },
   "https://github.com/SantiagoRR2004/LustreTemplate": {
     "stars": 0,
@@ -526,7 +645,7 @@
     "languages": {
       "Shell": 1348
     },
-    "contributors": 1
+    "contributors": {}
   },
   "https://github.com/SantiagoRR2004/TIC_II-GameAndWatch": {
     "stars": 0,
@@ -540,7 +659,9 @@
     "languages": {
       "Python": 15252
     },
-    "contributors": 2
+    "contributors": {
+      "65916846": "actions-user"
+    }
   },
   "https://github.com/SantiagoRR2004/skills-introduction-to-github": {
     "stars": 0,
@@ -552,7 +673,9 @@
     "commits": 11,
     "userCommits": 3,
     "languages": {},
-    "contributors": 2
+    "contributors": {
+      "41898282": "github-actions[bot]"
+    }
   },
   "https://github.com/SantiagoRR2004/tasador-24": {
     "stars": 0,
@@ -566,7 +689,9 @@
     "languages": {
       "Python": 22949
     },
-    "contributors": 2
+    "contributors": {
+      "6004566": "ribadas-uvigo"
+    }
   },
   "https://github.com/hsahovic/poke-env": {
     "stars": 438,
@@ -575,14 +700,42 @@
     "userIssues": 4,
     "pullRequests": 540,
     "userPullRequests": 2,
-    "commits": 1266,
+    "commits": 1268,
     "userCommits": 1,
     "languages": {
-      "Python": 697823,
+      "Python": 697996,
       "HTML": 5603,
       "Shell": 238
     },
-    "contributors": 28
+    "contributors": {
+      "25432355": "hsahovic",
+      "49699333": "dependabot[bot]",
+      "82184604": "MatteoH2O1999",
+      "50247523": "cameronangliss",
+      "41898282": "github-actions[bot]",
+      "8413475": "caymansimpson",
+      "38109359": "szymonWojdat",
+      "27856297": "dependabot-preview[bot]",
+      "10437649": "akashsara",
+      "4717005": "uduse",
+      "33169711": "kodecreer",
+      "17132214": "acxz",
+      "30420527": "shrianshChari",
+      "25304649": "pmariglia",
+      "97079030": "VolundrAI",
+      "10923695": "AoifeHughes",
+      "58889866": "AFumis",
+      "13490018": "BrunoMNDantas",
+      "15002448": "BaiqingL",
+      "9001941": "Benjamin-Etheredge",
+      "106555015": "DanieleDataMasters",
+      "11090059": "darrenswhite",
+      "38857533": "dmizr",
+      "66328126": "gstvschlz",
+      "101541421": "lcgabaldon",
+      "28374593": "TVFLabs",
+      "140982580": "jkim2729"
+    }
   },
   "https://github.com/waveform80/pisense": {
     "stars": 7,
@@ -597,6 +750,8 @@
       "Python": 223044,
       "Makefile": 6605
     },
-    "contributors": 1
+    "contributors": {
+      "1076190": "waveform80"
+    }
   }
 }
