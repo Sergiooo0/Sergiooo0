@@ -16,15 +16,15 @@
 
 | <img width="1000"><br><p align="center">Language | <img width="1000" height="1"><br><p align="center">Bytes | <img width="1000" height="1"><br><p align="center">Percentage |
 |:----------|:----------:|----------:|
-| [Python](https://github.com/search?q=user:SantiagoRR2004+language:Python) | 4.8 MB | 87.78% |
+| [Python](https://github.com/search?q=user:SantiagoRR2004+language:Python) | 4.8 MB | 87.77% |
 | [Java](https://github.com/search?q=user:SantiagoRR2004+language:Java) | 364.2 kB | 6.49% |
-| [JavaScript](https://github.com/search?q=user:SantiagoRR2004+language:JavaScript) | 76.1 kB | 1.36% |
+| [JavaScript](https://github.com/search?q=user:SantiagoRR2004+language:JavaScript) | 77.3 kB | 1.38% |
 | [C++](https://github.com/search?q=user:SantiagoRR2004+language:C++) | 48.0 kB | 0.85% |
 | [Yacc](https://github.com/search?q=user:SantiagoRR2004+language:Yacc) | 38.2 kB | 0.68% |
 | [CLIPS](https://github.com/search?q=user:SantiagoRR2004+language:CLIPS) | 37.4 kB | 0.67% |
 | [TeX](https://github.com/search?q=user:SantiagoRR2004+language:TeX) | 23.3 kB | 0.42% |
 | [Prolog](https://github.com/search?q=user:SantiagoRR2004+language:Prolog) | 20.1 kB | 0.36% |
-| [HTML](https://github.com/search?q=user:SantiagoRR2004+language:HTML) | 17.4 kB | 0.31% |
+| [HTML](https://github.com/search?q=user:SantiagoRR2004+language:HTML) | 17.5 kB | 0.31% |
 | [C](https://github.com/search?q=user:SantiagoRR2004+language:C) | 16.6 kB | 0.30% |
 | [Lex](https://github.com/search?q=user:SantiagoRR2004+language:Lex) | 15.6 kB | 0.28% |
 | [Shell](https://github.com/search?q=user:SantiagoRR2004+language:Shell) | 11.9 kB | 0.21% |
@@ -111,8 +111,8 @@
 | [English-IrregularVerbs](https://github.com/SantiagoRR2004/English-IrregularVerbs) | 71 |
 | [santipvz/IC-Threads](https://github.com/santipvz/IC-Threads) | 71 |
 | [RAIN-StringTuner](https://github.com/SantiagoRR2004/RAIN-StringTuner) | 65 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 63 |
 | [ComputerVision](https://github.com/SantiagoRR2004/ComputerVision) | 62 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 62 |
 | [SIEX-CBR](https://github.com/SantiagoRR2004/SIEX-CBR) | 47 |
 | [pythocron](https://github.com/SantiagoRR2004/pythocron) | 47 |
 | [ALF-Chusco](https://github.com/SantiagoRR2004/ALF-Chusco) | 46 |
@@ -128,8 +128,8 @@
 | [APAU_II-KMeans](https://github.com/SantiagoRR2004/APAU_II-KMeans) | 21 |
 | [RCR-RBS](https://github.com/SantiagoRR2004/RCR-RBS) | 20 |
 | [APAU_II-Clustering](https://github.com/SantiagoRR2004/APAU_II-Clustering) | 18 |
+| [SantiagoRR2004.github.io](https://github.com/SantiagoRR2004/SantiagoRR2004.github.io) | 13 |
 | [GOTY](https://github.com/SantiagoRR2004/GOTY) | 12 |
-| [SantiagoRR2004.github.io](https://github.com/SantiagoRR2004/SantiagoRR2004.github.io) | 11 |
 | [APAU_II-AssociationRules](https://github.com/SantiagoRR2004/APAU_II-AssociationRules) | 7 |
 | [PythonTemplate](https://github.com/SantiagoRR2004/PythonTemplate) | 7 |
 | [LustreTemplate](https://github.com/SantiagoRR2004/LustreTemplate) | 5 |
@@ -138,4 +138,4 @@
 | [tasador-24](https://github.com/SantiagoRR2004/tasador-24) | 2 |
 | [hsahovic/poke-env](https://github.com/hsahovic/poke-env) | 1 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 2443 |
+| Total | 2446 |
