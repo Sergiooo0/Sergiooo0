@@ -446,29 +446,6 @@ def getRepositoriesWithGraphQL() -> list:
     The query is based on the following StackOverflow answer:
     https://stackoverflow.com/questions/20714593/github-api-repositories-contributed-to
 
-    Example:
-        {
-            "data": {
-                "user": {
-                    "login": "SantiagoRR2004",
-                    "repositoriesContributedTo": {
-                        "totalCount": 5,
-                        "nodes": [
-                            {"nameWithOwner": "hsahovic/poke-env"},
-                            {"nameWithOwner": "santipvz/PRO_I-Chatbot"},
-                            {"nameWithOwner": "LucachuTW/IS-Grupo301"},
-                            {"nameWithOwner": "esei-si-dagss/tasador-24"},
-                            {"nameWithOwner": "LucachuTW/CARDS-PokemonPocket-scrapper"},
-                        ],
-                        "pageInfo": {
-                            "endCursor": "Y3Vyc29yOnYyOpHONNz90g==",
-                            "hasNextPage": False,
-                        },
-                    },
-                }
-            }
-        }
-
     Args:
         - None
 
@@ -476,45 +453,100 @@ def getRepositoriesWithGraphQL() -> list:
         - list: The list of repositories.
     """
     # GraphQL query
-    queryTemplate = """
-    {
+    queryTemplateCommit = """
     user(login: "{login}") {
-        login
-        repositoriesContributedTo(first: 100, after: {cursor}, contributionTypes: [COMMIT, ISSUE, PULL_REQUEST, REPOSITORY]) {
-        totalCount
-        nodes {
-            nameWithOwner
+        repositoriesContributedTo(
+            first: 100,
+            after: {cursor},
+            contributionTypes: [COMMIT]
+        ) {
+            nodes {
+                nameWithOwner
+            }
+            pageInfo {
+                endCursor
+                hasNextPage
+            }
         }
+    }
+"""
+
+    # Issues include pull requests
+    queryTemplateIssues = """
+    search(
+        query: "involves:{login} -user:{login}"
+        type: ISSUE
+        first: 100
+        after: {cursor}
+    ) {
         pageInfo {
             endCursor
             hasNextPage
         }
+        nodes {
+            ... on Issue {
+                repository {
+                    nameWithOwner
+                }
+            }
+            ... on PullRequest {
+                repository {
+                    nameWithOwner
+                }
+            }
         }
     }
-    }
-    """
+"""
 
-    queryTemplate = queryTemplate.replace("{login}", AUTHOR)
+    # queryTemplate = queryTemplate.replace("{login}", AUTHOR)
+    queryTemplateCommit = queryTemplateCommit.replace("{login}", AUTHOR)
+    queryTemplateIssues = queryTemplateIssues.replace("{login}", AUTHOR)
 
-    cursor = "null"
-    repositories = []
+    cursorC = "null"
+    cursorI = "null"
+    repositories = set()
 
-    while True:
-        query = queryTemplate.replace(
-            "{cursor}", f'"{cursor}"' if cursor != "null" else "null"
-        )
+    while cursorC or cursorI:
+
+        if cursorC:
+            queryCommits = queryTemplateCommit.replace(
+                "{cursor}", f'"{cursorC}"' if cursorC != "null" else "null"
+            )
+        else:
+            queryCommits = ""
+
+        if cursorI:
+            queryIssues = queryTemplateIssues.replace(
+                "{cursor}", f'"{cursorI}"' if cursorI != "null" else "null"
+            )
+        else:
+            queryIssues = ""
+
+        query = "{" + queryCommits + queryIssues + "}"
         result = runQuery(query, TOKEN)
+
         if result:
-            data = result["data"]["user"]["repositoriesContributedTo"]
+            dataC = result["data"]["user"]["repositoriesContributedTo"]
 
-            for repo in data["nodes"]:
-                repositories.append(repo["nameWithOwner"])
+            for repo in dataC["nodes"]:
+                repositories.add(repo["nameWithOwner"])
 
-            if not data["pageInfo"]["hasNextPage"]:
-                break
+            if not dataC["pageInfo"]["hasNextPage"]:
+                cursorC = False
+            else:
+                cursorC = dataC["pageInfo"]["endCursor"]
 
-            cursor = data["pageInfo"]["endCursor"]
+            dataI = result["data"]["search"]
+
+            for node in dataI["nodes"]:
+                repositories.add(node["repository"]["nameWithOwner"])
+
+            if not dataI["pageInfo"]["hasNextPage"]:
+                cursorI = False
+            else:
+                cursorI = dataI["pageInfo"]["endCursor"]
+
         else:
             break
 
-    return repositories
+    return list(repositories)
