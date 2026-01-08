@@ -273,10 +273,10 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 63,
-    "userCommits": 63,
+    "commits": 65,
+    "userCommits": 65,
     "languages": {
-      "Python": 19149
+      "Python": 19709
     },
     "contributors": {}
   },
@@ -677,6 +677,23 @@
       "41898282": "github-actions[bot]"
     }
   },
+  "https://github.com/rubenfb23/AutoPaperwork": {
+    "stars": 1,
+    "forks": 0,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 4,
+    "userPullRequests": 2,
+    "commits": 29,
+    "userCommits": 3,
+    "languages": {
+      "Python": 15047
+    },
+    "contributors": {
+      "98909961": "rubenfb23",
+      "70293484": "macarracedo"
+    }
+  },
   "https://github.com/SantiagoRR2004/tasador-24": {
     "stars": 0,
     "forks": 0,
@@ -735,6 +752,95 @@
       "101541421": "lcgabaldon",
       "28374593": "TVFLabs",
       "140982580": "jkim2729"
+    }
+  },
+  "https://github.com/chase-manning/pokemon-tcg-pocket-cards": {
+    "stars": 124,
+    "forks": 12,
+    "issues": 9,
+    "userIssues": 1,
+    "pullRequests": 40,
+    "userPullRequests": 0,
+    "commits": 138,
+    "userCommits": 0,
+    "languages": {
+      "Python": 24697,
+      "JavaScript": 1445
+    },
+    "contributors": {
+      "53957795": "chase-manning",
+      "65452054": "nathanrboyer",
+      "93532238": "ch1coon",
+      "62150513": "abaker93",
+      "681982": "bitmaybewise",
+      "48692915": "Polyphian"
+    }
+  },
+  "https://github.com/esei-si-dagss/tasador-24": {
+    "stars": 0,
+    "forks": 2,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 1,
+    "userPullRequests": 1,
+    "commits": 10,
+    "userCommits": 0,
+    "languages": {
+      "Python": 18084
+    },
+    "contributors": {
+      "6004566": "ribadas-uvigo"
+    }
+  },
+  "https://github.com/marcelpanse/tcg-pocket-collection-tracker": {
+    "stars": 134,
+    "forks": 39,
+    "issues": 249,
+    "userIssues": 1,
+    "pullRequests": 572,
+    "userPullRequests": 0,
+    "commits": 658,
+    "userCommits": 0,
+    "languages": {
+      "TypeScript": 386390,
+      "JavaScript": 20422,
+      "HTML": 2632,
+      "CSS": 1729
+    },
+    "contributors": {
+      "418984": "marcelpanse",
+      "49699333": "dependabot[bot]",
+      "29665730": "greg19",
+      "15209405": "afu-dev",
+      "73377131": "jejnaj",
+      "173207727": "LandDar",
+      "34892045": "mpierrez",
+      "130557846": "RubenJavierBachoAlarcon",
+      "368592": "javijec",
+      "4228398": "SpyderHunter03",
+      "94017614": "aredmondd",
+      "38170967": "sanshigo345",
+      "10010793": "graylewis",
+      "17156492": "nicolasfeyer",
+      "18624067": "amoreaulemay",
+      "54109737": "robertfoster550",
+      "68415033": "mkslzk",
+      "38354616": "StephenAloche",
+      "25161825": "msilvestro",
+      "15808247": "1vcian",
+      "201633802": "PlayInKetchup",
+      "153860469": "velinakennedy",
+      "161369871": "google-labs-jules[bot]",
+      "88334930": "WickiRiama",
+      "180430210": "vmdumont93",
+      "128099321": "Bilhalv",
+      "33298582": "dahbar",
+      "18427765": "MarkoOleksiyenko",
+      "85681227": "JS2K8",
+      "45013509": "gregormaclaine",
+      "23654548": "Fischa7",
+      "77793898": "CorentinGouil",
+      "114663850": "rexwithluv"
     }
   },
   "https://github.com/waveform80/pisense": {
