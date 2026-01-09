@@ -112,45 +112,6 @@ if __name__ == "__main__":
     # We add the languages table to the markdown
     markDown += markDownTableLang
 
-    # The collaborators table
-    collaborators = {}
-
-    for repoData in repositories.values():
-        for contId, contName in repoData["contributors"].items():
-            if contId not in collaborators:
-                collaborators[contId] = {"username": contName, "count": 0}
-
-            collaborators[contId]["count"] += 1
-
-    # Sort by number of repositories collaborated on, then by username
-    collaborators = dict(
-        sorted(
-            collaborators.items(),
-            key=lambda item: (-item[1]["count"], item[1]["username"]),
-            reverse=False,
-        )
-    )
-
-    markDownTableCollab = """
-## Collaborators
-
-| <img width="1000"><br><p align="center">User | <img width="1000" height="1"><br><p align="center">Collaborations |
-|:----------|----------:|
-"""
-
-    for collabId, collabData in collaborators.items():
-        profilePicture = f"<span><a href=\"https://github.com/{collabData['username']}\"><img src=\"https://avatars.githubusercontent.com/u/{collabId}\" style=\"width:1ch;\" alt=\"\"></span>"
-
-        markDownTableCollab += f"| {profilePicture}&ensp;[{collabData['username']}](https://github.com/{collabData['username']})&ensp;{profilePicture} | {collabData['count']} |\n"
-
-    # Add the total number of collaborations
-    markDownTableCollab += (
-        f"| Total | {sum([data['count'] for data in collaborators.values()])} |\n"
-    )
-
-    # We add the collaborators table to the markdown
-    markDown += markDownTableCollab
-
     # Now we make a markdown table with the repositories and the commit count
     markDownTable = """
 ## Repositories
@@ -176,6 +137,71 @@ if __name__ == "__main__":
 
     # We add the table
     markDown += markDownTable
+
+    # The collaborators table
+    collaborators = {}
+
+    for repoData in repositories.values():
+        for contId, contName in repoData["contributors"].items():
+            if contId not in collaborators:
+                collaborators[contId] = {"username": contName, "count": 0}
+
+            collaborators[contId]["count"] += 1
+
+    collaboratorsR = {}
+    for collabId, collabData in collaborators.items():
+        if collaboratorsR.get(collabData["count"]):
+            collaboratorsR[collabData["count"]][collabId] = collabData["username"]
+        else:
+            collaboratorsR[collabData["count"]] = {collabId: collabData["username"]}
+
+    # Sort by number of repositories collaborated on
+    collaboratorsR = dict(
+        sorted(
+            collaboratorsR.items(),
+            key=lambda item: (item[0]),
+            reverse=True,
+        )
+    )
+
+    markDownTableCollab = """
+## Collaborators
+
+| <img width="1000"><br><p align="center">User | <img width="1000" height="1"><br><p align="center">Collaborations |
+|:----------|----------:|
+"""
+
+    for collabCount, collabDict in collaboratorsR.items():
+        # Sort by username
+        collabDict = dict(
+            sorted(
+                collabDict.items(),
+                key=lambda item: (item[1]),
+                reverse=False,
+            )
+        )
+
+        userProfiles = []
+
+        for collabId, collabName in collabDict.items():
+            profilePicture = f'<span><a href="https://github.com/{collabName}"><img src="https://avatars.githubusercontent.com/u/{collabId}" style="width:1ch;" alt=""></span>'
+
+            # White space that can't be touched by the neighboring urls
+            whiteSpace = "<a>&ensp;</a>"
+
+            userProfiles.append(
+                f"{profilePicture}{whiteSpace}[{collabName}](https://github.com/{collabName}){whiteSpace}{profilePicture}"
+            )
+
+        markDownTableCollab += f"| {'<br>'.join(userProfiles)} | {collabCount} |\n"
+
+    # Add the total number of collaborations
+    markDownTableCollab += (
+        f"| Total | {sum([data['count'] for data in collaborators.values()])} |\n"
+    )
+
+    # We add the collaborators table to the markdown
+    markDown += markDownTableCollab
 
     # Now we will write the markdown to README.md
     with open("README.md", "w") as file:
