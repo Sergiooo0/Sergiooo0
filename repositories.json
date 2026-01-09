@@ -249,6 +249,20 @@
       "65916846": "actions-user"
     }
   },
+  "https://github.com/SantiagoRR2004/SantiagoRR2004": {
+    "stars": 0,
+    "forks": 1,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 0,
+    "userPullRequests": 0,
+    "commits": 66,
+    "userCommits": 66,
+    "languages": {
+      "Python": 19709
+    },
+    "contributors": {}
+  },
   "https://github.com/SantiagoRR2004/RAIN-StringTuner": {
     "stars": 0,
     "forks": 0,
@@ -265,20 +279,6 @@
       "76734632": "Sergiooo0",
       "65916846": "actions-user"
     }
-  },
-  "https://github.com/SantiagoRR2004/SantiagoRR2004": {
-    "stars": 0,
-    "forks": 1,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 65,
-    "userCommits": 65,
-    "languages": {
-      "Python": 19709
-    },
-    "contributors": {}
   },
   "https://github.com/SantiagoRR2004/ComputerVision": {
     "stars": 0,
@@ -793,16 +793,16 @@
     }
   },
   "https://github.com/marcelpanse/tcg-pocket-collection-tracker": {
-    "stars": 134,
+    "stars": 135,
     "forks": 39,
     "issues": 249,
     "userIssues": 1,
-    "pullRequests": 572,
+    "pullRequests": 573,
     "userPullRequests": 0,
-    "commits": 658,
+    "commits": 659,
     "userCommits": 0,
     "languages": {
-      "TypeScript": 386390,
+      "TypeScript": 386445,
       "JavaScript": 20422,
       "HTML": 2632,
       "CSS": 1729

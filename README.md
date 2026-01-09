@@ -17,7 +17,7 @@
 | <img width="1000"><br><p align="center">Language | <img width="1000" height="1"><br><p align="center">Bytes | <img width="1000" height="1"><br><p align="center">Percentage |
 |:----------|:----------:|----------:|
 | [Python](https://github.com/search?q=user:SantiagoRR2004+language:Python) | 4.9 MB | 82.06% |
-| [TypeScript](https://github.com/search?q=user:SantiagoRR2004+language:TypeScript) | 377.3 kB | 6.21% |
+| [TypeScript](https://github.com/search?q=user:SantiagoRR2004+language:TypeScript) | 377.4 kB | 6.21% |
 | [Java](https://github.com/search?q=user:SantiagoRR2004+language:Java) | 364.2 kB | 6.00% |
 | [JavaScript](https://github.com/search?q=user:SantiagoRR2004+language:JavaScript) | 98.6 kB | 1.62% |
 | [C++](https://github.com/search?q=user:SantiagoRR2004+language:C++) | 48.0 kB | 0.79% |
@@ -150,8 +150,8 @@
 | [PIC-Python](https://github.com/SantiagoRR2004/PIC-Python) | 82 |
 | [English-IrregularVerbs](https://github.com/SantiagoRR2004/English-IrregularVerbs) | 71 |
 | [santipvz/IC-Threads](https://github.com/santipvz/IC-Threads) | 71 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 66 |
 | [RAIN-StringTuner](https://github.com/SantiagoRR2004/RAIN-StringTuner) | 65 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 65 |
 | [ComputerVision](https://github.com/SantiagoRR2004/ComputerVision) | 62 |
 | [SIEX-CBR](https://github.com/SantiagoRR2004/SIEX-CBR) | 47 |
 | [pythocron](https://github.com/SantiagoRR2004/pythocron) | 47 |
@@ -182,4 +182,4 @@
 | [esei-si-dagss/tasador-24](https://github.com/esei-si-dagss/tasador-24) | 0 |
 | [marcelpanse/tcg-pocket-collection-tracker](https://github.com/marcelpanse/tcg-pocket-collection-tracker) | 0 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 2451 |
+| Total | 2452 |
