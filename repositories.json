@@ -256,10 +256,10 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 66,
-    "userCommits": 66,
+    "commits": 68,
+    "userCommits": 68,
     "languages": {
-      "Python": 19709
+      "Python": 20445
     },
     "contributors": {}
   },
@@ -303,6 +303,25 @@
       "116091929": "usbt0p"
     }
   },
+  "https://github.com/SantiagoRR2004/ALF-Chusco": {
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 0,
+    "userPullRequests": 0,
+    "commits": 61,
+    "userCommits": 47,
+    "languages": {
+      "Yacc": 39103,
+      "Lex": 15942,
+      "C": 1716,
+      "Makefile": 374
+    },
+    "contributors": {
+      "76734632": "Sergiooo0"
+    }
+  },
   "https://github.com/SantiagoRR2004/SIEX-CBR": {
     "stars": 0,
     "forks": 0,
@@ -335,25 +354,6 @@
     },
     "contributors": {
       "65916846": "actions-user"
-    }
-  },
-  "https://github.com/SantiagoRR2004/ALF-Chusco": {
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 60,
-    "userCommits": 46,
-    "languages": {
-      "Yacc": 39103,
-      "Lex": 15942,
-      "C": 1716,
-      "Makefile": 374
-    },
-    "contributors": {
-      "76734632": "Sergiooo0"
     }
   },
   "https://github.com/SantiagoRR2004/APS-WiFiSniffer": {
@@ -536,6 +536,21 @@
       "65916846": "actions-user"
     }
   },
+  "https://github.com/SantiagoRR2004/SantiagoRR2004.github.io": {
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 0,
+    "userPullRequests": 0,
+    "commits": 21,
+    "userCommits": 21,
+    "languages": {
+      "JavaScript": 26269,
+      "HTML": 728
+    },
+    "contributors": {}
+  },
   "https://github.com/SantiagoRR2004/RCR-RBS": {
     "stars": 0,
     "forks": 0,
@@ -569,21 +584,6 @@
       "76734632": "Sergiooo0",
       "65916846": "actions-user"
     }
-  },
-  "https://github.com/SantiagoRR2004/SantiagoRR2004.github.io": {
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 13,
-    "userCommits": 13,
-    "languages": {
-      "JavaScript": 16900,
-      "HTML": 493
-    },
-    "contributors": {}
   },
   "https://github.com/SantiagoRR2004/GOTY": {
     "stars": 0,
@@ -640,8 +640,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 5,
-    "userCommits": 5,
+    "commits": 6,
+    "userCommits": 6,
     "languages": {
       "Shell": 1348
     },
@@ -712,10 +712,10 @@
   },
   "https://github.com/hsahovic/poke-env": {
     "stars": 438,
-    "forks": 134,
+    "forks": 135,
     "issues": 264,
     "userIssues": 4,
-    "pullRequests": 540,
+    "pullRequests": 541,
     "userPullRequests": 2,
     "commits": 1268,
     "userCommits": 1,
@@ -755,7 +755,7 @@
     }
   },
   "https://github.com/chase-manning/pokemon-tcg-pocket-cards": {
-    "stars": 124,
+    "stars": 123,
     "forks": 12,
     "issues": 9,
     "userIssues": 1,
@@ -795,9 +795,9 @@
   "https://github.com/marcelpanse/tcg-pocket-collection-tracker": {
     "stars": 135,
     "forks": 39,
-    "issues": 249,
+    "issues": 250,
     "userIssues": 1,
-    "pullRequests": 573,
+    "pullRequests": 574,
     "userPullRequests": 0,
     "commits": 659,
     "userCommits": 0,
