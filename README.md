@@ -16,10 +16,10 @@
 
 | <img width="1000"><br><p align="center">Language | <img width="1000" height="1"><br><p align="center">Bytes | <img width="1000" height="1"><br><p align="center">Percentage |
 |:----------|:----------:|----------:|
-| [Python](https://github.com/search?q=user:SantiagoRR2004+language:Python) | 4.9 MB | 81.93% |
-| [TypeScript](https://github.com/search?q=user:SantiagoRR2004+language:TypeScript) | 377.4 kB | 6.20% |
-| [Java](https://github.com/search?q=user:SantiagoRR2004+language:Java) | 364.2 kB | 5.99% |
-| [JavaScript](https://github.com/search?q=user:SantiagoRR2004+language:JavaScript) | 107.8 kB | 1.77% |
+| [Python](https://github.com/search?q=user:SantiagoRR2004+language:Python) | 4.9 MB | 81.92% |
+| [TypeScript](https://github.com/search?q=user:SantiagoRR2004+language:TypeScript) | 378.3 kB | 6.22% |
+| [Java](https://github.com/search?q=user:SantiagoRR2004+language:Java) | 364.2 kB | 5.98% |
+| [JavaScript](https://github.com/search?q=user:SantiagoRR2004+language:JavaScript) | 107.7 kB | 1.77% |
 | [C++](https://github.com/search?q=user:SantiagoRR2004+language:C++) | 48.0 kB | 0.79% |
 | [Yacc](https://github.com/search?q=user:SantiagoRR2004+language:Yacc) | 38.2 kB | 0.63% |
 | [CLIPS](https://github.com/search?q=user:SantiagoRR2004+language:CLIPS) | 37.4 kB | 0.61% |
@@ -52,7 +52,7 @@
 | [PIC-Python](https://github.com/SantiagoRR2004/PIC-Python) | 82 |
 | [English-IrregularVerbs](https://github.com/SantiagoRR2004/English-IrregularVerbs) | 71 |
 | [santipvz/IC-Threads](https://github.com/santipvz/IC-Threads) | 71 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 68 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 69 |
 | [RAIN-StringTuner](https://github.com/SantiagoRR2004/RAIN-StringTuner) | 65 |
 | [ComputerVision](https://github.com/SantiagoRR2004/ComputerVision) | 62 |
 | [ALF-Chusco](https://github.com/SantiagoRR2004/ALF-Chusco) | 47 |
@@ -67,8 +67,8 @@
 | [Sergiooo0/SIEX-CLIPS](https://github.com/Sergiooo0/SIEX-CLIPS) | 28 |
 | [LucachuTW/CARDS-PokemonPocket-scrapper](https://github.com/LucachuTW/CARDS-PokemonPocket-scrapper) | 25 |
 | [MD-Combinations](https://github.com/SantiagoRR2004/MD-Combinations) | 23 |
+| [SantiagoRR2004.github.io](https://github.com/SantiagoRR2004/SantiagoRR2004.github.io) | 22 |
 | [APAU_II-KMeans](https://github.com/SantiagoRR2004/APAU_II-KMeans) | 21 |
-| [SantiagoRR2004.github.io](https://github.com/SantiagoRR2004/SantiagoRR2004.github.io) | 21 |
 | [RCR-RBS](https://github.com/SantiagoRR2004/RCR-RBS) | 20 |
 | [APAU_II-Clustering](https://github.com/SantiagoRR2004/APAU_II-Clustering) | 18 |
 | [GOTY](https://github.com/SantiagoRR2004/GOTY) | 12 |
@@ -84,7 +84,7 @@
 | [esei-si-dagss/tasador-24](https://github.com/esei-si-dagss/tasador-24) | 0 |
 | [marcelpanse/tcg-pocket-collection-tracker](https://github.com/marcelpanse/tcg-pocket-collection-tracker) | 0 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 2464 |
+| Total | 2466 |
 
 ## Collaborators
 
