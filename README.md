@@ -16,15 +16,15 @@
 
 | <img width="1000"><br><p align="center">Language | <img width="1000" height="1"><br><p align="center">Bytes | <img width="1000" height="1"><br><p align="center">Percentage |
 |:----------|:----------:|----------:|
-| [Python](https://github.com/search?q=user:SantiagoRR2004+language:Python) | 4.9 MB | 81.92% |
-| [TypeScript](https://github.com/search?q=user:SantiagoRR2004+language:TypeScript) | 378.3 kB | 6.22% |
+| [Python](https://github.com/search?q=user:SantiagoRR2004+language:Python) | 4.9 MB | 81.86% |
+| [TypeScript](https://github.com/search?q=user:SantiagoRR2004+language:TypeScript) | 378.3 kB | 6.21% |
 | [Java](https://github.com/search?q=user:SantiagoRR2004+language:Java) | 364.2 kB | 5.98% |
-| [JavaScript](https://github.com/search?q=user:SantiagoRR2004+language:JavaScript) | 107.7 kB | 1.77% |
+| [JavaScript](https://github.com/search?q=user:SantiagoRR2004+language:JavaScript) | 112.3 kB | 1.84% |
 | [C++](https://github.com/search?q=user:SantiagoRR2004+language:C++) | 48.0 kB | 0.79% |
 | [Yacc](https://github.com/search?q=user:SantiagoRR2004+language:Yacc) | 38.2 kB | 0.63% |
 | [CLIPS](https://github.com/search?q=user:SantiagoRR2004+language:CLIPS) | 37.4 kB | 0.61% |
 | [TeX](https://github.com/search?q=user:SantiagoRR2004+language:TeX) | 23.3 kB | 0.38% |
-| [HTML](https://github.com/search?q=user:SantiagoRR2004+language:HTML) | 20.3 kB | 0.33% |
+| [HTML](https://github.com/search?q=user:SantiagoRR2004+language:HTML) | 20.4 kB | 0.33% |
 | [Prolog](https://github.com/search?q=user:SantiagoRR2004+language:Prolog) | 20.1 kB | 0.33% |
 | [C](https://github.com/search?q=user:SantiagoRR2004+language:C) | 16.6 kB | 0.27% |
 | [Lex](https://github.com/search?q=user:SantiagoRR2004+language:Lex) | 15.6 kB | 0.26% |
@@ -52,7 +52,7 @@
 | [PIC-Python](https://github.com/SantiagoRR2004/PIC-Python) | 82 |
 | [English-IrregularVerbs](https://github.com/SantiagoRR2004/English-IrregularVerbs) | 71 |
 | [santipvz/IC-Threads](https://github.com/santipvz/IC-Threads) | 71 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 69 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 70 |
 | [RAIN-StringTuner](https://github.com/SantiagoRR2004/RAIN-StringTuner) | 65 |
 | [ComputerVision](https://github.com/SantiagoRR2004/ComputerVision) | 62 |
 | [ALF-Chusco](https://github.com/SantiagoRR2004/ALF-Chusco) | 47 |
@@ -67,7 +67,7 @@
 | [Sergiooo0/SIEX-CLIPS](https://github.com/Sergiooo0/SIEX-CLIPS) | 28 |
 | [LucachuTW/CARDS-PokemonPocket-scrapper](https://github.com/LucachuTW/CARDS-PokemonPocket-scrapper) | 25 |
 | [MD-Combinations](https://github.com/SantiagoRR2004/MD-Combinations) | 23 |
-| [SantiagoRR2004.github.io](https://github.com/SantiagoRR2004/SantiagoRR2004.github.io) | 22 |
+| [SantiagoRR2004.github.io](https://github.com/SantiagoRR2004/SantiagoRR2004.github.io) | 23 |
 | [APAU_II-KMeans](https://github.com/SantiagoRR2004/APAU_II-KMeans) | 21 |
 | [RCR-RBS](https://github.com/SantiagoRR2004/RCR-RBS) | 20 |
 | [APAU_II-Clustering](https://github.com/SantiagoRR2004/APAU_II-Clustering) | 18 |
@@ -84,7 +84,7 @@
 | [esei-si-dagss/tasador-24](https://github.com/esei-si-dagss/tasador-24) | 0 |
 | [marcelpanse/tcg-pocket-collection-tracker](https://github.com/marcelpanse/tcg-pocket-collection-tracker) | 0 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 2466 |
+| Total | 2468 |
 
 ## Collaborators
 
