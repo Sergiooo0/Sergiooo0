@@ -51,8 +51,8 @@
 | [ABIA-RubiksCube](https://github.com/SantiagoRR2004/ABIA-RubiksCube) | 88 |
 | [PIC-Python](https://github.com/SantiagoRR2004/PIC-Python) | 82 |
 | [English-IrregularVerbs](https://github.com/SantiagoRR2004/English-IrregularVerbs) | 71 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 71 |
 | [santipvz/IC-Threads](https://github.com/santipvz/IC-Threads) | 71 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 70 |
 | [RAIN-StringTuner](https://github.com/SantiagoRR2004/RAIN-StringTuner) | 65 |
 | [ComputerVision](https://github.com/SantiagoRR2004/ComputerVision) | 62 |
 | [ALF-Chusco](https://github.com/SantiagoRR2004/ALF-Chusco) | 47 |
@@ -84,7 +84,7 @@
 | [esei-si-dagss/tasador-24](https://github.com/esei-si-dagss/tasador-24) | 0 |
 | [marcelpanse/tcg-pocket-collection-tracker](https://github.com/marcelpanse/tcg-pocket-collection-tracker) | 0 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 2468 |
+| Total | 2469 |
 
 ## Collaborators
 

@@ -231,6 +231,20 @@
       "65916846": "actions-user"
     }
   },
+  "https://github.com/SantiagoRR2004/SantiagoRR2004": {
+    "stars": 0,
+    "forks": 1,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 0,
+    "userPullRequests": 0,
+    "commits": 71,
+    "userCommits": 71,
+    "languages": {
+      "Python": 20445
+    },
+    "contributors": {}
+  },
   "https://github.com/santipvz/IC-Threads": {
     "stars": 0,
     "forks": 0,
@@ -248,20 +262,6 @@
       "114695520": "santipvz",
       "65916846": "actions-user"
     }
-  },
-  "https://github.com/SantiagoRR2004/SantiagoRR2004": {
-    "stars": 0,
-    "forks": 1,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 70,
-    "userCommits": 70,
-    "languages": {
-      "Python": 20445
-    },
-    "contributors": {}
   },
   "https://github.com/SantiagoRR2004/RAIN-StringTuner": {
     "stars": 0,
@@ -484,7 +484,7 @@
     }
   },
   "https://github.com/LucachuTW/CARDS-PokemonPocket-scrapper": {
-    "stars": 43,
+    "stars": 44,
     "forks": 12,
     "issues": 7,
     "userIssues": 6,
@@ -715,7 +715,7 @@
     "forks": 134,
     "issues": 264,
     "userIssues": 4,
-    "pullRequests": 541,
+    "pullRequests": 542,
     "userPullRequests": 2,
     "commits": 1268,
     "userCommits": 1,
@@ -755,7 +755,7 @@
     }
   },
   "https://github.com/chase-manning/pokemon-tcg-pocket-cards": {
-    "stars": 124,
+    "stars": 125,
     "forks": 12,
     "issues": 9,
     "userIssues": 1,
