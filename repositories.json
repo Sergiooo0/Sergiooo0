@@ -219,8 +219,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 72,
-    "userCommits": 72,
+    "commits": 73,
+    "userCommits": 73,
     "languages": {
       "Python": 20445
     },
@@ -278,29 +278,6 @@
     "contributors": {
       "76734632": "Sergiooo0",
       "65916846": "actions-user"
-    }
-  },
-  "https://github.com/SantiagoRR2004/ComputerVision": {
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 131,
-    "userCommits": 62,
-    "languages": {
-      "Python": 2069378,
-      "TeX": 23903,
-      "C++": 7275,
-      "Shell": 851,
-      "CMake": 369
-    },
-    "contributors": {
-      "76734632": "Sergiooo0",
-      "65916846": "actions-user",
-      "5877660": "dnolivieri",
-      "116091929": "usbt0p"
     }
   },
   "https://github.com/SantiagoRR2004/ALF-Chusco": {
@@ -464,6 +441,21 @@
       "65916846": "actions-user"
     }
   },
+  "https://github.com/SantiagoRR2004/SantiagoRR2004.github.io": {
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 0,
+    "userPullRequests": 0,
+    "commits": 28,
+    "userCommits": 28,
+    "languages": {
+      "JavaScript": 35266,
+      "HTML": 852
+    },
+    "contributors": {}
+  },
   "https://github.com/Sergiooo0/SIEX-CLIPS": {
     "stars": 0,
     "forks": 0,
@@ -500,21 +492,6 @@
       "40212940": "da1pi2",
       "53957795": "chase-manning"
     }
-  },
-  "https://github.com/SantiagoRR2004/SantiagoRR2004.github.io": {
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 25,
-    "userCommits": 25,
-    "languages": {
-      "JavaScript": 32662,
-      "HTML": 852
-    },
-    "contributors": {}
   },
   "https://github.com/SantiagoRR2004/MD-Combinations": {
     "stars": 0,
@@ -715,7 +692,7 @@
     "forks": 134,
     "issues": 264,
     "userIssues": 4,
-    "pullRequests": 542,
+    "pullRequests": 544,
     "userPullRequests": 2,
     "commits": 1268,
     "userCommits": 1,
@@ -755,7 +732,7 @@
     }
   },
   "https://github.com/chase-manning/pokemon-tcg-pocket-cards": {
-    "stars": 125,
+    "stars": 126,
     "forks": 12,
     "issues": 9,
     "userIssues": 1,
