@@ -16,29 +16,30 @@
 
 | <img width="1000"><br><p align="center">Language | <img width="1000" height="1"><br><p align="center">Bytes | <img width="1000" height="1"><br><p align="center">Percentage |
 |:----------|:----------:|----------:|
-| [Python](https://github.com/search?q=user:SantiagoRR2004+language:Python) | 2.9 MB | 73.28% |
-| [TypeScript](https://github.com/search?q=user:SantiagoRR2004+language:TypeScript) | 382.1 kB | 9.44% |
-| [Java](https://github.com/search?q=user:SantiagoRR2004+language:Java) | 364.2 kB | 9.00% |
-| [JavaScript](https://github.com/search?q=user:SantiagoRR2004+language:JavaScript) | 116.6 kB | 2.88% |
-| [C++](https://github.com/search?q=user:SantiagoRR2004+language:C++) | 40.9 kB | 1.01% |
-| [Yacc](https://github.com/search?q=user:SantiagoRR2004+language:Yacc) | 38.2 kB | 0.94% |
-| [CLIPS](https://github.com/search?q=user:SantiagoRR2004+language:CLIPS) | 37.4 kB | 0.92% |
-| [HTML](https://github.com/search?q=user:SantiagoRR2004+language:HTML) | 20.4 kB | 0.50% |
-| [Prolog](https://github.com/search?q=user:SantiagoRR2004+language:Prolog) | 20.1 kB | 0.50% |
-| [C](https://github.com/search?q=user:SantiagoRR2004+language:C) | 16.6 kB | 0.41% |
-| [Lex](https://github.com/search?q=user:SantiagoRR2004+language:Lex) | 15.6 kB | 0.38% |
-| [CSS](https://github.com/search?q=user:SantiagoRR2004+language:CSS) | 11.2 kB | 0.28% |
-| [Shell](https://github.com/search?q=user:SantiagoRR2004+language:Shell) | 11.0 kB | 0.27% |
-| [Makefile](https://github.com/search?q=user:SantiagoRR2004+language:Makefile) | 6.8 kB | 0.17% |
-| [Batchfile](https://github.com/search?q=user:SantiagoRR2004+language:Batchfile) | 233.0 B | 0.01% |
-| Total | 4.0 MB | 100.00% |
+| [Python](https://github.com/search?q=user:SantiagoRR2004+language:Python) | 2.9 MB | 42.69% |
+| [PlantUML](https://github.com/search?q=user:SantiagoRR2004+language:PlantUML) | 2.8 MB | 41.75% |
+| [TypeScript](https://github.com/search?q=user:SantiagoRR2004+language:TypeScript) | 382.1 kB | 5.50% |
+| [Java](https://github.com/search?q=user:SantiagoRR2004+language:Java) | 364.2 kB | 5.24% |
+| [JavaScript](https://github.com/search?q=user:SantiagoRR2004+language:JavaScript) | 116.6 kB | 1.68% |
+| [C++](https://github.com/search?q=user:SantiagoRR2004+language:C++) | 40.9 kB | 0.59% |
+| [Yacc](https://github.com/search?q=user:SantiagoRR2004+language:Yacc) | 38.2 kB | 0.55% |
+| [CLIPS](https://github.com/search?q=user:SantiagoRR2004+language:CLIPS) | 37.4 kB | 0.54% |
+| [HTML](https://github.com/search?q=user:SantiagoRR2004+language:HTML) | 20.4 kB | 0.29% |
+| [Prolog](https://github.com/search?q=user:SantiagoRR2004+language:Prolog) | 20.1 kB | 0.29% |
+| [C](https://github.com/search?q=user:SantiagoRR2004+language:C) | 16.6 kB | 0.24% |
+| [Lex](https://github.com/search?q=user:SantiagoRR2004+language:Lex) | 15.6 kB | 0.22% |
+| [CSS](https://github.com/search?q=user:SantiagoRR2004+language:CSS) | 11.2 kB | 0.16% |
+| [Shell](https://github.com/search?q=user:SantiagoRR2004+language:Shell) | 11.0 kB | 0.16% |
+| [Makefile](https://github.com/search?q=user:SantiagoRR2004+language:Makefile) | 6.8 kB | 0.10% |
+| [Batchfile](https://github.com/search?q=user:SantiagoRR2004+language:Batchfile) | 233.0 B | 0.00% |
+| Total | 6.8 MB | 100.00% |
 
 ## Repositories
 
 | <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
 |:----------|----------:|
 | [AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 333 |
-| [LucachuTW/IS-Grupo301](https://github.com/LucachuTW/IS-Grupo301) | 181 |
+| [LucachuTW/IS-Grupo301](https://github.com/LucachuTW/IS-Grupo301) | 182 |
 | [GRIA-Questions](https://github.com/SantiagoRR2004/GRIA-Questions) | 150 |
 | [PIC-book-exercise-docs](https://github.com/SantiagoRR2004/PIC-book-exercise-docs) | 141 |
 | [APAU_BIO](https://github.com/SantiagoRR2004/APAU_BIO) | 140 |
@@ -48,7 +49,7 @@
 | [PIC-Java](https://github.com/SantiagoRR2004/PIC-Java) | 92 |
 | [ABIA-RubiksCube](https://github.com/SantiagoRR2004/ABIA-RubiksCube) | 88 |
 | [PIC-Python](https://github.com/SantiagoRR2004/PIC-Python) | 82 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 75 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 76 |
 | [English-IrregularVerbs](https://github.com/SantiagoRR2004/English-IrregularVerbs) | 71 |
 | [santipvz/IC-Threads](https://github.com/santipvz/IC-Threads) | 71 |
 | [RAIN-StringTuner](https://github.com/SantiagoRR2004/RAIN-StringTuner) | 65 |
@@ -81,7 +82,7 @@
 | [esei-si-dagss/tasador-24](https://github.com/esei-si-dagss/tasador-24) | 0 |
 | [marcelpanse/tcg-pocket-collection-tracker](https://github.com/marcelpanse/tcg-pocket-collection-tracker) | 0 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 2416 |
+| Total | 2418 |
 
 ## Collaborators
 
