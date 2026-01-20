@@ -25,7 +25,7 @@
     "userIssues": 10,
     "pullRequests": 1,
     "userPullRequests": 0,
-    "commits": 336,
+    "commits": 338,
     "userCommits": 182,
     "languages": {
       "PlantUML": 2969600,
@@ -40,6 +40,8 @@
       "148640382": "carmenvt7",
       "150954220": "luciaavivero",
       "65916846": "actions-user",
+      "151098525": "antiaasb",
+      "147521218": "carlossaz9",
       "132823629": "evvv0"
     }
   },
@@ -220,8 +222,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 77,
-    "userCommits": 77,
+    "commits": 78,
+    "userCommits": 78,
     "languages": {
       "Python": 20445
     },
@@ -693,7 +695,7 @@
     "forks": 135,
     "issues": 264,
     "userIssues": 4,
-    "pullRequests": 544,
+    "pullRequests": 545,
     "userPullRequests": 2,
     "commits": 1268,
     "userCommits": 1,
@@ -733,7 +735,7 @@
     }
   },
   "https://github.com/chase-manning/pokemon-tcg-pocket-cards": {
-    "stars": 126,
+    "stars": 127,
     "forks": 12,
     "issues": 9,
     "userIssues": 1,
@@ -771,9 +773,9 @@
     }
   },
   "https://github.com/marcelpanse/tcg-pocket-collection-tracker": {
-    "stars": 135,
+    "stars": 136,
     "forks": 39,
-    "issues": 253,
+    "issues": 254,
     "userIssues": 1,
     "pullRequests": 577,
     "userPullRequests": 0,
