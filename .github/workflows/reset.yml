@@ -21,6 +21,17 @@ jobs:
           LATEST_VERSION=$(curl -s https://repo1.maven.org/maven2/com/madgag/bfg/maven-metadata.xml | grep '<latest>' | sed -E 's/.*<latest>(.*)<\/latest>.*/\1/')
           curl -L "https://repo1.maven.org/maven2/com/madgag/bfg/${LATEST_VERSION}/bfg-${LATEST_VERSION}.jar" -o bfg.jar
 
+      - name: Delete README.md and repositories.json
+        run: |
+          rm -f README.md repositories.json
+          git add README.md repositories.json
+          git config --local user.email "${{ github.repository_owner_id }}+${{ github.repository_owner }}@users.noreply.github.com"
+          git config --local user.name "${{ github.repository_owner }}"
+          git commit -m "Remove README.md and repositories.json"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Remove README.md history
         run: |
           java -jar bfg.jar --delete-files README.md
