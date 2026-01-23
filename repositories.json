@@ -188,13 +188,14 @@
     "pullRequests": 0,
     "userPullRequests": 0,
     "commits": 101,
-    "userCommits": 88,
+    "userCommits": 85,
     "languages": {
-      "Python": 102098
+      "Python": 102094
     },
     "contributors": {
       "76734632": "Sergiooo0",
-      "65916846": "actions-user"
+      "65916846": "actions-user",
+      "11855769": "danifg"
     }
   },
   "https://github.com/SantiagoRR2004/PIC-Python": {
@@ -222,8 +223,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 80,
-    "userCommits": 80,
+    "commits": 82,
+    "userCommits": 82,
     "languages": {
       "Python": 20445
     },
@@ -343,16 +344,21 @@
     "userIssues": 5,
     "pullRequests": 1,
     "userPullRequests": 0,
-    "commits": 57,
+    "commits": 62,
     "userCommits": 41,
     "languages": {
       "C": 15303,
-      "C++": 13289
+      "C++": 13289,
+      "JavaScript": 9797
     },
     "contributors": {
       "116092074": "daor95",
       "114695520": "santipvz",
-      "116091929": "usbt0p"
+      "26049425": "ebalvis",
+      "116091929": "usbt0p",
+      "65916846": "actions-user",
+      "116091640": "LucachuTW",
+      "135229051": "kaisernico111"
     }
   },
   "https://github.com/SantiagoRR2004/SIEX-RAG": {
@@ -392,22 +398,6 @@
       "116091929": "usbt0p"
     }
   },
-  "https://github.com/SantiagoRR2004/ABIA-Connect4": {
-    "stars": 0,
-    "forks": 0,
-    "issues": 1,
-    "userIssues": 1,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 41,
-    "userCommits": 37,
-    "languages": {
-      "Java": 49445
-    },
-    "contributors": {
-      "76734632": "Sergiooo0"
-    }
-  },
   "https://github.com/SantiagoRR2004/GRIA-Optativas": {
     "stars": 0,
     "forks": 0,
@@ -442,6 +432,23 @@
       "116091929": "usbt0p",
       "116092074": "daor95",
       "65916846": "actions-user"
+    }
+  },
+  "https://github.com/SantiagoRR2004/ABIA-Connect4": {
+    "stars": 0,
+    "forks": 0,
+    "issues": 1,
+    "userIssues": 1,
+    "pullRequests": 0,
+    "userPullRequests": 0,
+    "commits": 40,
+    "userCommits": 33,
+    "languages": {
+      "Java": 49445
+    },
+    "contributors": {
+      "76734632": "Sergiooo0",
+      "11855769": "danifg"
     }
   },
   "https://github.com/SantiagoRR2004/SantiagoRR2004.github.io": {
@@ -503,15 +510,17 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 27,
-    "userCommits": 23,
+    "commits": 31,
+    "userCommits": 24,
     "languages": {
       "Python": 7406
     },
     "contributors": {
-      "116092027": "fedellor",
       "65916846": "actions-user",
-      "76734632": "Sergiooo0"
+      "116092027": "fedellor",
+      "76734632": "Sergiooo0",
+      "118545875": "antonvm2004",
+      "114695520": "santipvz"
     }
   },
   "https://github.com/SantiagoRR2004/APAU_II-KMeans": {
@@ -582,6 +591,20 @@
       "65916846": "actions-user"
     }
   },
+  "https://github.com/SantiagoRR2004/PythonTemplate": {
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 0,
+    "userPullRequests": 0,
+    "commits": 9,
+    "userCommits": 8,
+    "languages": {},
+    "contributors": {
+      "65916846": "actions-user"
+    }
+  },
   "https://github.com/SantiagoRR2004/APAU_II-AssociationRules": {
     "stars": 0,
     "forks": 0,
@@ -596,20 +619,6 @@
     },
     "contributors": {
       "76734632": "Sergiooo0",
-      "65916846": "actions-user"
-    }
-  },
-  "https://github.com/SantiagoRR2004/PythonTemplate": {
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 8,
-    "userCommits": 7,
-    "languages": {},
-    "contributors": {
       "65916846": "actions-user"
     }
   },
@@ -675,11 +684,11 @@
     }
   },
   "https://github.com/hsahovic/poke-env": {
-    "stars": 440,
+    "stars": 441,
     "forks": 135,
     "issues": 264,
     "userIssues": 4,
-    "pullRequests": 545,
+    "pullRequests": 546,
     "userPullRequests": 2,
     "commits": 1268,
     "userCommits": 1,
@@ -757,7 +766,7 @@
     }
   },
   "https://github.com/marcelpanse/tcg-pocket-collection-tracker": {
-    "stars": 136,
+    "stars": 135,
     "forks": 39,
     "issues": 254,
     "userIssues": 1,
