@@ -19,12 +19,12 @@
 | [Python](https://github.com/search?q=user:SantiagoRR2004+language:Python) | 2.9 MB | 42.42% |
 | [PlantUML](https://github.com/search?q=user:SantiagoRR2004+language:PlantUML) | 2.8 MB | 41.76% |
 | [TypeScript](https://github.com/search?q=user:SantiagoRR2004+language:TypeScript) | 382.1 kB | 5.50% |
-| [Java](https://github.com/search?q=user:SantiagoRR2004+language:Java) | 364.2 kB | 5.25% |
+| [Java](https://github.com/search?q=user:SantiagoRR2004+language:Java) | 364.2 kB | 5.24% |
 | [JavaScript](https://github.com/search?q=user:SantiagoRR2004+language:JavaScript) | 129.7 kB | 1.87% |
 | [C++](https://github.com/search?q=user:SantiagoRR2004+language:C++) | 40.9 kB | 0.59% |
 | [Yacc](https://github.com/search?q=user:SantiagoRR2004+language:Yacc) | 38.2 kB | 0.55% |
 | [CLIPS](https://github.com/search?q=user:SantiagoRR2004+language:CLIPS) | 37.4 kB | 0.54% |
-| [HTML](https://github.com/search?q=user:SantiagoRR2004+language:HTML) | 24.4 kB | 0.35% |
+| [HTML](https://github.com/search?q=user:SantiagoRR2004+language:HTML) | 24.8 kB | 0.36% |
 | [Prolog](https://github.com/search?q=user:SantiagoRR2004+language:Prolog) | 20.1 kB | 0.29% |
 | [C](https://github.com/search?q=user:SantiagoRR2004+language:C) | 16.6 kB | 0.24% |
 | [Lex](https://github.com/search?q=user:SantiagoRR2004+language:Lex) | 15.6 kB | 0.22% |
@@ -48,7 +48,7 @@
 | [Modules](https://github.com/SantiagoRR2004/Modules) | 111 |
 | [PIC-Java](https://github.com/SantiagoRR2004/PIC-Java) | 92 |
 | [ABIA-RubiksCube](https://github.com/SantiagoRR2004/ABIA-RubiksCube) | 85 |
-| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 83 |
+| [SantiagoRR2004](https://github.com/SantiagoRR2004/SantiagoRR2004) | 84 |
 | [PIC-Python](https://github.com/SantiagoRR2004/PIC-Python) | 82 |
 | [English-IrregularVerbs](https://github.com/SantiagoRR2004/English-IrregularVerbs) | 71 |
 | [santipvz/IC-Threads](https://github.com/santipvz/IC-Threads) | 71 |
@@ -56,7 +56,7 @@
 | [ALF-Chusco](https://github.com/SantiagoRR2004/ALF-Chusco) | 47 |
 | [SIEX-CBR](https://github.com/SantiagoRR2004/SIEX-CBR) | 47 |
 | [pythocron](https://github.com/SantiagoRR2004/pythocron) | 47 |
-| [GRIA-Optativas](https://github.com/SantiagoRR2004/GRIA-Optativas) | 44 |
+| [GRIA-Optativas](https://github.com/SantiagoRR2004/GRIA-Optativas) | 45 |
 | [APS-WiFiSniffer](https://github.com/SantiagoRR2004/APS-WiFiSniffer) | 41 |
 | [SIEX-RAG](https://github.com/SantiagoRR2004/SIEX-RAG) | 41 |
 | [APAU_II-FineTuning](https://github.com/SantiagoRR2004/APAU_II-FineTuning) | 38 |
@@ -81,7 +81,7 @@
 | [esei-si-dagss/tasador-24](https://github.com/esei-si-dagss/tasador-24) | 0 |
 | [marcelpanse/tcg-pocket-collection-tracker](https://github.com/marcelpanse/tcg-pocket-collection-tracker) | 0 |
 | [waveform80/pisense](https://github.com/waveform80/pisense) | 0 |
-| Total | 2432 |
+| Total | 2434 |
 
 ## Collaborators
 
