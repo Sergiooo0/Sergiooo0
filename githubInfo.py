@@ -14,10 +14,10 @@ NUMBERCALLSGRAPHQL = 0
 BASE = "https://github.com/"
 GITHUBGRAPHQLURL = "https://api.github.com/graphql"
 
-if os.getenv("REPO_OWNER"):
-    AUTHOR = os.getenv("REPO_OWNER")
-else:
-    AUTHOR = "SantiagoRR2004"
+AUTHOR = os.getenv("REPO_OWNER") or os.getenv("GITHUB_ACTOR")
+if not AUTHOR:
+    raise RuntimeError("Cannot determine GitHub username")
+
 
 NODEID = None
 
