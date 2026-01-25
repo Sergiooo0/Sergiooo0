@@ -1,93 +1,43 @@
 {
-  "https://github.com/SantiagoRR2004/AdaByron": {
+  "https://github.com/Sergiooo0/PIC-java-components": {
     "stars": 0,
     "forks": 0,
     "issues": 0,
     "userIssues": 0,
-    "pullRequests": 44,
-    "userPullRequests": 44,
-    "commits": 357,
-    "userCommits": 333,
-    "languages": {
-      "Python": 61423,
-      "C++": 28587
-    },
-    "contributors": {
-      "76734632": "Sergiooo0",
-      "65916846": "actions-user",
-      "116091929": "usbt0p"
-    }
-  },
-  "https://github.com/LucachuTW/IS-Grupo301": {
-    "stars": 0,
-    "forks": 0,
-    "issues": 11,
-    "userIssues": 10,
-    "pullRequests": 1,
+    "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 338,
-    "userCommits": 182,
+    "commits": 56,
+    "userCommits": 56,
     "languages": {
-      "PlantUML": 2969600,
-      "Python": 246943
+      "Java": 303236
     },
-    "contributors": {
-      "148537889": "Ventupentu",
-      "150857533": "antonoterof",
-      "116091640": "LucachuTW",
-      "118545875": "antonvm2004",
-      "113910598": "rxbxrtx",
-      "148640382": "carmenvt7",
-      "150954220": "luciaavivero",
-      "65916846": "actions-user",
-      "151098525": "antiaasb",
-      "147521218": "carlossaz9",
-      "132823629": "evvv0"
-    }
+    "contributors": {}
   },
-  "https://github.com/SantiagoRR2004/GRIA-Questions": {
-    "stars": 0,
-    "forks": 1,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 5,
-    "userPullRequests": 1,
-    "commits": 269,
-    "userCommits": 150,
-    "languages": {
-      "Python": 14701
-    },
-    "contributors": {
-      "65916846": "actions-user",
-      "116091929": "usbt0p",
-      "135325970": "deibis4211",
-      "114695520": "santipvz",
-      "62659701": "MiniX16",
-      "116091640": "LucachuTW",
-      "146563007": "AdanAgr",
-      "76734632": "Sergiooo0",
-      "116092074": "daor95",
-      "148789530": "tomasrial46",
-      "148537889": "Ventupentu"
-    }
-  },
-  "https://github.com/SantiagoRR2004/PIC-book-exercise-docs": {
+  "https://github.com/Sergiooo0/PIC-python-components": {
     "stars": 0,
     "forks": 0,
     "issues": 0,
     "userIssues": 0,
-    "pullRequests": 24,
-    "userPullRequests": 24,
-    "commits": 153,
-    "userCommits": 141,
+    "pullRequests": 0,
+    "userPullRequests": 0,
+    "commits": 44,
+    "userCommits": 44,
     "languages": {
-      "Shell": 2026
+      "Python": 272104
     },
-    "contributors": {
-      "63560596": "labbenchstudios",
-      "1798843": "irconde",
-      "65916846": "actions-user"
-    }
+    "contributors": {}
+  },
+  "https://github.com/Sergiooo0/PIC-book-exercises": {
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 0,
+    "userPullRequests": 0,
+    "commits": 33,
+    "userCommits": 33,
+    "languages": {},
+    "contributors": {}
   },
   "https://github.com/SantiagoRR2004/APAU_BIO": {
     "stars": 0,
@@ -97,247 +47,54 @@
     "pullRequests": 0,
     "userPullRequests": 0,
     "commits": 191,
-    "userCommits": 140,
+    "userCommits": 30,
     "languages": {
       "Python": 679104
     },
     "contributors": {
-      "76734632": "Sergiooo0",
+      "114857078": "SantiagoRR2004",
       "65916846": "actions-user",
       "5877660": "dnolivieri"
     }
   },
-  "https://github.com/SantiagoRR2004/GRIA-TestCreator": {
-    "stars": 0,
-    "forks": 2,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 2,
-    "userPullRequests": 0,
-    "commits": 188,
-    "userCommits": 129,
-    "languages": {
-      "JavaScript": 48070,
-      "Python": 24003,
-      "HTML": 7469,
-      "CSS": 6845
-    },
-    "contributors": {
-      "65916846": "actions-user",
-      "116091929": "usbt0p",
-      "114695520": "santipvz",
-      "135325970": "deibis4211",
-      "148537889": "Ventupentu"
-    }
-  },
-  "https://github.com/SantiagoRR2004/MiiPlazaDecoder": {
-    "stars": 1,
-    "forks": 0,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 127,
-    "userCommits": 112,
-    "languages": {
-      "Python": 60154
-    },
-    "contributors": {
-      "65916846": "actions-user"
-    }
-  },
-  "https://github.com/SantiagoRR2004/Modules": {
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 138,
-    "userCommits": 111,
-    "languages": {
-      "Python": 102928
-    },
-    "contributors": {
-      "65916846": "actions-user"
-    }
-  },
-  "https://github.com/SantiagoRR2004/PIC-Java": {
-    "stars": 0,
-    "forks": 0,
-    "issues": 32,
-    "userIssues": 32,
-    "pullRequests": 16,
-    "userPullRequests": 16,
-    "commits": 146,
-    "userCommits": 92,
-    "languages": {
-      "Java": 323528,
-      "Shell": 1159
-    },
-    "contributors": {
-      "63560596": "labbenchstudios",
-      "65916846": "actions-user"
-    }
-  },
-  "https://github.com/SantiagoRR2004/ABIA-RubiksCube": {
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 101,
-    "userCommits": 85,
-    "languages": {
-      "Python": 102094
-    },
-    "contributors": {
-      "76734632": "Sergiooo0",
-      "65916846": "actions-user",
-      "11855769": "danifg"
-    }
-  },
-  "https://github.com/SantiagoRR2004/SantiagoRR2004": {
-    "stars": 0,
+  "https://github.com/santipvz/hackudc": {
+    "stars": 4,
     "forks": 1,
-    "issues": 0,
+    "issues": 3,
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 84,
-    "userCommits": 84,
+    "commits": 112,
+    "userCommits": 23,
     "languages": {
-      "Python": 20445
-    },
-    "contributors": {}
-  },
-  "https://github.com/SantiagoRR2004/PIC-Python": {
-    "stars": 0,
-    "forks": 0,
-    "issues": 41,
-    "userIssues": 41,
-    "pullRequests": 13,
-    "userPullRequests": 13,
-    "commits": 121,
-    "userCommits": 82,
-    "languages": {
-      "Python": 324624,
-      "Shell": 1015
-    },
-    "contributors": {
-      "63560596": "labbenchstudios",
-      "65916846": "actions-user"
-    }
-  },
-  "https://github.com/SantiagoRR2004/English-IrregularVerbs": {
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 90,
-    "userCommits": 71,
-    "languages": {
-      "Python": 18765,
-      "JavaScript": 14151,
-      "CSS": 2896,
-      "HTML": 2861
-    },
-    "contributors": {
-      "65916846": "actions-user"
-    }
-  },
-  "https://github.com/santipvz/IC-Threads": {
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 74,
-    "userCommits": 71,
-    "languages": {
-      "Python": 7046,
-      "Shell": 538
+      "Python": 42126
     },
     "contributors": {
       "114695520": "santipvz",
-      "65916846": "actions-user"
+      "148537889": "Ventupentu",
+      "116091640": "LucachuTW"
     }
   },
-  "https://github.com/SantiagoRR2004/RAIN-StringTuner": {
+  "https://github.com/Sergiooo0/NER_fine_tuning": {
     "stars": 0,
     "forks": 0,
     "issues": 0,
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 86,
-    "userCommits": 65,
+    "commits": 31,
+    "userCommits": 20,
     "languages": {
-      "Python": 78649
+      "Python": 40340,
+      "Shell": 1717
     },
     "contributors": {
-      "76734632": "Sergiooo0",
-      "65916846": "actions-user"
+      "114695520": "santipvz",
+      "148789530": "tomasrial46",
+      "146563007": "AdanAgr"
     }
   },
-  "https://github.com/SantiagoRR2004/ALF-Chusco": {
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 61,
-    "userCommits": 47,
-    "languages": {
-      "Yacc": 39103,
-      "Lex": 15942,
-      "C": 1716,
-      "Makefile": 374
-    },
-    "contributors": {
-      "76734632": "Sergiooo0"
-    }
-  },
-  "https://github.com/SantiagoRR2004/SIEX-CBR": {
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 61,
-    "userCommits": 47,
-    "languages": {
-      "Python": 56738
-    },
-    "contributors": {
-      "76734632": "Sergiooo0",
-      "65916846": "actions-user"
-    }
-  },
-  "https://github.com/SantiagoRR2004/pythocron": {
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 51,
-    "userCommits": 47,
-    "languages": {
-      "Python": 9219,
-      "Shell": 625
-    },
-    "contributors": {
-      "65916846": "actions-user"
-    }
-  },
-  "https://github.com/SantiagoRR2004/GRIA-Optativas": {
+  "https://github.com/Sergiooo0/SIEX-CLIPS": {
     "stars": 0,
     "forks": 0,
     "issues": 0,
@@ -345,37 +102,90 @@
     "pullRequests": 0,
     "userPullRequests": 0,
     "commits": 48,
-    "userCommits": 45,
+    "userCommits": 18,
     "languages": {
-      "Python": 16566,
-      "HTML": 5290
+      "CLIPS": 38283,
+      "Python": 6828,
+      "Batchfile": 233
     },
     "contributors": {
-      "65916846": "actions-user"
+      "114857078": "SantiagoRR2004",
+      "65916846": "actions-user",
+      "6004566": "ribadas-uvigo"
     }
   },
-  "https://github.com/SantiagoRR2004/APS-WiFiSniffer": {
-    "stars": 2,
+  "https://github.com/Sergiooo0/RedesWeb": {
+    "stars": 0,
     "forks": 0,
-    "issues": 6,
-    "userIssues": 5,
-    "pullRequests": 1,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 0,
+    "userPullRequests": 0,
+    "commits": 16,
+    "userCommits": 16,
+    "languages": {
+      "HTML": 3439,
+      "Python": 2969,
+      "CSS": 2583,
+      "JavaScript": 707,
+      "Procfile": 22
+    },
+    "contributors": {}
+  },
+  "https://github.com/LucachuTW/TikTok-maker": {
+    "stars": 1,
+    "forks": 0,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 0,
     "userPullRequests": 0,
     "commits": 62,
-    "userCommits": 41,
+    "userCommits": 13,
     "languages": {
-      "C": 15303,
-      "C++": 13289,
-      "JavaScript": 9797
+      "QML": 291628,
+      "Python": 46024,
+      "Shell": 3236
     },
     "contributors": {
-      "116092074": "daor95",
-      "114695520": "santipvz",
-      "26049425": "ebalvis",
-      "116091929": "usbt0p",
+      "62659701": "MiniX16",
+      "116091640": "LucachuTW"
+    }
+  },
+  "https://github.com/SantiagoRR2004/APAU_II-Clustering": {
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 0,
+    "userPullRequests": 0,
+    "commits": 31,
+    "userCommits": 10,
+    "languages": {
+      "Python": 12675
+    },
+    "contributors": {
+      "114857078": "SantiagoRR2004",
       "65916846": "actions-user",
-      "116091640": "LucachuTW",
-      "135229051": "kaisernico111"
+      "2480261": "sdocio"
+    }
+  },
+  "https://github.com/SantiagoRR2004/AdaByron": {
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 44,
+    "userPullRequests": 1,
+    "commits": 357,
+    "userCommits": 10,
+    "languages": {
+      "Python": 61423,
+      "C++": 28587
+    },
+    "contributors": {
+      "114857078": "SantiagoRR2004",
+      "65916846": "actions-user",
+      "116091929": "usbt0p"
     }
   },
   "https://github.com/SantiagoRR2004/SIEX-RAG": {
@@ -385,73 +195,30 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 49,
-    "userCommits": 41,
+    "commits": 52,
+    "userCommits": 7,
     "languages": {
-      "Python": 19921
+      "Python": 19919
     },
     "contributors": {
-      "76734632": "Sergiooo0",
-      "65916846": "actions-user"
-    }
-  },
-  "https://github.com/SantiagoRR2004/APAU_II-FineTuning": {
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 58,
-    "userCommits": 38,
-    "languages": {
-      "Python": 61064,
-      "Shell": 1380
-    },
-    "contributors": {
-      "116092074": "daor95",
+      "114857078": "SantiagoRR2004",
       "65916846": "actions-user",
-      "116967182": "NicolGallo",
-      "116091929": "usbt0p"
+      "6004566": "ribadas-uvigo"
     }
   },
-  "https://github.com/SantiagoRR2004/Hackathon": {
+  "https://github.com/Sergiooo0/FoafPerfil": {
     "stars": 0,
     "forks": 0,
     "issues": 0,
     "userIssues": 0,
-    "pullRequests": 1,
-    "userPullRequests": 0,
-    "commits": 63,
-    "userCommits": 34,
-    "languages": {
-      "Python": 33216,
-      "Shell": 2985
-    },
-    "contributors": {
-      "116091929": "usbt0p",
-      "116092074": "daor95",
-      "65916846": "actions-user"
-    }
-  },
-  "https://github.com/SantiagoRR2004/ABIA-Connect4": {
-    "stars": 0,
-    "forks": 0,
-    "issues": 1,
-    "userIssues": 1,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 40,
-    "userCommits": 33,
-    "languages": {
-      "Java": 49445
-    },
-    "contributors": {
-      "76734632": "Sergiooo0",
-      "11855769": "danifg"
-    }
+    "commits": 5,
+    "userCommits": 5,
+    "languages": {},
+    "contributors": {}
   },
-  "https://github.com/SantiagoRR2004/SantiagoRR2004.github.io": {
+  "https://github.com/Sergiooo0/Ejercicio-ROS2": {
     "stars": 0,
     "forks": 0,
     "issues": 0,
@@ -459,68 +226,14 @@
     "pullRequests": 0,
     "userPullRequests": 0,
     "commits": 32,
-    "userCommits": 32,
+    "userCommits": 4,
     "languages": {
-      "JavaScript": 38899,
-      "HTML": 852
-    },
-    "contributors": {}
-  },
-  "https://github.com/Sergiooo0/SIEX-CLIPS": {
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 47,
-    "userCommits": 28,
-    "languages": {
-      "CLIPS": 38283,
-      "Python": 6828,
-      "Batchfile": 233
+      "Python": 19291,
+      "Shell": 1248,
+      "CMake": 293
     },
     "contributors": {
-      "76734632": "Sergiooo0",
-      "65916846": "actions-user"
-    }
-  },
-  "https://github.com/LucachuTW/CARDS-PokemonPocket-scrapper": {
-    "stars": 43,
-    "forks": 12,
-    "issues": 7,
-    "userIssues": 6,
-    "pullRequests": 7,
-    "userPullRequests": 4,
-    "commits": 55,
-    "userCommits": 25,
-    "languages": {
-      "Python": 30297
-    },
-    "contributors": {
-      "116091640": "LucachuTW",
-      "40212940": "da1pi2",
-      "53957795": "chase-manning"
-    }
-  },
-  "https://github.com/SantiagoRR2004/MD-Combinations": {
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 31,
-    "userCommits": 24,
-    "languages": {
-      "Python": 7406
-    },
-    "contributors": {
-      "65916846": "actions-user",
-      "116092027": "fedellor",
-      "76734632": "Sergiooo0",
-      "118545875": "antonvm2004",
-      "114695520": "santipvz"
+      "62659701": "MiniX16"
     }
   },
   "https://github.com/SantiagoRR2004/APAU_II-KMeans": {
@@ -531,78 +244,42 @@
     "pullRequests": 0,
     "userPullRequests": 0,
     "commits": 25,
-    "userCommits": 21,
+    "userCommits": 3,
     "languages": {
       "Python": 11765
     },
     "contributors": {
-      "76734632": "Sergiooo0",
-      "65916846": "actions-user"
+      "114857078": "SantiagoRR2004",
+      "65916846": "actions-user",
+      "2480261": "sdocio"
     }
   },
-  "https://github.com/SantiagoRR2004/RCR-RBS": {
+  "https://github.com/Sergiooo0/GRIA-TestCreator": {
     "stars": 0,
     "forks": 0,
     "issues": 0,
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 28,
-    "userCommits": 20,
+    "commits": 222,
+    "userCommits": 3,
     "languages": {
-      "Prolog": 20564,
-      "Makefile": 24
+      "Python": 29035,
+      "JavaScript": 5482,
+      "CSS": 4609
     },
     "contributors": {
-      "76734632": "Sergiooo0"
-    }
-  },
-  "https://github.com/SantiagoRR2004/APAU_II-Clustering": {
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 30,
-    "userCommits": 18,
-    "languages": {
-      "Python": 12676
-    },
-    "contributors": {
-      "76734632": "Sergiooo0",
-      "65916846": "actions-user"
-    }
-  },
-  "https://github.com/SantiagoRR2004/GOTY": {
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 15,
-    "userCommits": 12,
-    "languages": {
-      "Python": 5834,
-      "HTML": 712
-    },
-    "contributors": {
-      "65916846": "actions-user"
-    }
-  },
-  "https://github.com/SantiagoRR2004/PythonTemplate": {
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 9,
-    "userCommits": 8,
-    "languages": {},
-    "contributors": {
-      "65916846": "actions-user"
+      "114857078": "SantiagoRR2004",
+      "65916846": "actions-user",
+      "116091929": "usbt0p",
+      "135325970": "deibis4211",
+      "114695520": "santipvz",
+      "62659701": "MiniX16",
+      "146563007": "AdanAgr",
+      "116091640": "LucachuTW",
+      "148537889": "Ventupentu",
+      "116092074": "daor95",
+      "148789530": "tomasrial46"
     }
   },
   "https://github.com/SantiagoRR2004/APAU_II-AssociationRules": {
@@ -612,225 +289,78 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 10,
-    "userCommits": 7,
+    "commits": 11,
+    "userCommits": 2,
     "languages": {
       "Python": 9730
     },
     "contributors": {
-      "76734632": "Sergiooo0",
-      "65916846": "actions-user"
+      "114857078": "SantiagoRR2004",
+      "65916846": "actions-user",
+      "2480261": "sdocio"
     }
   },
-  "https://github.com/SantiagoRR2004/LustreTemplate": {
+  "https://github.com/Sergiooo0/ORB_SLAM3": {
     "stars": 0,
     "forks": 0,
     "issues": 0,
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 6,
-    "userCommits": 6,
-    "languages": {
-      "Shell": 1348
-    },
-    "contributors": {}
-  },
-  "https://github.com/SantiagoRR2004/TIC_II-GameAndWatch": {
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 6,
-    "userCommits": 5,
-    "languages": {
-      "Python": 15252
-    },
-    "contributors": {
-      "65916846": "actions-user"
-    }
-  },
-  "https://github.com/SantiagoRR2004/skills-introduction-to-github": {
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 3,
-    "userPullRequests": 1,
-    "commits": 11,
-    "userCommits": 3,
-    "languages": {},
-    "contributors": {
-      "41898282": "github-actions[bot]"
-    }
-  },
-  "https://github.com/rubenfb23/AutoPaperwork": {
-    "stars": 1,
-    "forks": 0,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 4,
-    "userPullRequests": 2,
-    "commits": 29,
-    "userCommits": 3,
-    "languages": {
-      "Python": 15047
-    },
-    "contributors": {
-      "98909961": "rubenfb23",
-      "70293484": "macarracedo"
-    }
-  },
-  "https://github.com/hsahovic/poke-env": {
-    "stars": 442,
-    "forks": 136,
-    "issues": 264,
-    "userIssues": 4,
-    "pullRequests": 546,
-    "userPullRequests": 2,
-    "commits": 1268,
+    "commits": 55,
     "userCommits": 1,
     "languages": {
-      "Python": 697996,
-      "HTML": 5603,
-      "Shell": 238
+      "C++": 1472690,
+      "Python": 15933,
+      "CMake": 12511,
+      "Shell": 1982
     },
     "contributors": {
-      "25432355": "hsahovic",
-      "49699333": "dependabot[bot]",
-      "82184604": "MatteoH2O1999",
-      "50247523": "cameronangliss",
-      "41898282": "github-actions[bot]",
-      "8413475": "caymansimpson",
-      "38109359": "szymonWojdat",
-      "27856297": "dependabot-preview[bot]",
-      "10437649": "akashsara",
-      "4717005": "uduse",
-      "33169711": "kodecreer",
-      "17132214": "acxz",
-      "30420527": "shrianshChari",
-      "25304649": "pmariglia",
-      "97079030": "VolundrAI",
-      "10923695": "AoifeHughes",
-      "58889866": "AFumis",
-      "13490018": "BrunoMNDantas",
-      "15002448": "BaiqingL",
-      "9001941": "Benjamin-Etheredge",
-      "106555015": "DanieleDataMasters",
-      "11090059": "darrenswhite",
-      "38857533": "dmizr",
-      "66328126": "gstvschlz",
-      "101541421": "lcgabaldon",
-      "28374593": "TVFLabs",
-      "140982580": "jkim2729"
+      "28753823": "richard-elvira",
+      "25054891": "jdtardos",
+      "22748376": "jj-gomez",
+      "33715671": "ccamposm"
     }
   },
-  "https://github.com/chase-manning/pokemon-tcg-pocket-cards": {
-    "stars": 126,
-    "forks": 12,
-    "issues": 9,
-    "userIssues": 1,
-    "pullRequests": 40,
-    "userPullRequests": 0,
-    "commits": 138,
-    "userCommits": 0,
-    "languages": {
-      "Python": 24697,
-      "JavaScript": 1445
-    },
-    "contributors": {
-      "53957795": "chase-manning",
-      "65452054": "nathanrboyer",
-      "93532238": "ch1coon",
-      "62150513": "abaker93",
-      "681982": "bitmaybewise",
-      "48692915": "Polyphian"
-    }
-  },
-  "https://github.com/esei-si-dagss/tasador-24": {
+  "https://github.com/Sergiooo0/pyslam": {
     "stars": 0,
-    "forks": 1,
+    "forks": 0,
     "issues": 0,
     "userIssues": 0,
-    "pullRequests": 1,
-    "userPullRequests": 1,
-    "commits": 10,
-    "userCommits": 0,
+    "pullRequests": 0,
+    "userPullRequests": 0,
+    "commits": 338,
+    "userCommits": 1,
     "languages": {
-      "Python": 18084
+      "Python": 2593829,
+      "C++": 190319,
+      "Shell": 110594,
+      "CMake": 2324
     },
     "contributors": {
-      "6004566": "ribadas-uvigo"
+      "10080262": "luigifreda",
+      "51912226": "dvdmc",
+      "45717852": "anathonic",
+      "139551403": "AnielAlexa",
+      "208969954": "luigidexory",
+      "11637538": "sanic-the-hedgefond",
+      "18640304": "ndujar"
     }
   },
-  "https://github.com/marcelpanse/tcg-pocket-collection-tracker": {
-    "stars": 135,
-    "forks": 39,
-    "issues": 254,
-    "userIssues": 1,
-    "pullRequests": 577,
+  "https://github.com/Sergiooo0/Sergiooo0": {
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 664,
+    "commits": 85,
     "userCommits": 0,
     "languages": {
-      "TypeScript": 391264,
-      "JavaScript": 20422,
-      "HTML": 2632,
-      "CSS": 1729
+      "Python": 20445
     },
     "contributors": {
-      "418984": "marcelpanse",
-      "49699333": "dependabot[bot]",
-      "29665730": "greg19",
-      "15209405": "afu-dev",
-      "73377131": "jejnaj",
-      "173207727": "LandDar",
-      "34892045": "mpierrez",
-      "130557846": "RubenJavierBachoAlarcon",
-      "368592": "javijec",
-      "4228398": "SpyderHunter03",
-      "94017614": "aredmondd",
-      "38170967": "sanshigo345",
-      "10010793": "graylewis",
-      "17156492": "nicolasfeyer",
-      "18624067": "amoreaulemay",
-      "54109737": "robertfoster550",
-      "68415033": "mkslzk",
-      "38354616": "StephenAloche",
-      "25161825": "msilvestro",
-      "15808247": "1vcian",
-      "201633802": "PlayInKetchup",
-      "153860469": "velinakennedy",
-      "161369871": "google-labs-jules[bot]",
-      "88334930": "WickiRiama",
-      "180430210": "vmdumont93",
-      "128099321": "Bilhalv",
-      "33298582": "dahbar",
-      "18427765": "MarkoOleksiyenko",
-      "85681227": "JS2K8",
-      "45013509": "gregormaclaine",
-      "23654548": "Fischa7",
-      "77793898": "CorentinGouil",
-      "114663850": "rexwithluv"
-    }
-  },
-  "https://github.com/waveform80/pisense": {
-    "stars": 7,
-    "forks": 3,
-    "issues": 5,
-    "userIssues": 1,
-    "pullRequests": 2,
-    "userPullRequests": 0,
-    "commits": 201,
-    "userCommits": 0,
-    "languages": {
-      "Python": 223044,
-      "Makefile": 6605
-    },
-    "contributors": {
-      "1076190": "waveform80"
+      "114857078": "SantiagoRR2004"
     }
   }
 }
