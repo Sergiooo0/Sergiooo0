@@ -51,10 +51,10 @@
 | [SantiagoRR2004/APAU_II-KMeans](https://github.com/SantiagoRR2004/APAU_II-KMeans) | 3 |
 | [GRIA-TestCreator](https://github.com/Sergiooo0/GRIA-TestCreator) | 3 |
 | [SantiagoRR2004/APAU_II-AssociationRules](https://github.com/SantiagoRR2004/APAU_II-AssociationRules) | 2 |
+| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 2 |
 | [ORB_SLAM3](https://github.com/Sergiooo0/ORB_SLAM3) | 1 |
 | [pyslam](https://github.com/Sergiooo0/pyslam) | 1 |
-| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 0 |
-| Total | 299 |
+| Total | 301 |
 
 ## Collaborators
 
