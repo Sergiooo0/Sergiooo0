@@ -39,6 +39,29 @@
     "languages": {},
     "contributors": {}
   },
+  "https://github.com/SantiagoRR2004/VIAR": {
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 0,
+    "userPullRequests": 0,
+    "commits": 142,
+    "userCommits": 31,
+    "languages": {
+      "Python": 2069147,
+      "TeX": 23903,
+      "C++": 7275,
+      "Shell": 851,
+      "CMake": 369
+    },
+    "contributors": {
+      "114857078": "SantiagoRR2004",
+      "65916846": "actions-user",
+      "5877660": "dnolivieri",
+      "116091929": "usbt0p"
+    }
+  },
   "https://github.com/SantiagoRR2004/APAU_BIO": {
     "stars": 0,
     "forks": 0,
@@ -213,8 +236,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 91,
-    "userCommits": 6,
+    "commits": 92,
+    "userCommits": 7,
     "languages": {
       "Python": 20481
     },
