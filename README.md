@@ -48,7 +48,7 @@
 | [SantiagoRR2004/PLN](https://github.com/SantiagoRR2004/PLN) | 13 |
 | [SantiagoRR2004/APAU_II-Clustering](https://github.com/SantiagoRR2004/APAU_II-Clustering) | 10 |
 | [SantiagoRR2004/AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 10 |
-| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 8 |
+| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 9 |
 | [FoafPerfil](https://github.com/Sergiooo0/FoafPerfil) | 5 |
 | [Ejercicio-ROS2](https://github.com/Sergiooo0/Ejercicio-ROS2) | 4 |
 | [SantiagoRR2004/APAU_II-KMeans](https://github.com/SantiagoRR2004/APAU_II-KMeans) | 3 |
@@ -56,7 +56,7 @@
 | [SantiagoRR2004/APAU_II-AssociationRules](https://github.com/SantiagoRR2004/APAU_II-AssociationRules) | 2 |
 | [ORB_SLAM3](https://github.com/Sergiooo0/ORB_SLAM3) | 1 |
 | [pyslam](https://github.com/Sergiooo0/pyslam) | 1 |
-| Total | 344 |
+| Total | 345 |
 
 ## Collaborators
 
