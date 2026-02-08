@@ -44,7 +44,7 @@
 | [NER_fine_tuning](https://github.com/Sergiooo0/NER_fine_tuning) | 20 |
 | [SIEX-CLIPS](https://github.com/Sergiooo0/SIEX-CLIPS) | 18 |
 | [RedesWeb](https://github.com/Sergiooo0/RedesWeb) | 16 |
-| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 14 |
+| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 15 |
 | [LucachuTW/TikTok-maker](https://github.com/LucachuTW/TikTok-maker) | 13 |
 | [SantiagoRR2004/PLN](https://github.com/SantiagoRR2004/PLN) | 13 |
 | [SantiagoRR2004/APAU_II-Clustering](https://github.com/SantiagoRR2004/APAU_II-Clustering) | 10 |
@@ -56,7 +56,7 @@
 | [SantiagoRR2004/APAU_II-AssociationRules](https://github.com/SantiagoRR2004/APAU_II-AssociationRules) | 2 |
 | [ORB_SLAM3](https://github.com/Sergiooo0/ORB_SLAM3) | 1 |
 | [pyslam](https://github.com/Sergiooo0/pyslam) | 1 |
-| Total | 350 |
+| Total | 351 |
 
 ## Collaborators
 
