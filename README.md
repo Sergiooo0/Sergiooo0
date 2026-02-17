@@ -40,7 +40,7 @@
 | [PIC-book-exercises](https://github.com/Sergiooo0/PIC-book-exercises) | 33 |
 | [SantiagoRR2004/VIAR](https://github.com/SantiagoRR2004/VIAR) | 31 |
 | [SantiagoRR2004/APAU_BIO](https://github.com/SantiagoRR2004/APAU_BIO) | 30 |
-| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 23 |
+| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 24 |
 | [santipvz/hackudc](https://github.com/santipvz/hackudc) | 23 |
 | [NER_fine_tuning](https://github.com/Sergiooo0/NER_fine_tuning) | 20 |
 | [SIEX-CLIPS](https://github.com/Sergiooo0/SIEX-CLIPS) | 18 |
@@ -56,7 +56,7 @@
 | [SantiagoRR2004/APAU_II-AssociationRules](https://github.com/SantiagoRR2004/APAU_II-AssociationRules) | 2 |
 | [ORB_SLAM3](https://github.com/Sergiooo0/ORB_SLAM3) | 1 |
 | [pyslam](https://github.com/Sergiooo0/pyslam) | 1 |
-| Total | 359 |
+| Total | 360 |
 
 ## Collaborators
 
