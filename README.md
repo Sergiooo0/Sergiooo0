@@ -41,8 +41,8 @@
 | [PIC-java-components](https://github.com/Sergiooo0/PIC-java-components) | 56 |
 | [PIC-python-components](https://github.com/Sergiooo0/PIC-python-components) | 44 |
 | [PIC-book-exercises](https://github.com/Sergiooo0/PIC-book-exercises) | 33 |
+| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 32 |
 | [SantiagoRR2004/VIAR](https://github.com/SantiagoRR2004/VIAR) | 31 |
-| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 31 |
 | [SantiagoRR2004/APAU_BIO](https://github.com/SantiagoRR2004/APAU_BIO) | 30 |
 | [SantiagoRR2004/WSEM](https://github.com/SantiagoRR2004/WSEM) | 28 |
 | [SantiagoRR2004/RI](https://github.com/SantiagoRR2004/RI) | 23 |
@@ -61,7 +61,7 @@
 | [SantiagoRR2004/APAU_II-AssociationRules](https://github.com/SantiagoRR2004/APAU_II-AssociationRules) | 2 |
 | [ORB_SLAM3](https://github.com/Sergiooo0/ORB_SLAM3) | 1 |
 | [pyslam](https://github.com/Sergiooo0/pyslam) | 1 |
-| Total | 418 |
+| Total | 419 |
 
 ## Collaborators
 
