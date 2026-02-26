@@ -46,8 +46,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 117,
-    "userCommits": 32,
+    "commits": 118,
+    "userCommits": 33,
     "languages": {
       "Python": 20481
     },
@@ -135,24 +135,6 @@
       "65916846": "actions-user",
       "66303056": "mfgavilanes",
       "127146145": "ErikFigueiral"
-    }
-  },
-  "https://github.com/santipvz/hackudc": {
-    "stars": 4,
-    "forks": 0,
-    "issues": 3,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 112,
-    "userCommits": 23,
-    "languages": {
-      "Python": 42126
-    },
-    "contributors": {
-      "114695520": "santipvz",
-      "148537889": "Ventupentu",
-      "116091640": "LucachuTW"
     }
   },
   "https://github.com/Sergiooo0/NER_fine_tuning": {
