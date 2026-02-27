@@ -27,6 +27,22 @@
     },
     "contributors": {}
   },
+  "https://github.com/Sergiooo0/Sergiooo0": {
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 0,
+    "userPullRequests": 0,
+    "commits": 119,
+    "userCommits": 34,
+    "languages": {
+      "Python": 20481
+    },
+    "contributors": {
+      "114857078": "SantiagoRR2004"
+    }
+  },
   "https://github.com/Sergiooo0/PIC-book-exercises": {
     "stars": 0,
     "forks": 0,
@@ -39,25 +55,9 @@
     "languages": {},
     "contributors": {}
   },
-  "https://github.com/Sergiooo0/Sergiooo0": {
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 118,
-    "userCommits": 33,
-    "languages": {
-      "Python": 20481
-    },
-    "contributors": {
-      "114857078": "SantiagoRR2004"
-    }
-  },
   "https://github.com/SantiagoRR2004/VIAR": {
     "stars": 0,
-    "forks": 0,
+    "forks": 1,
     "issues": 0,
     "userIssues": 0,
     "pullRequests": 0,
