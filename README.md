@@ -39,7 +39,7 @@
 
 | <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
 |:----------|----------:|
-| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 68 |
+| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 69 |
 | [PIC-java-components](https://github.com/Sergiooo0/PIC-java-components) | 56 |
 | [PIC-python-components](https://github.com/Sergiooo0/PIC-python-components) | 44 |
 | [PIC-book-exercises](https://github.com/Sergiooo0/PIC-book-exercises) | 33 |
@@ -52,9 +52,9 @@
 | [RedesWeb](https://github.com/Sergiooo0/RedesWeb) | 16 |
 | [LucachuTW/TikTok-maker](https://github.com/LucachuTW/TikTok-maker) | 13 |
 | [SantiagoRR2004/PLN](https://github.com/SantiagoRR2004/PLN) | 13 |
+| [Bocobot-Tournament-WebPage](https://github.com/Sergiooo0/Bocobot-Tournament-WebPage) | 11 |
 | [SantiagoRR2004/APAU_II-Clustering](https://github.com/SantiagoRR2004/APAU_II-Clustering) | 10 |
 | [SantiagoRR2004/AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 10 |
-| [Bocobot-Tournament-WebPage](https://github.com/Sergiooo0/Bocobot-Tournament-WebPage) | 6 |
 | [FoafPerfil](https://github.com/Sergiooo0/FoafPerfil) | 5 |
 | [Ejercicio-ROS2](https://github.com/Sergiooo0/Ejercicio-ROS2) | 4 |
 | [GRIA-TestCreator](https://github.com/Sergiooo0/GRIA-TestCreator) | 3 |
@@ -62,7 +62,7 @@
 | [Ventupentu/Hack2026](https://github.com/Ventupentu/Hack2026) | 2 |
 | [ORB_SLAM3](https://github.com/Sergiooo0/ORB_SLAM3) | 1 |
 | [pyslam](https://github.com/Sergiooo0/pyslam) | 1 |
-| Total | 437 |
+| Total | 443 |
 
 ## Collaborators
 
