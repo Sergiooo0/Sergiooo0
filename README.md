@@ -38,7 +38,7 @@
 
 | <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
 |:----------|----------:|
-| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 74 |
+| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 75 |
 | [PIC-java-components](https://github.com/Sergiooo0/PIC-java-components) | 56 |
 | [PIC-python-components](https://github.com/Sergiooo0/PIC-python-components) | 44 |
 | [PIC-book-exercises](https://github.com/Sergiooo0/PIC-book-exercises) | 33 |
@@ -47,8 +47,8 @@
 | [SantiagoRR2004/WSEM](https://github.com/SantiagoRR2004/WSEM) | 28 |
 | [SantiagoRR2004/RI](https://github.com/SantiagoRR2004/RI) | 23 |
 | [NER_fine_tuning](https://github.com/Sergiooo0/NER_fine_tuning) | 20 |
+| [Bocobot-Tournament-WebPage](https://github.com/Sergiooo0/Bocobot-Tournament-WebPage) | 19 |
 | [SIEX-CLIPS](https://github.com/Sergiooo0/SIEX-CLIPS) | 18 |
-| [Bocobot-Tournament-WebPage](https://github.com/Sergiooo0/Bocobot-Tournament-WebPage) | 17 |
 | [RedesWeb](https://github.com/Sergiooo0/RedesWeb) | 16 |
 | [SantiagoRR2004/PLN](https://github.com/SantiagoRR2004/PLN) | 13 |
 | [SantiagoRR2004/AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 10 |
@@ -59,7 +59,7 @@
 | [Ventupentu/Hack2026](https://github.com/Ventupentu/Hack2026) | 2 |
 | [ORB_SLAM3](https://github.com/Sergiooo0/ORB_SLAM3) | 1 |
 | [pyslam](https://github.com/Sergiooo0/pyslam) | 1 |
-| Total | 431 |
+| Total | 434 |
 
 ## Collaborators
 

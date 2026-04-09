@@ -6,8 +6,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 159,
-    "userCommits": 74,
+    "commits": 160,
+    "userCommits": 75,
     "languages": {
       "Python": 20481
     },
@@ -156,6 +156,20 @@
       "146563007": "AdanAgr"
     }
   },
+  "https://github.com/Sergiooo0/Bocobot-Tournament-WebPage": {
+    "stars": 3,
+    "forks": 1,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 5,
+    "userPullRequests": 1,
+    "commits": 36,
+    "userCommits": 19,
+    "languages": {},
+    "contributors": {
+      "116091929": "usbt0p"
+    }
+  },
   "https://github.com/Sergiooo0/SIEX-CLIPS": {
     "stars": 0,
     "forks": 0,
@@ -174,20 +188,6 @@
       "114857078": "SantiagoRR2004",
       "65916846": "actions-user",
       "6004566": "ribadas-uvigo"
-    }
-  },
-  "https://github.com/Sergiooo0/Bocobot-Tournament-WebPage": {
-    "stars": 0,
-    "forks": 1,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 5,
-    "userPullRequests": 1,
-    "commits": 34,
-    "userCommits": 17,
-    "languages": {},
-    "contributors": {
-      "116091929": "usbt0p"
     }
   },
   "https://github.com/Sergiooo0/RedesWeb": {
