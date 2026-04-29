@@ -16,8 +16,8 @@
 
 | <img width="1000"><br><p align="center">Language | <img width="1000" height="1"><br><p align="center">Bytes | <img width="1000" height="1"><br><p align="center">Percentage |
 |:----------|:----------:|----------:|
-| [Python](https://github.com/search?q=user:Sergiooo0+language:Python) | 6.1 MB | 69.54% |
-| [C++](https://github.com/search?q=user:Sergiooo0+language:C++) | 1.6 MB | 18.47% |
+| [Python](https://github.com/search?q=user:Sergiooo0+language:Python) | 6.1 MB | 69.56% |
+| [C++](https://github.com/search?q=user:Sergiooo0+language:C++) | 1.6 MB | 18.46% |
 | [Jupyter Notebook](https://github.com/search?q=user:Sergiooo0+language:Jupyter Notebook) | 440.3 kB | 4.90% |
 | [Java](https://github.com/search?q=user:Sergiooo0+language:Java) | 372.8 kB | 4.15% |
 | [Shell](https://github.com/search?q=user:Sergiooo0+language:Shell) | 117.1 kB | 1.30% |
@@ -38,7 +38,7 @@
 
 | <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
 |:----------|----------:|
-| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 94 |
+| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 95 |
 | [PIC-java-components](https://github.com/Sergiooo0/PIC-java-components) | 56 |
 | [PIC-python-components](https://github.com/Sergiooo0/PIC-python-components) | 44 |
 | [PIC-book-exercises](https://github.com/Sergiooo0/PIC-book-exercises) | 33 |
@@ -59,7 +59,7 @@
 | [Ventupentu/Hack2026](https://github.com/Ventupentu/Hack2026) | 2 |
 | [ORB_SLAM3](https://github.com/Sergiooo0/ORB_SLAM3) | 1 |
 | [pyslam](https://github.com/Sergiooo0/pyslam) | 1 |
-| Total | 458 |
+| Total | 459 |
 
 ## Collaborators
 
