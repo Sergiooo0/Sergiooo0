@@ -16,7 +16,7 @@
 
 | <img width="1000"><br><p align="center">Language | <img width="1000" height="1"><br><p align="center">Bytes | <img width="1000" height="1"><br><p align="center">Percentage |
 |:----------|:----------:|----------:|
-| [TypeScript](https://github.com/search?q=user:Sergiooo0+language:TypeScript) | 119.1 MB | 87.85% |
+| [TypeScript](https://github.com/search?q=user:Sergiooo0+language:TypeScript) | 119.2 MB | 87.85% |
 | [Python](https://github.com/search?q=user:Sergiooo0+language:Python) | 8.5 MB | 6.25% |
 | [CSS](https://github.com/search?q=user:Sergiooo0+language:CSS) | 1.8 MB | 1.34% |
 | [C++](https://github.com/search?q=user:Sergiooo0+language:C++) | 1.7 MB | 1.28% |
@@ -74,7 +74,7 @@
 
 | <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
 |:----------|----------:|
-| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 126 |
+| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 127 |
 | [PIC-java-components](https://github.com/Sergiooo0/PIC-java-components) | 56 |
 | [PIC-python-components](https://github.com/Sergiooo0/PIC-python-components) | 44 |
 | [PIC-book-exercises](https://github.com/Sergiooo0/PIC-book-exercises) | 33 |
@@ -96,7 +96,7 @@
 | [pyslam](https://github.com/Sergiooo0/pyslam) | 1 |
 | [ultralytics](https://github.com/Sergiooo0/ultralytics) | 0 |
 | [microsoft/vscode](https://github.com/microsoft/vscode) | 0 |
-| Total | 461 |
+| Total | 462 |
 
 ## Collaborators
 
