@@ -16,19 +16,19 @@
 
 | <img width="1000"><br><p align="center">Language | <img width="1000" height="1"><br><p align="center">Bytes | <img width="1000" height="1"><br><p align="center">Percentage |
 |:----------|:----------:|----------:|
-| [TypeScript](https://github.com/search?q=user:Sergiooo0+language:TypeScript) | 124.3 MB | 88.26% |
-| [Python](https://github.com/search?q=user:Sergiooo0+language:Python) | 8.5 MB | 6.01% |
+| [TypeScript](https://github.com/search?q=user:Sergiooo0+language:TypeScript) | 124.7 MB | 88.23% |
+| [Python](https://github.com/search?q=user:Sergiooo0+language:Python) | 8.6 MB | 6.07% |
 | [CSS](https://github.com/search?q=user:Sergiooo0+language:CSS) | 2.0 MB | 1.39% |
-| [C++](https://github.com/search?q=user:Sergiooo0+language:C++) | 1.7 MB | 1.24% |
+| [C++](https://github.com/search?q=user:Sergiooo0+language:C++) | 1.7 MB | 1.23% |
 | [JavaScript](https://github.com/search?q=user:Sergiooo0+language:JavaScript) | 994.6 kB | 0.69% |
 | [HTML](https://github.com/search?q=user:Sergiooo0+language:HTML) | 707.8 kB | 0.49% |
 | [Jupyter Notebook](https://github.com/search?q=user:Sergiooo0+language:Jupyter Notebook) | 668.5 kB | 0.46% |
 | [Rust](https://github.com/search?q=user:Sergiooo0+language:Rust) | 646.4 kB | 0.45% |
 | [Java](https://github.com/search?q=user:Sergiooo0+language:Java) | 378.0 kB | 0.26% |
 | [Inno Setup](https://github.com/search?q=user:Sergiooo0+language:Inno Setup) | 327.4 kB | 0.23% |
-| [Shell](https://github.com/search?q=user:Sergiooo0+language:Shell) | 268.7 kB | 0.19% |
+| [Shell](https://github.com/search?q=user:Sergiooo0+language:Shell) | 269.6 kB | 0.19% |
 | [Scilab](https://github.com/search?q=user:Sergiooo0+language:Scilab) | 198.1 kB | 0.14% |
-| [PowerShell](https://github.com/search?q=user:Sergiooo0+language:PowerShell) | 50.2 kB | 0.03% |
+| [PowerShell](https://github.com/search?q=user:Sergiooo0+language:PowerShell) | 55.1 kB | 0.04% |
 | [TeX](https://github.com/search?q=user:Sergiooo0+language:TeX) | 44.5 kB | 0.03% |
 | [CLIPS](https://github.com/search?q=user:Sergiooo0+language:CLIPS) | 37.4 kB | 0.03% |
 | [Batchfile](https://github.com/search?q=user:Sergiooo0+language:Batchfile) | 30.6 kB | 0.02% |
@@ -39,7 +39,7 @@
 | [C#](https://github.com/search?q=user:Sergiooo0+language:C#) | 9.6 kB | 0.01% |
 | [SCSS](https://github.com/search?q=user:Sergiooo0+language:SCSS) | 6.6 kB | 0.00% |
 | [Ruby](https://github.com/search?q=user:Sergiooo0+language:Ruby) | 5.4 kB | 0.00% |
-| [Dockerfile](https://github.com/search?q=user:Sergiooo0+language:Dockerfile) | 3.8 kB | 0.00% |
+| [Dockerfile](https://github.com/search?q=user:Sergiooo0+language:Dockerfile) | 4.3 kB | 0.00% |
 | [Groovy](https://github.com/search?q=user:Sergiooo0+language:Groovy) | 3.8 kB | 0.00% |
 | [Cuda](https://github.com/search?q=user:Sergiooo0+language:Cuda) | 3.5 kB | 0.00% |
 | [Makefile](https://github.com/search?q=user:Sergiooo0+language:Makefile) | 2.6 kB | 0.00% |
@@ -68,13 +68,13 @@
 | [HLSL](https://github.com/search?q=user:Sergiooo0+language:HLSL) | 184.0 B | 0.00% |
 | [Procfile](https://github.com/search?q=user:Sergiooo0+language:Procfile) | 22.0 B | 0.00% |
 | [Hack](https://github.com/search?q=user:Sergiooo0+language:Hack) | 16.0 B | 0.00% |
-| Total | 140.8 MB | 100.00% |
+| Total | 141.3 MB | 100.00% |
 
 ## Repositories
 
 | <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
 |:----------|----------:|
-| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 149 |
+| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 150 |
 | [PIC-java-components](https://github.com/Sergiooo0/PIC-java-components) | 56 |
 | [PIC-python-components](https://github.com/Sergiooo0/PIC-python-components) | 44 |
 | [PIC-book-exercises](https://github.com/Sergiooo0/PIC-book-exercises) | 33 |
@@ -85,6 +85,7 @@
 | [NER_fine_tuning](https://github.com/Sergiooo0/NER_fine_tuning) | 20 |
 | [SIEX-CLIPS](https://github.com/Sergiooo0/SIEX-CLIPS) | 18 |
 | [RedesWeb](https://github.com/Sergiooo0/RedesWeb) | 16 |
+| [polyp-detection-meta-analysis](https://github.com/Sergiooo0/polyp-detection-meta-analysis) | 15 |
 | [SantiagoRR2004/PLN](https://github.com/SantiagoRR2004/PLN) | 13 |
 | [SantiagoRR2004/AdaByron](https://github.com/SantiagoRR2004/AdaByron) | 10 |
 | [FoafPerfil](https://github.com/Sergiooo0/FoafPerfil) | 5 |
@@ -95,7 +96,7 @@
 | [pyslam](https://github.com/Sergiooo0/pyslam) | 1 |
 | [ultralytics](https://github.com/Sergiooo0/ultralytics) | 0 |
 | [microsoft/vscode](https://github.com/microsoft/vscode) | 0 |
-| Total | 482 |
+| Total | 498 |
 
 ## Collaborators
 
