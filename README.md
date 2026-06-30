@@ -16,7 +16,7 @@
 
 | <img width="1000"><br><p align="center">Language | <img width="1000" height="1"><br><p align="center">Bytes | <img width="1000" height="1"><br><p align="center">Percentage |
 |:----------|:----------:|----------:|
-| [TypeScript](https://github.com/search?q=user:Sergiooo0+language:TypeScript) | 126.6 MB | 88.35% |
+| [TypeScript](https://github.com/search?q=user:Sergiooo0+language:TypeScript) | 126.7 MB | 88.35% |
 | [Python](https://github.com/search?q=user:Sergiooo0+language:Python) | 8.6 MB | 5.98% |
 | [CSS](https://github.com/search?q=user:Sergiooo0+language:CSS) | 2.0 MB | 1.41% |
 | [C++](https://github.com/search?q=user:Sergiooo0+language:C++) | 1.7 MB | 1.21% |
@@ -27,11 +27,11 @@
 | [Java](https://github.com/search?q=user:Sergiooo0+language:Java) | 378.0 kB | 0.26% |
 | [Inno Setup](https://github.com/search?q=user:Sergiooo0+language:Inno Setup) | 327.4 kB | 0.22% |
 | [Shell](https://github.com/search?q=user:Sergiooo0+language:Shell) | 269.6 kB | 0.18% |
-| [Scilab](https://github.com/search?q=user:Sergiooo0+language:Scilab) | 198.1 kB | 0.14% |
+| [Scilab](https://github.com/search?q=user:Sergiooo0+language:Scilab) | 198.1 kB | 0.13% |
 | [PowerShell](https://github.com/search?q=user:Sergiooo0+language:PowerShell) | 55.1 kB | 0.04% |
 | [TeX](https://github.com/search?q=user:Sergiooo0+language:TeX) | 44.5 kB | 0.03% |
 | [CLIPS](https://github.com/search?q=user:Sergiooo0+language:CLIPS) | 37.4 kB | 0.03% |
-| [Batchfile](https://github.com/search?q=user:Sergiooo0+language:Batchfile) | 30.6 kB | 0.02% |
+| [Batchfile](https://github.com/search?q=user:Sergiooo0+language:Batchfile) | 31.2 kB | 0.02% |
 | [Turtle](https://github.com/search?q=user:Sergiooo0+language:Turtle) | 17.8 kB | 0.01% |
 | [CMake](https://github.com/search?q=user:Sergiooo0+language:CMake) | 15.1 kB | 0.01% |
 | [Tree-sitter Query](https://github.com/search?q=user:Sergiooo0+language:Tree-sitter Query) | 13.9 kB | 0.01% |
@@ -68,13 +68,13 @@
 | [HLSL](https://github.com/search?q=user:Sergiooo0+language:HLSL) | 184.0 B | 0.00% |
 | [Procfile](https://github.com/search?q=user:Sergiooo0+language:Procfile) | 22.0 B | 0.00% |
 | [Hack](https://github.com/search?q=user:Sergiooo0+language:Hack) | 16.0 B | 0.00% |
-| Total | 143.3 MB | 100.00% |
+| Total | 143.4 MB | 100.00% |
 
 ## Repositories
 
 | <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
 |:----------|----------:|
-| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 156 |
+| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 157 |
 | [PIC-java-components](https://github.com/Sergiooo0/PIC-java-components) | 56 |
 | [PIC-python-components](https://github.com/Sergiooo0/PIC-python-components) | 44 |
 | [PIC-book-exercises](https://github.com/Sergiooo0/PIC-book-exercises) | 33 |
@@ -96,7 +96,7 @@
 | [pyslam](https://github.com/Sergiooo0/pyslam) | 1 |
 | [ultralytics](https://github.com/Sergiooo0/ultralytics) | 0 |
 | [microsoft/vscode](https://github.com/microsoft/vscode) | 0 |
-| Total | 504 |
+| Total | 505 |
 
 ## Collaborators
 
