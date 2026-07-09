@@ -16,13 +16,13 @@
 
 | <img width="1000"><br><p align="center">Language | <img width="1000" height="1"><br><p align="center">Bytes | <img width="1000" height="1"><br><p align="center">Percentage |
 |:----------|:----------:|----------:|
-| [TypeScript](https://github.com/search?q=user:Sergiooo0+language:TypeScript) | 129.4 MB | 88.51% |
-| [Python](https://github.com/search?q=user:Sergiooo0+language:Python) | 8.6 MB | 5.86% |
-| [CSS](https://github.com/search?q=user:Sergiooo0+language:CSS) | 2.1 MB | 1.45% |
+| [TypeScript](https://github.com/search?q=user:Sergiooo0+language:TypeScript) | 130.0 MB | 88.54% |
+| [Python](https://github.com/search?q=user:Sergiooo0+language:Python) | 8.6 MB | 5.84% |
+| [CSS](https://github.com/search?q=user:Sergiooo0+language:CSS) | 2.1 MB | 1.46% |
 | [C++](https://github.com/search?q=user:Sergiooo0+language:C++) | 1.7 MB | 1.19% |
-| [JavaScript](https://github.com/search?q=user:Sergiooo0+language:JavaScript) | 998.5 kB | 0.67% |
+| [JavaScript](https://github.com/search?q=user:Sergiooo0+language:JavaScript) | 998.5 kB | 0.66% |
 | [HTML](https://github.com/search?q=user:Sergiooo0+language:HTML) | 707.8 kB | 0.47% |
-| [Jupyter Notebook](https://github.com/search?q=user:Sergiooo0+language:Jupyter Notebook) | 668.5 kB | 0.45% |
+| [Jupyter Notebook](https://github.com/search?q=user:Sergiooo0+language:Jupyter Notebook) | 668.5 kB | 0.44% |
 | [Rust](https://github.com/search?q=user:Sergiooo0+language:Rust) | 646.4 kB | 0.43% |
 | [Java](https://github.com/search?q=user:Sergiooo0+language:Java) | 378.0 kB | 0.25% |
 | [Inno Setup](https://github.com/search?q=user:Sergiooo0+language:Inno Setup) | 327.4 kB | 0.22% |
@@ -68,13 +68,13 @@
 | [HLSL](https://github.com/search?q=user:Sergiooo0+language:HLSL) | 184.0 B | 0.00% |
 | [Procfile](https://github.com/search?q=user:Sergiooo0+language:Procfile) | 22.0 B | 0.00% |
 | [Hack](https://github.com/search?q=user:Sergiooo0+language:Hack) | 16.0 B | 0.00% |
-| Total | 146.2 MB | 100.00% |
+| Total | 146.8 MB | 100.00% |
 
 ## Repositories
 
 | <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
 |:----------|----------:|
-| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 165 |
+| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 166 |
 | [PIC-java-components](https://github.com/Sergiooo0/PIC-java-components) | 56 |
 | [PIC-python-components](https://github.com/Sergiooo0/PIC-python-components) | 44 |
 | [PIC-book-exercises](https://github.com/Sergiooo0/PIC-book-exercises) | 33 |
@@ -96,7 +96,7 @@
 | [pyslam](https://github.com/Sergiooo0/pyslam) | 1 |
 | [ultralytics](https://github.com/Sergiooo0/ultralytics) | 0 |
 | [microsoft/vscode](https://github.com/microsoft/vscode) | 0 |
-| Total | 513 |
+| Total | 514 |
 
 ## Collaborators
 
