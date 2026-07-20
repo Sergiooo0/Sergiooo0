@@ -6,8 +6,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 261,
-    "userCommits": 176,
+    "commits": 262,
+    "userCommits": 177,
     "languages": {
       "Python": 20481
     },
@@ -741,17 +741,17 @@
     }
   },
   "https://github.com/microsoft/vscode": {
-    "stars": 187652,
-    "forks": 41286,
-    "issues": 248573,
+    "stars": 187702,
+    "forks": 41303,
+    "issues": 248615,
     "userIssues": 1,
-    "pullRequests": 61765,
+    "pullRequests": 61775,
     "userPullRequests": 0,
-    "commits": 161389,
+    "commits": 161397,
     "userCommits": 0,
     "languages": {
-      "TypeScript": 139425480,
-      "CSS": 2308552,
+      "TypeScript": 139478536,
+      "CSS": 2307691,
       "JavaScript": 1022483,
       "HTML": 713252,
       "Rust": 661938,
