@@ -28,7 +28,7 @@
 | [Inno Setup](https://github.com/search?q=user:Sergiooo0+language:Inno Setup) | 326.6 kB | 0.21% |
 | [Shell](https://github.com/search?q=user:Sergiooo0+language:Shell) | 278.1 kB | 0.17% |
 | [Scilab](https://github.com/search?q=user:Sergiooo0+language:Scilab) | 198.1 kB | 0.12% |
-| [CSV](https://github.com/search?q=user:Sergiooo0+language:CSV) | 55.5 kB | 0.03% |
+| [CSV](https://github.com/search?q=user:Sergiooo0+language:CSV) | 56.2 kB | 0.04% |
 | [PowerShell](https://github.com/search?q=user:Sergiooo0+language:PowerShell) | 55.1 kB | 0.03% |
 | [TeX](https://github.com/search?q=user:Sergiooo0+language:TeX) | 44.5 kB | 0.03% |
 | [CLIPS](https://github.com/search?q=user:Sergiooo0+language:CLIPS) | 37.4 kB | 0.02% |
@@ -76,7 +76,7 @@
 
 | <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
 |:----------|----------:|
-| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 189 |
+| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 190 |
 | [PIC-java-components](https://github.com/Sergiooo0/PIC-java-components) | 56 |
 | [PIC-python-components](https://github.com/Sergiooo0/PIC-python-components) | 44 |
 | [PIC-book-exercises](https://github.com/Sergiooo0/PIC-book-exercises) | 33 |
@@ -100,7 +100,7 @@
 | [pyslam](https://github.com/Sergiooo0/pyslam) | 1 |
 | [ultralytics](https://github.com/Sergiooo0/ultralytics) | 0 |
 | [microsoft/vscode](https://github.com/microsoft/vscode) | 0 |
-| Total | 585 |
+| Total | 586 |
 
 ## Collaborators
 
