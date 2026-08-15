@@ -16,24 +16,24 @@
 
 | <img width="1000"><br><p align="center">Language | <img width="1000" height="1"><br><p align="center">Bytes | <img width="1000" height="1"><br><p align="center">Percentage |
 |:----------|:----------:|----------:|
-| [TypeScript](https://github.com/search?q=user:Sergiooo0+language:TypeScript) | 143.7 MB | 89.04% |
-| [Python](https://github.com/search?q=user:Sergiooo0+language:Python) | 8.8 MB | 5.45% |
-| [CSS](https://github.com/search?q=user:Sergiooo0+language:CSS) | 2.4 MB | 1.50% |
-| [C++](https://github.com/search?q=user:Sergiooo0+language:C++) | 1.7 MB | 1.08% |
-| [JavaScript](https://github.com/search?q=user:Sergiooo0+language:JavaScript) | 1003.2 kB | 0.61% |
-| [Rust](https://github.com/search?q=user:Sergiooo0+language:Rust) | 887.8 kB | 0.54% |
-| [HTML](https://github.com/search?q=user:Sergiooo0+language:HTML) | 703.0 kB | 0.43% |
+| [TypeScript](https://github.com/search?q=user:Sergiooo0+language:TypeScript) | 144.6 MB | 89.09% |
+| [Python](https://github.com/search?q=user:Sergiooo0+language:Python) | 8.8 MB | 5.42% |
+| [CSS](https://github.com/search?q=user:Sergiooo0+language:CSS) | 2.4 MB | 1.51% |
+| [C++](https://github.com/search?q=user:Sergiooo0+language:C++) | 1.7 MB | 1.07% |
+| [JavaScript](https://github.com/search?q=user:Sergiooo0+language:JavaScript) | 1003.2 kB | 0.60% |
+| [Rust](https://github.com/search?q=user:Sergiooo0+language:Rust) | 887.8 kB | 0.53% |
+| [HTML](https://github.com/search?q=user:Sergiooo0+language:HTML) | 703.0 kB | 0.42% |
 | [Jupyter Notebook](https://github.com/search?q=user:Sergiooo0+language:Jupyter Notebook) | 668.5 kB | 0.40% |
 | [Java](https://github.com/search?q=user:Sergiooo0+language:Java) | 378.0 kB | 0.23% |
 | [Inno Setup](https://github.com/search?q=user:Sergiooo0+language:Inno Setup) | 328.3 kB | 0.20% |
-| [Shell](https://github.com/search?q=user:Sergiooo0+language:Shell) | 278.6 kB | 0.17% |
+| [Shell](https://github.com/search?q=user:Sergiooo0+language:Shell) | 278.9 kB | 0.17% |
 | [Scilab](https://github.com/search?q=user:Sergiooo0+language:Scilab) | 198.1 kB | 0.12% |
 | [PowerShell](https://github.com/search?q=user:Sergiooo0+language:PowerShell) | 73.3 kB | 0.04% |
-| [CSV](https://github.com/search?q=user:Sergiooo0+language:CSV) | 65.5 kB | 0.04% |
+| [CSV](https://github.com/search?q=user:Sergiooo0+language:CSV) | 66.2 kB | 0.04% |
 | [TeX](https://github.com/search?q=user:Sergiooo0+language:TeX) | 44.5 kB | 0.03% |
 | [CLIPS](https://github.com/search?q=user:Sergiooo0+language:CLIPS) | 37.4 kB | 0.02% |
 | [Batchfile](https://github.com/search?q=user:Sergiooo0+language:Batchfile) | 31.8 kB | 0.02% |
-| [JSON](https://github.com/search?q=user:Sergiooo0+language:JSON) | 29.9 kB | 0.02% |
+| [JSON](https://github.com/search?q=user:Sergiooo0+language:JSON) | 30.1 kB | 0.02% |
 | [Turtle](https://github.com/search?q=user:Sergiooo0+language:Turtle) | 17.8 kB | 0.01% |
 | [CMake](https://github.com/search?q=user:Sergiooo0+language:CMake) | 15.1 kB | 0.01% |
 | [Tree-sitter Query](https://github.com/search?q=user:Sergiooo0+language:Tree-sitter Query) | 13.9 kB | 0.01% |
@@ -70,13 +70,13 @@
 | [HLSL](https://github.com/search?q=user:Sergiooo0+language:HLSL) | 184.0 B | 0.00% |
 | [Procfile](https://github.com/search?q=user:Sergiooo0+language:Procfile) | 22.0 B | 0.00% |
 | [Hack](https://github.com/search?q=user:Sergiooo0+language:Hack) | 16.0 B | 0.00% |
-| Total | 161.3 MB | 100.00% |
+| Total | 162.3 MB | 100.00% |
 
 ## Repositories
 
 | <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
 |:----------|----------:|
-| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 202 |
+| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 203 |
 | [PIC-java-components](https://github.com/Sergiooo0/PIC-java-components) | 56 |
 | [PIC-python-components](https://github.com/Sergiooo0/PIC-python-components) | 44 |
 | [PIC-book-exercises](https://github.com/Sergiooo0/PIC-book-exercises) | 33 |
@@ -100,7 +100,7 @@
 | [pyslam](https://github.com/Sergiooo0/pyslam) | 1 |
 | [ultralytics](https://github.com/Sergiooo0/ultralytics) | 0 |
 | [microsoft/vscode](https://github.com/microsoft/vscode) | 0 |
-| Total | 598 |
+| Total | 599 |
 
 ## Collaborators
 
