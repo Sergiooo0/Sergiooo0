@@ -6,8 +6,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 291,
-    "userCommits": 206,
+    "commits": 292,
+    "userCommits": 207,
     "languages": {
       "Python": 20481
     },
@@ -198,12 +198,12 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 188,
+    "commits": 189,
     "userCommits": 16,
     "languages": {
       "Python": 76632,
-      "CSV": 70197,
-      "JSON": 31173
+      "CSV": 70986,
+      "JSON": 31452
     },
     "contributors": {
       "65916846": "actions-user",
@@ -781,17 +781,17 @@
     }
   },
   "https://github.com/microsoft/vscode": {
-    "stars": 188834,
-    "forks": 41696,
-    "issues": 251081,
+    "stars": 188910,
+    "forks": 41710,
+    "issues": 251164,
     "userIssues": 1,
-    "pullRequests": 63994,
+    "pullRequests": 64092,
     "userPullRequests": 0,
-    "commits": 163467,
+    "commits": 163544,
     "userCommits": 0,
     "languages": {
-      "TypeScript": 152523522,
-      "CSS": 2563538,
+      "TypeScript": 152393551,
+      "CSS": 2541838,
       "JavaScript": 1021079,
       "Rust": 909544,
       "HTML": 707535,
@@ -901,8 +901,8 @@
       "122617954": "vs-code-engineering[bot]",
       "41652029": "vijayupadya",
       "39117631": "Giuspepe",
-      "60238438": "cwebster-99",
       "26030610": "eleanorjboyd",
+      "60238438": "cwebster-99",
       "39639992": "hawkticehurst",
       "13241824": "Lixire",
       "4691428": "benvillalobos",
