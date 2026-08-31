@@ -16,9 +16,9 @@
 
 | <img width="1000"><br><p align="center">Language | <img width="1000" height="1"><br><p align="center">Bytes | <img width="1000" height="1"><br><p align="center">Percentage |
 |:----------|:----------:|----------:|
-| [TypeScript](https://github.com/search?q=user:Sergiooo0+language:TypeScript) | 151.2 MB | 89.50% |
-| [Python](https://github.com/search?q=user:Sergiooo0+language:Python) | 8.8 MB | 5.20% |
-| [CSS](https://github.com/search?q=user:Sergiooo0+language:CSS) | 2.5 MB | 1.51% |
+| [TypeScript](https://github.com/search?q=user:Sergiooo0+language:TypeScript) | 151.4 MB | 89.50% |
+| [Python](https://github.com/search?q=user:Sergiooo0+language:Python) | 8.8 MB | 5.19% |
+| [CSS](https://github.com/search?q=user:Sergiooo0+language:CSS) | 2.6 MB | 1.51% |
 | [C++](https://github.com/search?q=user:Sergiooo0+language:C++) | 1.7 MB | 1.03% |
 | [JavaScript](https://github.com/search?q=user:Sergiooo0+language:JavaScript) | 1007.7 kB | 0.58% |
 | [Rust](https://github.com/search?q=user:Sergiooo0+language:Rust) | 892.3 kB | 0.52% |
@@ -69,13 +69,13 @@
 | [JSON](https://github.com/search?q=user:Sergiooo0+language:JSON) | 143.0 B | 0.00% |
 | [Procfile](https://github.com/search?q=user:Sergiooo0+language:Procfile) | 22.0 B | 0.00% |
 | [Hack](https://github.com/search?q=user:Sergiooo0+language:Hack) | 16.0 B | 0.00% |
-| Total | 168.9 MB | 100.00% |
+| Total | 169.2 MB | 100.00% |
 
 ## Repositories
 
 | <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
 |:----------|----------:|
-| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 218 |
+| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 219 |
 | [PIC-java-components](https://github.com/Sergiooo0/PIC-java-components) | 56 |
 | [PIC-python-components](https://github.com/Sergiooo0/PIC-python-components) | 44 |
 | [PIC-book-exercises](https://github.com/Sergiooo0/PIC-book-exercises) | 33 |
@@ -99,7 +99,7 @@
 | [pyslam](https://github.com/Sergiooo0/pyslam) | 1 |
 | [ultralytics](https://github.com/Sergiooo0/ultralytics) | 0 |
 | [microsoft/vscode](https://github.com/microsoft/vscode) | 0 |
-| Total | 614 |
+| Total | 615 |
 
 ## Collaborators
 
