@@ -26,12 +26,12 @@
 | [Jupyter Notebook](https://github.com/search?q=user:Sergiooo0+language:Jupyter Notebook) | 667.6 kB | 0.36% |
 | [Java](https://github.com/search?q=user:Sergiooo0+language:Java) | 378.0 kB | 0.20% |
 | [Inno Setup](https://github.com/search?q=user:Sergiooo0+language:Inno Setup) | 328.3 kB | 0.18% |
-| [Shell](https://github.com/search?q=user:Sergiooo0+language:Shell) | 287.7 kB | 0.16% |
+| [Shell](https://github.com/search?q=user:Sergiooo0+language:Shell) | 287.9 kB | 0.16% |
 | [Scilab](https://github.com/search?q=user:Sergiooo0+language:Scilab) | 198.1 kB | 0.11% |
 | [PowerShell](https://github.com/search?q=user:Sergiooo0+language:PowerShell) | 83.3 kB | 0.05% |
 | [TeX](https://github.com/search?q=user:Sergiooo0+language:TeX) | 44.5 kB | 0.02% |
 | [CLIPS](https://github.com/search?q=user:Sergiooo0+language:CLIPS) | 37.4 kB | 0.02% |
-| [Batchfile](https://github.com/search?q=user:Sergiooo0+language:Batchfile) | 32.7 kB | 0.02% |
+| [Batchfile](https://github.com/search?q=user:Sergiooo0+language:Batchfile) | 32.9 kB | 0.02% |
 | [Turtle](https://github.com/search?q=user:Sergiooo0+language:Turtle) | 17.8 kB | 0.01% |
 | [CMake](https://github.com/search?q=user:Sergiooo0+language:CMake) | 15.1 kB | 0.01% |
 | [Tree-sitter Query](https://github.com/search?q=user:Sergiooo0+language:Tree-sitter Query) | 13.9 kB | 0.01% |
@@ -75,7 +75,7 @@
 
 | <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
 |:----------|----------:|
-| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 238 |
+| [Sergiooo0](https://github.com/Sergiooo0/Sergiooo0) | 239 |
 | [PIC-java-components](https://github.com/Sergiooo0/PIC-java-components) | 56 |
 | [PIC-python-components](https://github.com/Sergiooo0/PIC-python-components) | 44 |
 | [PIC-book-exercises](https://github.com/Sergiooo0/PIC-book-exercises) | 33 |
@@ -99,7 +99,7 @@
 | [pyslam](https://github.com/Sergiooo0/pyslam) | 1 |
 | [ultralytics](https://github.com/Sergiooo0/ultralytics) | 0 |
 | [microsoft/vscode](https://github.com/microsoft/vscode) | 0 |
-| Total | 634 |
+| Total | 635 |
 
 ## Collaborators
 
